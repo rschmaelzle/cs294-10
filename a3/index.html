@@ -1,0 +1,32 @@
+<!doctype html public>
+<!--[if lt IE 7]> <html lang="en-us" class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>    <html lang="en-us" class="lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>    <html lang="en-us" class="lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-us"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+
+  <title>Reorderable matrix rows</title>
+
+  <meta name="viewport" content="width=device-width">
+</head>
+<body>
+
+    <div class="vis"></div>
+    
+    <script src="js/d3.v3.min.js"></script>
+    <script src="js/underscore-min.js"></script>
+    <script src="js/jquery-1.10.2.min.js"></script>
+    <script src="js/remat.js"></script>
+
+    <script>
+
+$(function() {
+    var remat = new ReorderableMatrix($(".vis")[0]);
+    remat.load("data/hotel.csv")
+})
+
+    </script>
+
+</body>
+</html>

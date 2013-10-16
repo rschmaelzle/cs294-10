@@ -1,0 +1,3 @@
+One particularly nice thing about the two Schneiderman papers that we read for today's class is that they are obvious ideas. I know the word obvious isn't very descriptive, but the ideas of dynamic query filters and time boxes *seem* like the kind of ideas that would arise naturally during the process of exploratory data analysis. I like that both of these techniques are essentially replacing handwritten database queries with simple and interactive user interfaces. In that sense, these papers remind me of Polaris.
+
+On a philosophical level, the "interactive" part of interactive visualization is all about converting abstract database queries into user interfaces.

@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Bill Clements",
+        "start": "1/16/1979",
+        "end": "1/17/1983",
+        "party": "Republican"
+    },
+    {
+        "name": "Mark White",
+        "start": "1/18/1983",
+        "end": "1/19/1987",
+        "party": "Democrat"
+    },
+    {
+        "name": "Bill Clements",
+        "start": "1/20/1987",
+        "end": "1/14/1991",
+        "party": "Republican"
+    },
+    {
+        "name": "Ann Richards",
+        "start": "1/15/1991",
+        "end": "1/16/1995",
+        "party": "Democrat"
+    },
+    {
+        "name": "George W. Bush",
+        "start": "1/17/1995",
+        "end": "12/20/2000",
+        "party": "Republican"
+    },
+    {
+        "name": "Rick Perry",
+        "start": "12/21/2000",
+        "end": "9/1/2013",
+        "party": "Republican"
+    }
+]

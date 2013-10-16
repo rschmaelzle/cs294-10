@@ -1,0 +1,1344 @@
+Date,Name,Age,Sex,Race,Number / Race / Sex of Victims,State,County,Region,Method,Juvenile,Federal,Volunteer,Foreign National
+01/10/1986,James Roach,25,m,White,1 White Male(s)1 White Female(s),SC,Richland,S,Electrocution,Yes,No,No,No
+01/11/1985,Joseph Shaw,29,m,White,1 White Male(s)1 White Female(s),SC,Richland,S,Electrocution,No,No,No,No
+01/08/1997,Paul Ruiz,49,m,Latino,2 White Male(s),AR,Logan,S,Lethal Injection,No,No,No,No
+01/08/1997,Earl Van Denton,47,m,White,2 White Male(s),AR,Nevada,S,Lethal Injection,No,No,No,No
+01/06/1994,Keith Wells,31,m,White,1 White Male(s)1 White Female(s),ID,Ada,W,Lethal Injection,No,No,Yes,No
+01/10/2000,Douglas Thomas,26,m,White,2 White Male(s),VA,Middlesex,S,Lethal Injection,Yes,No,No,No
+01/12/2000,Earl Heiselbertz,48,m,White,2 White Female(s),TX,Sabine,S,Lethal Injection,No,No,No,No
+01/05/1993,Westley Dodd,31,m,White,3 White Male(s),WA,Clark,W,Hanging,No,No,Yes,No
+01/04/1985,David Martin,32,m,White,2 White Male(s)2 White Female(s),LA,Lafourche,S,Electrocution,No,No,No,No
+01/09/2002,James Johnson,52,m,White,2 White Male(s)2 White Female(s),MO,Moniteau,M,Lethal Injection,No,No,No,No
+01/08/1999,Ronnie Howard,40,m,Black,1 Asian Male(s),SC,Greenville,S,Lethal Injection,No,No,No,No
+01/09/2001,Eddie Trice,48,m,Black,1 Black Male(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+01/11/2001,Wanda Allen,41,f,Black,1 Black Male(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+01/09/2001,Jack Clark,37,m,White,1 Latino Female(s),TX,Lubbock,S,Lethal Injection,No,No,No,No
+01/09/1985,Roosevelt Green,28,m,Black,1 White Female(s),GA,Brooks,S,Electrocution,No,No,No,No
+01/07/1988,Robert Streetman,27,m,White,1 White Female(s),TX,Hardin,S,Lethal Injection,No,No,No,No
+01/06/1989,George Mercer,44,m,White,1 White Female(s),MO,Cass,M,Lethal Injection,No,No,No,No
+01/04/1995,Jesse Jacobs,44,m,White,1 White Female(s),TX,Montgomery,S,Lethal Injection,No,No,No,No
+01/04/1996,Walter Correll,34,m,White,1 White Male(s),VA,Franklin,S,Lethal Injection,No,No,No,No
+01/08/1997,Kirt Wainwright,30,m,Black,1 White Female(s),AR,Logan,S,Lethal Injection,No,No,No,No
+01/10/1997,Billy Waldrop,44,m,White,1 White Male(s),AL,Jefferson,S,Electrocution,No,No,No,No
+01/05/1999,John Moody,46,m,White,1 White Female(s),TX,Taylor,S,Lethal Injection,No,No,No,No
+01/07/1999,John Castro,37,m,Native American,1 White Female(s),OK,Kay,S,Lethal Injection,No,No,No,No
+01/08/1999,Dobie Williams,38,m,Black,1 White Female(s),LA,Sabine Parish,S,Lethal Injection,No,No,No,No
+01/06/2000,Malcolm Johnson,41,m,Black,1 White Female(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+01/07/2000,David Duren,37,m,White,1 White Female(s),AL,Jefferson,S,Electrocution,No,No,No,No
+01/11/2001,Robert Glock,39,m,White,1 White Female(s),FL,Manatee,S,Lethal Injection,No,No,No,No
+01/09/2002,Michael Moore,38,m,White,1 White Female(s),TX,Coryell,S,Lethal Injection,No,No,No,No
+02/09/1999,Jaturun Siripongs,43,m,Asian,1 Asian Male(s)1 Asian Female(s),CA,Orange,W,Lethal Injection,No,No,No,Yes
+02/09/1998,Steven Renfro,40,m,White,1 White Male(s)2 White Female(s),TX,Harrison,S,Lethal Injection,No,No,Yes,No
+02/04/1999,Sean Sellers,29,m,White,2 White Male(s)1 White Female(s),OK,Oklahoma,S,Lethal Injection,Yes,No,No,No
+02/02/1994,Harold Barnard,51,m,White,1 Asian Male(s),TX,Galveston,S,Lethal Injection,No,No,No,No
+02/10/2000,Michael Roberts,41,m,Black,1 Black Female(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+02/06/2002,Michael Owsley,40,m,Black,1 Black Male(s),MO,Jackson,M,Lethal Injection,No,No,No,No
+02/07/1995,Jeffrey Motley,29,m,White,1 Latino Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+02/10/1999,George Cordova,39,m,Latino,1 Latino Male(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+02/08/2001,Adolph Hernandez,50,m,Latino,1 Latino Female(s),TX,Lubbock,S,Lethal Injection,No,No,No,No
+02/04/2003,John Elliott,42,m,Latino,1 Latino Female(s),TX,Travis,S,Lethal Injection,No,No,No,Yes
+02/06/2003,Henry Dunn,28,m,Black,1 Latino Male(s),TX,Smith,S,Lethal Injection,No,No,No,No
+02/11/1992,Johnny Garrett,28,m,White,1 White Female(s),TX,Potter,S,Lethal Injection,Yes,No,No,No
+02/09/1996,Leo Jenkins,38,m,White,1 White Male(s)1 White Female(s),TX,Harris,S,Lethal Injection,No,No,Yes,No
+02/06/1997,Michael George,39,m,White,1 White Male(s),VA,Prince William,S,Lethal Injection,No,No,No,No
+02/10/1997,Richard Brimage,41,m,White,1 White Female(s),TX,Kleberg,S,Lethal Injection,No,No,Yes,No
+02/03/1998,Karla Tucker,38,f,White,1 White Male(s)1 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+02/10/1998,Tony Mackall,33,m,Black,1 White Female(s),VA,Prince William,S,Lethal Injection,No,No,No,No
+02/03/1999,Darrick Gerlaugh,38,m,Native American,1 White Male(s),AZ,Maricopa,W,Lethal Injection,No,No,No,No
+02/04/1999,Tony Fry,23,m,White,1 White Male(s),VA,Chesterfield,S,Lethal Injection,No,No,No,No
+02/11/1999,Danny Barber,43,m,White,1 White Female(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+02/01/2001,D.L. Jones,61,m,White,1 White Male(s),OK,Comanche,S,Lethal Injection,No,No,No,No
+02/07/2001,Stanley Lingar,37,m,White,1 White Male(s),MO,St. Francois,M,Lethal Injection,No,No,No,No
+02/05/2003,Kenneth Kenley,42,m,White,1 White Male(s),MO,Butler,M,Lethal Injection,No,No,No,No
+02/12/2003,Richard Fox,47,m,White,1 White Female(s),OH,Wood,M,Lethal Injection,No,No,No,No
+03/03/1999,Walter LaGrand,37,m,White,1 White Male(s),AZ,Pima,W,Gas Chamber,No,No,No,Yes
+03/07/2002,Gerald Tigner,29,m,Black,2 Black Male(s),TX,McLennan,S,Lethal Injection,No,No,No,No
+03/03/2000,Freddie Wright,48,m,Black,1 White Male(s)1 White Female(s),AL,Mobile,S,Electrocution,No,No,No,No
+03/09/1981,Steven Judy,24,m,White,2 White Male(s)2 White Female(s),IN,Marion,M,Electrocution,No,No,Yes,No
+03/10/1992,Robyn Parks,37,m,Black,1 Asian Male(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+03/06/1998,John Arnold,43,m,White,1 Black Female(s),SC,Beaufort,S,Lethal Injection,No,No,No,No
+03/01/2000,Odell Barnes,31,m,Black,1 Black Female(s),TX,Lubbock,S,Lethal Injection,No,No,No,No
+03/09/2001,Willie Fisher,39,m,Black,1 Black Female(s),NC,Forsyth,S,Lethal Injection,No,No,No,No
+03/06/1985,Johnny Witt,41,m,White,1 White Male(s),FL,Volusia,S,Electrocution,No,No,No,No
+03/12/1986,Charles Bass,29,m,White,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+03/04/1987,Elisio Moreno,27,m,Latino,1 White,TX,El Paso,S,Lethal Injection,No,No,Yes,No
+03/03/1992,Edward Ellis,38,m,White,1 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+03/03/1993,John Brewer,27,m,White,1 White Female(s),AZ,Coconino,W,Lethal Injection,No,No,Yes,No
+03/03/1993,James Red Dog,39,m,Native American,1 White Male(s),DE,New Castle,S,Lethal Injection,No,No,Yes,No
+03/05/1993,Robert Sawyer,41,m,White,1 White Female(s),LA,Jefferson Parish,S,Lethal Injection,No,No,No,No
+03/03/1994,Johnny Watkins,32,m,Black,1 White Female(s),VA,Danville City,S,Electrocution,No,No,No,No
+03/01/1996,Antonio James,42,m,Black,1 White Male(s),LA,Orleans Parish,S,Lethal Injection,No,No,No,No
+03/12/1997,John Barefield,32,m,Black,1 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+03/11/1998,Jerry Hogue,47,m,White,1 White Female(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+03/09/1999,George Quesinberry,37,m,White,1 White Male(s),VA,Chesterfield,S,Lethal Injection,No,No,No,No
+03/10/1999,Roy Roberts,46,m,White,1 White Male(s),MO,Marion,M,Lethal Injection,No,No,No,No
+03/01/2001,Thomas Akers,31,m,White,1 White Male(s),VA,Franklin,S,Lethal Injection,No,No,Yes,No
+03/01/2001,Robert Clayton,40,m,White,1 White Female(s),OK,Tulsa,S,Lethal Injection,No,No,No,No
+03/07/2001,Dennis Dowthitt,55,m,White,1 White Female(s),TX,Montgomery,S,Lethal Injection,No,No,No,No
+03/06/2002,Jeffrey Tokar,37,m,White,1 White Male(s),MO,Warren,M,Lethal Injection,No,No,No,No
+03/12/2002,Tracy Housel,43,m,White,1 White Male(s),GA,Gwinnet,S,Lethal Injection,No,No,No,No
+03/11/2003,Bobby Cook,41,m,White,1 White Male(s),TX,Anderson,S,Lethal Injection,No,No,No,No
+04/05/1984,Elmo Sonnier,35,m,White,1 White Male(s)1 White Female(s),LA,Iberia Parish,S,Electrocution,No,No,No,No
+04/06/1992,Donald Harding,43,m,White,2 White Male(s),AZ,Pima,W,Gas Chamber,No,No,No,No
+04/03/1997,David Spence,40,m,White,1 White Male(s)2 White Female(s),TX,McLennan,S,Lethal Injection,No,No,No,No
+04/05/1999,Alvaro Calambro,25,m,Asian,1 White Male(s)1 White Female(s),NV,Washoe,W,Lethal Injection,No,No,Yes,Yes
+04/03/2001,Jason Massey,27,m,White,1 White Male(s)1 White Female(s),TX,Ellis,S,Lethal Injection,No,No,No,No
+04/02/2002,Daniel Zirkle,33,m,White,2 White Female(s),VA,Page,S,Lethal Injection,No,No,Yes,No
+04/03/2003,Scott Hain,32,m,White,1 White Male(s)1 White Female(s),OK,Creek,S,Lethal Injection,Yes,No,No,No
+04/10/2002,Jose santellan,40,m,Latino,1 Latino Female(s),TX,Kerr,S,Lethal Injection,No,No,No,No
+04/05/1984,Arthur Goode,30,m,White,1 White Male(s),FL,Lee,S,Electrocution,No,No,No,No
+04/04/1994,Richard Beavers,38,m,White,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,Yes,No
+04/06/1995,Noble Mays,41,m,White,1 White Male(s),TX,Wilbarger,S,Lethal Injection,No,No,No,No
+04/07/1995,Nicholas Ingram,31,m,White,1 White Male(s),GA,Cobb,S,Electrocution,No,No,No,Yes
+04/10/1996,Doyle Williams,48,m,White,1 White Male(s),MO,Clay,M,Lethal Injection,No,No,No,No
+04/02/1997,David Herman,39,m,White,1 White Female(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+04/12/1999,Marion Pruett,49,m,White,1 White Female(s),AR,Crawford,S,Lethal Injection,No,No,No,No
+04/10/2002,Paul Kreutzer,30,m,White,1 White Female(s),MO,Callaway,M,Lethal Injection,No,No,No,No
+04/11/2002,Wlliam Burns,43,m,Black,1 White Male(s),TX,Bowie,S,Lethal Injection,No,No,No,No
+04/08/2003,Don Hawkins,43,m,White,1 White Female(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+04/09/2003,Earl Bramblett,61,m,White,1 White Male(s)3 White Female(s),VA,Roanoke,S,Electrocution,No,No,No,No
+05/10/1994,John Gacy,52,m,White,12 White Male(s),IL,Cook,M,Lethal Injection,No,No,No,No
+05/04/1990,Jesse Tafero,43,m,White,2 White Male(s),FL,Bradford,S,Electrocution,No,No,No,No
+05/02/2000,Christina Riggs,28,f,White,1 White Male(s)1 White Female(s),AR,Pulaski,S,Lethal Injection,No,No,Yes,No
+05/11/2000,Michael McBride,38,m,White,1 White Male(s)1 White Female(s),TX,Lubbock,S,Lethal Injection,No,No,No,No
+05/02/2003,Kevin Hough,43,m,White,2 White Male(s),IN,Allen,M,Lethal Injection,No,No,No,No
+05/02/1997,Walter Hill,62,m,Black,2 Black Male(s)1 Black Female(s),AL,Jefferson,S,Electrocution,No,No,No,No
+05/03/1996,Keith Williams,48,m,White,2 Latino Male(s)1 Latino Female(s),CA,Merced,W,Lethal Injection,No,No,No,No
+05/08/2001,Clay Smith,30,m,White,1 White Male(s)4 White Female(s),AR,Jefferson,S,Lethal Injection,No,No,Yes,No
+05/06/2003,Carl Isaacs,49,m,White,5 White Male(s)1 White Female(s),GA,Seminole,S,Lethal Injection,No,No,No,No
+05/03/1994,Paul Rougeau,46,m,Black,1 Black Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+05/11/1994,Edward Pickens,39,m,Black,1 Black Male(s),AR,Montgomery,S,Lethal Injection,No,No,No,No
+05/03/1995,Emmitt Foster,42,m,Black,1 Black Male(s),MO,St. Louis City,M,Lethal Injection,No,No,No,No
+05/12/1995,Varnell Weeks,43,m,Black,1 Black Male(s),AL,Macon County,S,Electrocution,No,No,No,No
+05/05/1999,Clydell Coleman,62,m,Black,1 Black Female(s),TX,McLennan,S,Lethal Injection,No,No,No,No
+05/03/2002,Richard Johnson,39,m,White,1 Black Male(s),SC,Jasper,S,Lethal Injection,No,No,No,No
+05/12/1993,Leonel Herrera,44,m,Latino,1 Latino Male(s),TX,Cameron,S,Lethal Injection,No,No,No,No
+05/04/1999,Jose De La Cruz,31,m,Latino,1 Latino Male(s),TX,Nueces,S,Lethal Injection,No,No,No,No
+05/10/1984,James Adams,47,m,Black,1 White Male(s),FL,St. Lucie,S,Electrocution,No,No,No,No
+05/04/1989,Aubrey Adams,31,m,White,1 White Female(s),FL,Marion,S,Electrocution,No,No,No,No
+05/11/1990,Winford Stokes,39,m,Black,1 White Female(s),MO,Washington,M,Lethal Injection,No,No,No,No
+05/07/1992,Justin May,46,m,White,1 White Female(s),TX,Brazoria,S,Lethal Injection,No,No,No,No
+05/07/1992,Stephen Hill,25,m,White,1 White Male(s),AR,Saline,S,Lethal Injection,No,No,No,No
+05/12/1992,Nollie Martin,43,m,White,1 White Female(s),FL,Palm Beach,S,Electrocution,No,No,No,No
+05/04/1993,Darryl Stewart,38,m,Black,1 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+05/05/1993,Larry Johnson,49,m,White,1 White Male(s),FL,Madison,S,Electrocution,No,No,No,No
+05/11/1994,Jonas Whitmore,50,m,White,1 White Female(s),AR,Arkansas,S,Lethal Injection,No,No,No,No
+05/02/1995,Keith Zettlemoyer,39,m,White,1 White Male(s),PA,Dauphin,N,Lethal Injection,No,No,Yes,No
+05/10/1995,Duncan McKenzie,43,m,White,1 White Female(s),MT,Pondera,W,Lethal Injection,No,No,No,No
+05/06/1997,Terry Washington,33,m,Black,1 White Female(s),TX,Walker,S,Lethal Injection,No,No,No,No
+05/08/1997,Scott Carpenter,22,m,Native American,1 White Male(s),OK,McIntosh,S,Lethal Injection,No,No,Yes,No
+05/08/1998,Steven Thompson,34,m,White,1 White Female(s),AL,Madison,S,Electrocution,No,No,No,No
+05/04/1999,Manuel Babbitt,50,m,Black,1 White Female(s),CA,Sacramento,W,Lethal Injection,No,No,No,No
+05/05/1999,Robert Vickers,41,m,White,1 White Male(s),AZ,Pinal,W,Lethal Injection,No,No,No,No
+05/04/2000,Tommy Jackson,43,m,Black,1 White Female(s),TX,Williamson,S,Lethal Injection,No,No,No,No
+05/09/2000,William Kitchens,37,m,White,1 White Female(s),TX,Taylor,S,Lethal Injection,No,No,No,No
+05/01/2001,Marilyn Plantz,40,f,White,1 White Male(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+05/09/2002,Reginald Reeves,28,m,Black,1 White Female(s),TX,Red River,S,Lethal Injection,No,No,No,No
+05/10/2002,Lynda Block,54,f,White,1 White Male(s),AL,Lee,S,Electrocution,No,No,Yes,No
+05/10/2002,Lesile Martin,35,m,White,1 White Female(s),LA,Calcasieu Parish,S,Lethal Injection,No,No,No,No
+05/06/2003,Roger Vaughn,47,m,White,1 White Female(s),TX,Wilbarger,S,Lethal Injection,No,No,No,No
+06/12/1987,Jimmy Glass,25,m,White,1 White Male(s)1 White Female(s),LA,Lafayette Parish,S,Electrocution,No,No,No,No
+06/11/2001,Timothy McVeigh*,33,m,White,129 White 2 Native American 5 Latino 32 Black,FE,Oklahoma,S,Lethal Injection,No,Yes,Yes,No
+06/11/1997,Earl Behringer,33,m,White,1 White Male(s)1 White Female(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+06/09/1998,David Cargill,39,m,White,1 White Male(s)1 White Female(s),GA,Bibb,S,Electrocution,No,No,No,No
+06/02/2000,Pernell Ford,35,m,Black,2 White Female(s),AL,Calhoun,S,Electrocution,No,No,Yes,No
+06/12/2000,Wayne Mason,48,m,White,2 White Female(s),TX,Smith,S,Lethal Injection,No,No,No,No
+06/10/1988,Arthur Bishop,37,m,White,5 White Male(s),UT,Salt Lake,W,Lethal Injection,No,No,Yes,No
+06/06/1997,Henry Hays,42,m,White,1 Black Male(s),AL,Mobile,S,Electrocution,No,No,No,No
+06/07/2000,Bennie Demps,49,m,Black,1 Black Male(s),FL,Bradford,S,Lethal Injection,No,No,No,No
+06/05/2003,Kenneth Charm,37,m,Black,1 Black,OK,Comanche,S,Lethal Injection,No,No,No,No
+06/04/1997,Davis Losada,32,m,Latino,1 Latino Female(s),TX,Cameron,S,Lethal Injection,No,No,No,No
+06/03/1999,Scotty Moore,43,m,White,1 Latino Male(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+06/09/1986,Rudy Esquivel,50,m,Latino,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+06/07/1987,Benjamin Berry,31,m,White,1 White Male(s),LA,Jefferson Parish,S,Electrocution,No,No,No,No
+06/09/1987,Alvin Moore,27,m,Black,1 White Female(s),LA,Bossier Parish,S,Electrocution,No,No,No,No
+06/03/1990,Thomas Baal,26,m,White,1 White Female(s),NV,Clark,W,Lethal Injection,No,No,Yes,No
+06/01/1995,Fletcher Mann,34,m,White,1 White Male(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+06/08/1995,Ronald Allridge,34,m,Black,1 White Female(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+06/02/1997,Patrick Rogers,33,m,Black,1 White Male(s),TX,Collin,S,Lethal Injection,No,No,No,No
+06/03/1997,Kenneth Harris,34,m,Black,1 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+06/04/1997,Dorsie Johnson,30,m,Black,1 White Male(s),TX,Scurry,S,Lethal Injection,No,No,No,No
+06/03/1998,Douglas Gretzler,47,m,White,1 White Male(s)1 White Female(s),AZ,Pima,W,Lethal Injection,No,No,No,No
+06/11/1998,Clifford Boggess,33,m,White,1 White Male(s),TX,Clay,S,Lethal Injection,No,No,No,No
+06/01/1999,William Little,38,m,White,1 White Female(s),TX,Liberty,S,Lethal Injection,No,No,No,No
+06/01/2000,James Robedeaux,51,m,Native American,1 White Female(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+06/06/2000,Feltus Taylor,38,m,Black,1 White Female(s),LA,East Baton Rouge Parish,S,Lethal Injection,No,No,No,No
+06/08/2000,Roger Berget,39,m,White,1 White Male(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+06/12/2002,Walter Mickens,47,m,Black,1 White Male(s),VA,Newport News City,S,Lethal Injection,No,No,No,No
+06/11/2003,Kia Johnson,38,m,Black,1 White Male(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+07/01/1993,Curtis Harris,31,m,Black,1 White Male(s),TX,Brazos,S,Lethal Injection,Yes,No,No,No
+07/06/1999,Gary Heidnick,55,m,White,2 Black Female(s),PA,Philadelphia,N,Lethal Injection,No,No,Yes,No
+07/12/2000,Orien Joiner,50,m,White,2 White Female(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+07/09/2003,Riley Noel,31,m,Black,3 Black Male(s),AR,Pulaski,S,Lethal Injection,No,No,No,No
+07/08/1999,Allen Davis,54,m,White,3 White Female(s),FL,St. Johns,S,Electrocution,No,No,No,No
+07/01/1995,Roger Stafford,43,m,White,1 White Female(s)1 Latino Male(s)1 Black Male(s)3 White Male(s),OK,McClain,S,Lethal Injection,No,No,No,No
+07/08/1987,Connie Evans,27,m,Black,1 Asian Male(s),MS,Hinds,S,Gas Chamber,No,No,No,No
+07/06/2000,Michael Clagett,39,m,White,1 White Male(s)1 White Female(s)2 Asian Male(s),VA,Virginia Beach City,S,Electrocution,No,No,No,No
+07/10/1998,John Plath,43,m,White,1 Black Female(s),SC,Beaufort,S,Lethal Injection,No,No,No,No
+07/08/1999,Norman Newsted,45,m,White,1 Black Male(s),OK,Osage,S,Lethal Injection,No,No,No,No
+07/09/2003,Christopher Black,43,m,Black,1 Black Female(s),TX,Bell,S,Lethal Injection,No,No,No,No
+07/12/1984,Ivon Stanley,28,m,Black,1 White Male(s),GA,Decatur,S,Electrocution,No,No,No,No
+07/09/1985,Henry Porter,43,m,Latino,1 White Male(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+07/06/1987,Richard Whitley,41,m,White,1 White Female(s),VA,Fairfax City,S,Electrocution,No,No,No,No
+07/08/1987,John Thompson,32,m,White,1 White Female(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+07/01/1997,Harold McQueen,44,m,White,1 White Female(s),KY,Madison,S,Electrocution,No,No,No,No
+07/02/1997,Flint Hunt,38,m,Black,1 White Male(s),MD,Baltimore,S,Lethal Injection,No,No,No,No
+07/08/1998,Wilburn Henderson,56,m,White,1 White Female(s),AR,Sebastian,S,Lethal Injection,No,No,No,No
+07/01/1999,Charles Tuttle,35,m,White,1 White Female(s),TX,Smith,S,Lethal Injection,No,No,Yes,No
+07/07/1999,Tyrone Fuller,35,m,Black,1 White Female(s),TX,Grayson,S,Lethal Injection,No,No,No,No
+07/11/2001,Jerome Mallet,42,m,Black,1 White Male(s),MO,Perry,M,Lethal Injection,No,No,No,No
+07/11/2001,James Wilkens,39,m,White,1 White Male(s),TX,Smith,S,Lethal Injection,No,No,No,No
+07/01/2003,Lewis Gilbert,31,m,White,1 White Female(s),OK,Cleveland,S,Lethal Injection,No,No,No,No
+07/02/2003,Hilton Crawford,64,m,White,1 White Male(s),TX,Montgomery,S,Lethal Injection,No,No,No,No
+07/08/2003,Robert Duckett,39,m,White,1 White Male(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+08/03/1994,James Holmes,37,m,White,1 White Male(s),AR,Benton,S,Lethal Injection,No,No,No,No
+08/03/1994,Darryl Richley,43,m,White,1 White Male(s),AR,Benton,S,Lethal Injection,No,No,No,No
+08/03/1994,Hoyt Clines,37,m,White,1 White Male(s),AR,Benton,S,Lethal Injection,No,No,No,No
+08/08/1996,William Parker,41,m,White,1 White Male(s)1 White Female(s),AR,Lincoln,S,Lethal Injection,No,No,No,No
+08/09/1996,Stephen Hatch,42,m,White,1 White Male(s)1 White Female(s),OK,Canadian,S,Lethal Injection,No,No,No,No
+08/06/1997,Eugene Perry,53,m,White,1 White Male(s)1 White Female(s),AR,Van Buren,S,Lethal Injection,No,No,No,No
+08/10/2000,George Wallace,59,m,White,2 White Male(s),OK,Le Flore,S,Lethal Injection,No,No,No,No
+08/07/2003,Tommy Fortenberry,39,m,White,3 White Male(s)1 White Female(s),AL,Etowah,S,Lethal Injection,No,No,No,No
+08/07/1996,Thomas Battle,34,m,Black,1 Black Female(s),MO,St. Louis City,M,Lethal Injection,No,No,No,No
+08/10/1982,Frank Coppola,38,m,White,1 White Male(s),VA,Newport News City,S,Electrocution,No,No,Yes,No
+08/11/1992,Curtis Johnson,38,m,Black,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+08/05/1993,Joseph Jernigan,39,m,White,1 White Male(s),TX,Navarro,S,Lethal Injection,No,No,No,No
+08/12/1993,David Holland,58,m,White,1 White Female(s),TX,Jefferson,S,Lethal Injection,No,No,No,No
+08/02/1994,Robert Drew,35,m,White,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+08/11/1995,Robert Brecheen,40,m,White,1 White Female(s),OK,Carter,S,Lethal Injection,No,No,No,No
+08/06/1997,Ralph Feltrop,42,m,White,1 White Female(s),MO,Jefferson,M,Lethal Injection,No,No,No,No
+08/05/1998,Stephen Wood,38,m,White,1 White Male(s),OK,Greer,S,Lethal Injection,No,No,Yes,No
+08/04/1999,Ricky Blackmon,41,m,White,1 White Male(s),TX,Shelby,S,Lethal Injection,No,No,No,No
+08/05/1999,Charles Boyd,39,m,Black,1 White Female(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+08/06/1999,Victor Kennedy,37,m,Black,1 White Female(s),AL,Shelby,S,Electrocution,No,No,No,No
+08/10/1999,Kenneth Dunn,39,m,Black,1 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+08/11/1999,James Earhart,56,m,White,1 White Female(s),TX,Brazos,S,Lethal Injection,No,No,No,No
+08/09/2000,Brian Robertson,36,m,Black,1 White Male(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+08/09/2000,Oliver Cruz,33,m,Latino,1 White Female(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+08/08/2001,Mack Hill,47,m,White,1 White Male(s),TX,Lubbock,S,Lethal Injection,No,No,No,No
+08/07/2002,Richard Kutzner,59,m,White,1 White Female(s),TX,Montgomery,S,Lethal Injection,No,No,No,No
+08/08/2002,T.J. Jones,25,m,Black,1 White Male(s),TX,Gregg,S,Lethal Injection,Yes,No,No,No
+09/10/1987,Joseph Starvaggi,34,m,White,1 White Male(s),TX,Montgomery,S,Lethal Injection,No,No,No,No
+09/12/1990,Charles Walker,50,m,White,1 White Male(s)1 White Female(s),IL,St. Clair,M,Lethal Injection,No,No,Yes,No
+09/08/1999,Alan Willett,52,m,White,2 White Male(s),AR,Johnson,S,Lethal Injection,No,No,Yes,No
+09/03/2003,Paul Hill,49,m,White,2 White Male(s),FL,Escabia,S,Lethal Injection,No,No,Yes,No
+09/06/1996,Michael Torrence,35,m,White,2 White Male(s)1 White Female(s),SC,Charleston,S,Lethal Injection,No,No,Yes,No
+09/06/1996,Douglas Wright,56,m,White,3 White Male(s),OR,Wasco,W,Lethal Injection,No,No,Yes,No
+09/08/1999,Mark Gardner,43,m,White,1 White Male(s)2 White Female(s),AR,Sebastian,S,Lethal Injection,No,No,No,No
+09/01/1999,Raymond Jones,39,m,Black,1 Asian Male(s),TX,Jefferson,S,Lethal Injection,No,No,No,No
+09/06/1991,Donald Gaskins,58,m,White,1 Black Male(s),SC,Williamsburg,S,Electrocution,No,No,No,No
+09/09/1997,James Davis,34,m,Black,2 Black Male(s)1 Black Female(s),TX,Travis,S,Lethal Injection,No,No,No,No
+09/10/1999,Willis Barnes,51,m,Black,1 Black Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+09/10/2002,Tony Walker,36,m,Black,1 Black Male(s)1 Black Female(s),TX,Morris,S,Lethal Injection,No,No,No,No
+09/02/1983,Jimmy  Gray,34,m,White,1 White Female(s),MS,Jackson,S,Gas Chamber,No,No,No,No
+09/07/1984,Ernest Dobbert,46,m,White,1 White Male(s),FL,Duval,S,Electrocution,No,No,No,No
+09/10/1984,Timothy Baldwin,46,m,White,1 White Female(s),LA,Ouachita Parish,S,Electrocution,No,No,No,No
+09/11/1985,Charles Rumbaugh,28,m,White,1 White Male(s),TX,Potter,S,Lethal Injection,Yes,No,Yes,No
+09/01/1987,Billy Mitchell,35,m,Black,1 White Male(s),GA,Worth,S,Electrocution,No,No,No,No
+09/10/1990,Charles Coleman,43,m,White,1 White,OK,Muskogee,S,Lethal Injection,No,No,No,No
+09/03/1993,Johnny James,39,m,White,1 White Female(s),TX,Chambers,S,Lethal Injection,No,No,No,No
+09/02/1994,Harold Otey,43,m,Black,1 White Female(s),NE,Douglas,M,Electrocution,No,No,No,No
+09/09/1998,Delbert Teague,37,m,White,1 White Male(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+09/01/1999,David Leisure,49,m,White,1 White Male(s),MO,Jefferson,M,Lethal Injection,No,No,No,No
+01/25/2001,Billy Fox,35,m,White,2 White Male(s)1 Asian Male(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+01/23/2001,Mark Fowler,35,m,White,2 White Male(s)1 Asian Male(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+01/31/2002,David Woodruff,42,m,White,1 White Male(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+01/29/2002,John Romano,43,m,White,1 White Male(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+01/30/2001,Loyd Lafevers,35,m,White,1 White Female(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+01/30/1996,William Flamer,41,m,Black,1 Black Male(s)1 Black Female(s),DE,Kent,S,Lethal Injection,No,No,No,No
+01/30/2002,Windell Broussard,41,m,Black,1 Black Male(s)1 Black Female(s),TX,Jefferson,S,Lethal Injection,No,No,No,No
+01/29/1997,Eric Schneider,35,m,White,2 White Male(s),MO,Jefferson,M,Lethal Injection,No,No,No,No
+01/13/1999,Kelvin Malone,37,m,Black,1 White Male(s),MO,St. Louis,M,Lethal Injection,No,No,No,No
+01/20/1999,Mark Sheppard,27,m,Black,1 White Male(s)1 White Female(s),VA,Chesterfield,S,Lethal Injection,No,No,No,No
+01/29/2003,Richard Dinkins,40,m,White,2 White Female(s),TX,Jefferson,S,Lethal Injection,No,No,No,No
+01/19/1993,Charles Stamper,39,m,Black,3 White Male(s),VA,Chesterfield,S,Electrocution,No,No,No,No
+01/14/2003,Samuel Gallamore,31,m,White,10 White Male(s)2 White Female(s),TX,Comal,S,Lethal Injection,No,No,No,No
+01/23/1997,Randy Greenawalt,47,m,White,2 White Male(s)2 White Female(s),AZ,Yuma,W,Lethal Injection,No,No,No,No
+01/21/2000,Larry Robison,42,m,White,3 White Male(s)2 White Female(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+01/27/1993,Martsay Bolder,35,m,Black,1 Black Male(s),MO,Randolph,M,Lethal Injection,No,No,No,No
+01/24/1995,Kermit Smith,37,m,White,1 Black Female(s),NC,Halifax,S,Lethal Injection,No,No,No,No
+01/20/2000,David Hicks,38,m,Black,1 Black Female(s),TX,Freestone,S,Lethal Injection,No,No,No,No
+01/30/1987,Ramon Hernandez,44,m,Latino,1 Latino Male(s),TX,El Paso,S,Lethal Injection,No,No,Yes,No
+01/17/1995,Mario Marquez,36,m,Latino,1 Latino Female(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+01/16/2002,Jermarr Arnold,43,m,Black,1 Latino Female(s),TX,Nueces,S,Lethal Injection,No,No,No,No
+01/15/2003,John Baltazar,30,m,Latino,1 Latino Female(s),TX,Nueces,S,Lethal Injection,No,No,No,No
+01/16/2003,Daniel Revilla,34,m,White,1 Latino Male(s),OK,Jackson,S,Lethal Injection,No,No,No,No
+01/28/2003,Alva Curry,33,m,Black,1 Latino Male(s),TX,Travis,S,Lethal Injection,No,No,No,No
+01/21/1998,Jose Jesus Ceja,42,m,Latino,1 Latino Female(s)1 White Male(s),AZ,Maricopa,W,Lethal Injection,No,No,No,No
+01/17/1977,Gary Gilmore,36,m,White,1 White Male(s),UT,Utah,W,Firing Squad,No,No,Yes,No
+01/26/1984,Anthony Antone,66,m,White,1 White Male(s),FL,Hillsborough,S,Electrocution,No,No,No,No
+01/16/1985,Doyle Skillern,48,m,White,1 White Male(s),TX,Live Oak,S,Lethal Injection,No,No,No,No
+01/30/1985,James Raulerson,33,m,White,1 White Male(s),FL,Duval,S,Electrocution,No,No,No,No
+01/24/1989,Theodore Bundy,42,m,White,1 White Female(s),FL,Columbia,S,Electrocution,No,No,No,No
+01/18/1990,Gerald Smith,31,m,White,1 White Female(s),MO,Washington,M,Lethal Injection,No,No,Yes,No
+01/22/1992,Mark Hopkinson,42,m,White,1 White Male(s),WY,Uinta,W,Lethal Injection,No,No,No,No
+01/22/1992,Joe Cordova,39,m,Latino,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+01/24/1992,Ricky Rector,40,m,Black,1 White Male(s),AR,Conway,S,Lethal Injection,No,No,No,No
+01/24/1995,Dana Edmonds,32,m,Black,1 White Male(s),VA,Danville City,S,Lethal Injection,No,No,No,No
+01/31/1995,Clifton Russell,33,m,White,1 White Male(s),TX,Taylor,S,Lethal Injection,No,No,No,No
+01/31/1995,Willie Williams,38,m,Black,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+01/23/1996,Richard Townes,45,m,Black,1 White Female(s),VA,Virginia Beach City,S,Lethal Injection,No,No,No,No
+01/25/1996,Billy Bailey,49,m,White,1 White Male(s)1 White Female(s),DE,Kent,S,Hanging,No,No,No,No
+01/27/1996,John Taylor,36,m,White,1 White Female(s),UT,Weber,W,Firing Squad,No,No,Yes,No
+01/21/1998,Lloyd Hampton,44,m,White,1 White Male(s),IL,Madison,M,Lethal Injection,No,No,Yes,No
+01/29/1998,Robert Smith,47,m,White,1 White Male(s),IN,Sullivan,M,Lethal Injection,No,No,Yes,No
+01/30/1998,Ricky Sanderson,38,m,White,1 White Female(s),NC,Iredell,S,Gas Chamber,No,No,Yes,No
+01/13/1999,Jess Gillies,38,m,White,1 White Female(s),AZ,Maricopa,W,Lethal Injection,No,No,No,No
+01/13/1999,Troy Farris,36,m,White,1 White Male(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+01/26/1999,Martin Vega,52,m,Latino,1 White Male(s),TX,Caldwell,S,Lethal Injection,No,No,No,No
+01/13/2000,Gary Walker,46,m,White,1 White Male(s),OK,Tulsa,S,Lethal Injection,No,No,No,No
+01/13/2000,Steven Roach,23,m,White,1 White Female(s),VA,Greene,S,Lethal Injection,Yes,No,No,No
+01/18/2000,Spencer Goodman,31,m,White,1 White Female(s),TX,Fort Bend,S,Lethal Injection,No,No,No,No
+01/24/2000,Billy Hughes,47,m,White,1 White Male(s),TX,Matagorda,S,Lethal Injection,No,No,No,No
+01/25/2000,Glenn McGinnis,27,m,Black,1 White Female(s),TX,Montgomery,S,Lethal Injection,Yes,No,No,No
+01/27/2000,James Moreland,39,m,White,1 White Male(s),TX,Henderson,S,Lethal Injection,No,No,No,No
+01/16/2001,Floyd Medlock,29,m,White,1 White Female(s),OK,Canadian,S,Lethal Injection,No,No,Yes,No
+01/18/2001,Alvin Goodwin,37,m,White,1 White Male(s),TX,Montgomery,S,Lethal Injection,No,No,No,No
+01/18/2001,Dion Smallwood,31,m,Native American,1 Latino Male(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+01/29/2001,Caruthers Alexander,52,m,Black,1 White Female(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+01/24/2002,Ronald Spivey,62,m,White,1 White Male(s),GA,Muscogee,S,Lethal Injection,No,No,No,No
+01/29/2002,Stephen Anderson,48,m,White,1 White Female(s),CA,San Bernardino,W,Lethal Injection,No,No,No,No
+01/31/2002,Randall Hafdahl,48,m,White,1 White Male(s),TX,Randall,S,Lethal Injection,No,No,No,No
+01/22/2003,Robert Lookingbill,37,m,White,1 White Female(s),TX,Hidalgo,S,Lethal Injection,No,No,No,No
+01/30/2003,Granville Riddle,32,m,White,1 White Male(s),TX,Potter,S,Lethal Injection,No,No,No,No
+01/22/1999,Joseph Atkins,51,m,White,1 White Female(s)1 Black Male(s),SC,Charleston,S,Lethal Injection,No,No,No,No
+10/28/1997,Kenneth Ransom,34,m,Black,1 Latino Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+10/21/1998,Ronald Fitzgerald,29,m,Black,2 Black Male(s),VA,Pittsylvania,S,Lethal Injection,No,No,No,No
+10/23/1992,John Gardner,34,m,White,1 White Male(s)1 White Female(s),NC,Forsyth,S,Lethal Injection,No,No,No,No
+10/04/1996,Larry Bell,47,m,White,2 White Female(s),SC,Lexington,S,Electrocution,No,No,No,No
+10/01/1998,Javier Cruz,41,m,Latino,1 Black Male(s)1 White Female(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+10/07/1998,Jonathan Nobles,37,m,White,2 White Female(s),TX,Travis,S,Lethal Injection,No,No,No,No
+10/13/1998,Jeremy Sagastegui,27,m,White,1 Latino Male(s)2 White Female(s),WA,Benton,W,Lethal Injection,No,No,Yes,No
+10/19/1995,Mickey Davidson,38,m,White,3 White Female(s),VA,Smyth,S,Lethal Injection,No,No,Yes,No
+10/18/2001,Christopher Beck,26,m,White,2 White Male(s)1 White Female(s),VA,Arlington,S,Lethal Injection,No,No,No,No
+10/17/1990,Wilbert Evans,44,m,Black,1 Black Male(s),VA,Fairfax,S,Electrocution,No,No,No,No
+10/14/1998,Dwayne Wright,24,m,Black,1 Black Female(s),VA,Fairfax City,S,Lethal Injection,Yes,No,No,No
+10/19/1999,Jason Joseph,27,m,Black,1 Black Male(s),VA,Portsmouth City,S,Lethal Injection,No,No,No,No
+10/12/2001,David Ward,39,m,Black,1 Black Female(s),NC,Pitt,S,Lethal Injection,No,No,No,No
+10/27/1999,Ignacio Ortiz,57,m,Latino,1 Latino Female(s),AZ,Pima,W,Lethal Injection,No,No,No,No
+10/02/2002,Rigoberto Sanchez-Velasco,43,m,Latino,1 Latino Female(s),FL,Miami-Dade,S,Lethal Injection,No,No,Yes,Yes
+10/10/2000,Bobby Ramdass,28,m,Black,1 Other Male(s),VA,Fairfax,S,Lethal Injection,No,No,No,No
+10/22/1979,Jesse Bishop,46,m,White,1 White Male(s),NV,Clark,W,Gas Chamber,No,No,Yes,No
+10/12/1984,Linwood Briley,30,m,Black,1 White Male(s),VA,Richmond City,S,Electrocution,No,No,No,No
+10/30/1984,Ernest Knighton,38,m,Black,1 White Male(s),LA,Bossier Parish,S,Electrocution,No,No,No,No
+10/30/1984,Thomas Barefoot,39,m,White,1 White Male(s),TX,Bell,S,Lethal Injection,No,No,No,No
+10/16/1985,William Vandiver,37,m,White,1 White Male(s),IN,Lake,M,Electrocution,No,No,Yes,No
+10/18/1991,Michael McDougall,36,m,White,1 White Female(s),NC,Mecklenburg,S,Lethal Injection,No,No,No,No
+10/21/1992,Ricky Lee Grubbs,33,m,White,1 White Male(s),MO,St. Francois,M,Lethal Injection,No,No,No,No
+10/06/1993,Frank Guinan,47,m,White,1 White Male(s),MO,Franklin,M,Lethal Injection,No,No,No,No
+10/05/1994,Walter Williams,32,m,Black,1 White Male(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+10/04/1995,Harold Lane,50,m,White,1 White Female(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+10/21/1996,John Bush,38,m,Black,1 White Female(s),FL,Martin,S,Electrocution,No,No,No,No
+10/01/1997,Dwight Adanandus,41,m,Black,1 White Male(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+10/08/1997,Ricky Green,36,m,White,1 White Male(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+10/13/1997,Gary Davis,53,m,White,1 White Female(s),CO,Adams,W,Lethal Injection,No,No,No,No
+10/22/1997,Alan Bannister,39,m,White,1 White Male(s),MO,McDonald,M,Lethal Injection,No,No,No,No
+10/05/1998,Roderick Abeyta,44,m,Latino,1 White Female(s),NV,Clark,W,Lethal Injection,No,No,Yes,No
+10/12/1999,Alvin Crane,41,m,White,1 White Male(s),TX,Ochiltree,S,Lethal Injection,No,No,No,No
+10/14/1999,Jerry McFadden,51,m,White,1 White Female(s),TX,Upshur,S,Lethal Injection,No,No,No,No
+10/15/1999,Joesph Parsons,35,m,White,1 White Male(s),UT,Iron,W,Lethal Injection,No,No,Yes,No
+10/21/1999,Arthur Boyd,53,m,White,1 White Female(s),NC,Surry,S,Lethal Injection,No,No,No,No
+10/28/1999,Domingo Cantu,31,m,Native American,1 White Female(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+10/18/2001,Alvie Hale,53,m,White,1 White Male(s),OK,Pottawatomie,S,Lethal Injection,No,No,No,No
+10/22/2001,Gerald Mitchell,33,m,Black,1 White Male(s),TX,Harris,S,Lethal Injection,Yes,No,No,No
+10/24/2001,Stephen Johns,55,m,White,1 White Male(s),MO,St. Louis,M,Lethal Injection,No,No,No,No
+10/25/2001,Terry Mincey,40,m,White,1 White Female(s),GA,Bibb,S,Lethal Injection,No,No,No,No
+10/01/2002,James Powell,56,m,White,1 White Female(s),TX,Newton,S,Lethal Injection,No,No,No,No
+10/09/2002,Aileen Wournos,46,f,White,1 White Male(s),FL,Volusia,S,Lethal Injection,No,No,Yes,No
+11/12/1991,G.W. Green,54,m,White,1 White Male(s),TX,Montgomery,S,Lethal Injection,No,No,No,No
+11/16/1999,Desmond Jennings,46,m,Black,1 Black Male(s)1 Black Female(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+11/17/2000,Dwayne Weeks,37,m,Black,1 Black Male(s)1 Black Female(s),DE,New Castle,S,Lethal Injection,No,No,No,No
+11/15/1996,Doyle Lucas,41,m,White,1 White Male(s)1 White Female(s),SC,York,S,Lethal Injection,No,No,Yes,No
+11/19/1997,Walter Stewart,42,m,Black,2 White Male(s),IL,Cook,M,Lethal Injection,No,No,No,No
+11/19/1997,Michael Sharp,43,m,White,2 White Female(s),TX,Ector,S,Lethal Injection,No,No,No,No
+11/17/1998,Kenneth McDuff,52,m,White,1 White Female(s),TX,McLennan,S,Lethal Injection,No,No,No,No
+11/20/1998,John Noland,50,m,White,1 White Male(s)1 White Female(s),NC,Mecklenberg,S,Lethal Injection,No,No,No,No
+11/19/1999,David Brown,51,m,Black,2 White Female(s),NC,Union,S,Lethal Injection,No,No,No,No
+11/15/2001,Fred Gilreath,63,m,White,1 White Male(s)1 White Female(s),GA,Cobb,S,Lethal Injection,No,No,No,No
+11/13/2002,William Putman,59,m,White,1 White Male(s)1 White Female(s),GA,Laurens,S,Lethal Injection,No,No,No,No
+11/20/2002,William Chappell,66,m,White,2 White Female(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+11/14/1996,Larry Lonchar,45,m,White,2 White Male(s)1 White Female(s),GA,DeKalb,S,Electrocution,No,No,No,No
+11/04/1997,Aua Lauti,43,m,Asian,1 Asian Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+11/17/1989,Arthur Julius,43,m,Black,1 Black Female(s),AL,Montgomery,S,Electrocution,No,No,No,No
+11/19/1992,Jeffery Griffin,37,m,Black,1 Black Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+11/22/1996,Frank Middleton,33,m,Black,1 Black Female(s),SC,Charleston,S,Lethal Injection,No,No,No,No
+11/19/1997,Durlyn Eddmonds,42,m,Black,1 Black Male(s),IL,Cook,M,Lethal Injection,No,No,No,No
+11/20/1997,Gary Burris,40,m,Black,1 Black Male(s),IN,Marion,M,Lethal Injection,No,No,No,No
+11/17/1998,Kenneth Wilson,34,m,Black,1 Black Female(s),VA,Newport News City,S,Lethal Injection,No,No,No,No
+11/09/1999,Thomas Royal,32,m,Black,1 Black Male(s),VA,Hampton City,S,Lethal Injection,No,No,No,No
+11/09/2000,Michael Sexton,34,m,Black,1 Black Female(s),NC,Wake,S,Lethal Injection,No,No,No,No
+11/15/2000,Tony Chambers,32,m,Black,1 Black Female(s),TX,Smith,S,Lethal Injection,No,No,No,No
+11/15/2001,Emerson Rudd,31,m,Black,1 Black Male(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+11/30/1983,Robert Sullivan,36,m,White,1 White Male(s),FL,Miami-Dade,S,Electrocution,No,No,No,No
+11/02/1984,Velma Barfield,52,f,White,1 White Male(s),NC,Robeson,S,Lethal Injection,No,No,No,No
+11/08/1984,Timothy Palmes,37,m,White,1 White Male(s),FL,Duval,S,Electrocution,No,No,No,No
+11/03/1988,Donald Franklin,37,m,Black,1 White Female(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+11/07/1988,Jeffrey Daugherty,33,m,White,1 White Female(s),FL,Brevard,S,Electrocution,No,No,No,No
+11/19/1990,Raymond Clark,49,m,White,1 White Male(s),FL,Pinellas,S,Electrocution,No,No,No,No
+11/20/1992,Cornelius Singleton,36,m,Black,1 White Female(s),AL,Mobile,S,Electrocution,No,No,No,No
+11/10/1993,Anthony Cook,32,m,White,1 White Male(s),TX,Matagorda,S,Lethal Injection,No,No,Yes,No
+11/22/1994,Warren Bridge,34,m,White,1 White Male(s),TX,Galveston,S,Lethal Injection,No,No,No,No
+11/13/1995,Herman Barnes,31,m,Black,1 White Male(s),VA,Hampton City,S,Lethal Injection,No,No,No,No
+11/15/1995,Robert Sidebottom,33,m,White,1 White Female(s),MO,Jackson,M,Lethal Injection,No,No,No,No
+11/22/1995,George del Vecchio,47,m,White,1 White Male(s),IL,Cook,M,Lethal Injection,No,No,No,No
+11/29/1995,Anthony LaRette,44,m,White,1 White Female(s),MO,Warren,M,Lethal Injection,No,No,No,No
+11/15/1996,Ellis Felker,48,m,White,1 White Female(s),GA,Houston,S,Electrocution,No,No,No,No
+11/21/1996,Ronald Bennett,42,m,Black,1 White Female(s),VA,Richmond,S,Lethal Injection,No,No,No,No
+11/06/1997,Aaron Fuller,30,m,White,1 White Female(s),TX,Dawson,S,Lethal Injection,No,No,No,No
+11/07/1997,Earl Matthews,32,m,Black,1 White Female(s),SC,Charleston,S,Lethal Injection,No,No,No,No
+11/13/1997,Dawud Majid Mu'Min,44,m,Black,1 White Female(s),VA,Prince William,S,Lethal Injection,No,No,No,No
+11/21/1997,Charlie Livingston,35,m,Black,1 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+11/16/1998,Tyrone Gilliam,32,m,Black,1 White Female(s),MD,Baltimore,S,Lethal Injection,No,No,No,No
+11/12/1999,Leroy Drayton,44,m,Black,1 White Female(s),SC,Charleston,S,Lethal Injection,No,No,No,No
+11/17/1999,John Lamb,42,m,White,1 White Male(s),TX,Hunt,S,Lethal Injection,No,No,No,No
+11/18/1999,Jose Gutierrez,39,m,Latino,1 White Female(s),TX,Brazos,S,Lethal Injection,No,No,No,No
+11/01/2000,Jeffrey Dillingham,27,m,White,1 White Female(s),TX,Wichita,S,Lethal Injection,No,No,No,No
+11/03/2000,Kevin Young,32,m,Black,1 White Male(s),SC,Anderson,S,Lethal Injection,No,No,No,No
+11/08/2000,Donald Miller,36,m,White,1 White Female(s),AZ,Pima,W,Lethal Injection,No,No,No,No
+11/09/2000,Miguel Flores,31,m,Latino,1 White Female(s),TX,Hutchinson,S,Lethal Injection,No,No,No,Yes
+11/14/2000,Stacey Lawton,31,m,Black,1 White Male(s),TX,Smith,S,Lethal Injection,No,No,No,No
+11/15/2000,James Chambers,48,m,White,1 White Male(s),MO,St. Louis City,M,Lethal Injection,No,No,No,No
+11/06/2001,Jose High,45,m,Black,1 White Male(s),GA,Taliaferro,S,Lethal Injection,No,No,No,No
+11/06/2001,Terry Clark,45,m,White,1 White Female(s),NM,Grant,W,Lethal Injection,No,No,Yes,No
+11/14/2001,Jeffrey Tucker,41,m,White,1 White Male(s),TX,Parker,S,Lethal Injection,No,No,No,No
+11/30/2001,John Rose,43,m,White,1 White Female(s),NC,Haywood,S,Lethal Injection,No,No,No,No
+11/14/2002,Mir Aimal Kasi,38,m,Other,1 White Male(s),VA,Fairfax,S,Lethal Injection,No,No,No,Yes
+11/19/2002,Craig Ogan,47,m,White,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+11/20/2002,William Jones,37,m,White,1 White Male(s),MO,Jackson,M,Lethal Injection,No,No,No,No
+12/08/1994,Gregory Resnover,43,m,Black,1 White Male(s),IN,Marion,M,Electrocution,No,No,No,No
+12/04/1998,J.D. Gleaton,53,m,Black,1 White Male(s),SC,Lexington,S,Lethal Injection,No,No,No,No
+12/04/1998,Larry Gilbert,43,m,Black,1 White Male(s),SC,Lexington,S,Lethal Injection,No,No,No,No
+12/07/1995,Hai Hai Vuong,40,m,Asian,2 Asian Male(s),TX,Jefferson,S,Lethal Injection,No,No,No,No
+12/18/1998,Andy Smith,38,m,Black,1 Black Male(s)1 Black Female(s),SC,Anderson,S,Lethal Injection,No,No,No,No
+12/06/2001,Sahib Al-Mosawi,53,m,Other,1 Other Male(s)1 Other Female(s),OK,Oklahoma,S,Lethal Injection,No,No,No,Yes
+12/15/1983,John Smith,53,m,White,1 White Male(s)1 White Female(s),GA,Bibb,S,Electrocution,No,No,No,No
+12/09/1999,D.H. Fleenor,48,m,White,1 White Male(s)1 White Female(s),IN,Jefferson,M,Lethal Injection,No,No,No,No
+12/11/2002,James Collier,56,m,White,1 White Male(s)1 White Female(s),TX,Wichita,S,Lethal Injection,No,No,No,No
+12/07/1998,Daniel Corwin,40,m,White,3 White Female(s),TX,Montgomery,S,Lethal Injection,No,No,No,No
+12/10/1998,Tuan Nguyen,39,m,Asian,1 White Male(s)2 White Female(s),OK,Brazos,S,Lethal Injection,No,No,No,Yes
+12/08/1999,David Long,46,m,White,3 White Female(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+12/10/2002,Jerry McCracken,35,m,White,3 White Male(s)1 White Female(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+12/12/2002,Anthony Johnson,46,m,White,1 White Male(s),AL,Madison,S,Lethal Injection,No,No,No,No
+12/10/1992,Timothy Bunch,33,m,White,1 Asian Female(s),VA,Prince William,S,Electrocution,No,No,No,No
+12/14/1983,Robert Williams,31,m,Black,1 Black Male(s),LA,East Baton Rouge Parish,S,Electrocution,No,No,No,No
+12/13/1988,Raymond Landry,39,m,Black,1 Black Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+12/06/1995,Robert O'Neal,44,m,White,1 Black Male(s),MO,Butler,M,Lethal Injection,No,No,No,No
+12/11/1997,Thomas Beavers,26,m,White,1 Black Female(s),VA,Hampton City,S,Lethal Injection,No,No,No,No
+12/03/1998,Kevin Cardwell,29,m,Black,1 Black Male(s),VA,Henrico,S,Lethal Injection,No,No,No,No
+12/09/1999,Andre Graham,29,m,Black,1 Black Female(s),VA,Chesterfield,S,Lethal Injection,No,No,No,No
+12/06/2000,Christopher Goins,27,m,Black,1 Black Female(s),VA,Richmond,S,Lethal Injection,No,No,No,No
+12/19/2000,David Johnson,37,m,Black,1 Black Male(s),AR,Pulaski,S,Lethal Injection,No,No,No,No
+12/09/2002,Linroy Bottoson,63,m,Black,1 Black Female(s),FL,Orange,S,Lethal Injection,No,No,No,No
+12/04/1986,Michael Evans,30,m,Black,1 Latino Female(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+12/18/1986,Richard Andrade,25,m,Latino,1 Latino Female(s),TX,Nueces,S,Lethal Injection,No,No,No,No
+12/07/1989,Carlos De Luna,27,m,Latino,1 Latino Female(s),TX,Mitchell,S,Lethal Injection,No,No,No,No
+12/05/1995,Philip Atkins,40,m,White,1 Latino Male(s),FL,Polk,S,Electrocution,No,No,No,No
+12/15/1998,James Meanes,42,m,Black,1 Latino Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+12/07/1982,Charlie Brooks,40,m,Black,1 White Male(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+12/12/1984,Alpha Stephens,39,m,Black,1 White Male(s),GA,Bleckley,S,Electrocution,No,No,No,No
+12/28/1984,Robert Willie,26,m,White,1 White Female(s),LA,Washington Parish,S,Electrocution,No,No,No,No
+12/06/1985,Carroll Cole,47,m,White,1 White Female(s),NV,Clark,W,Lethal Injection,No,No,Yes,No
+12/13/1990,Buddy Justus,38,m,White,1 White Female(s),VA,Montgomery,S,Electrocution,No,No,No,No
+12/10/1992,Kavin Lincecum,29,m,Black,1 White Female(s),TX,Brazoria,S,Lethal Injection,No,No,No,No
+12/07/1993,Christopher Burger,33,m,White,1 White Male(s),GA,Liberty,S,Electrocution,Yes,No,No,No
+12/15/1993,Clifford Phillips,59,m,Black,1 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+12/16/1993,David Pruett,44,m,White,1 White Female(s),VA,Virginia Beach City,S,Electrocution,No,No,No,No
+12/06/1994,Herman Clark,48,m,Black,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+12/11/1994,Raymond Kinnamon,53,m,White,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+12/04/1995,Jerry White,47,m,Black,1 White Male(s),FL,Orange,S,Electrocution,No,No,No,No
+12/06/1995,Bernard Amos,33,m,Black,1 White Male(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+12/11/1995,Esequel Banda,31,m,Latino,1 White Female(s),TX,Hamilton,S,Lethal Injection,No,No,Yes,No
+12/12/1995,James Briddle,40,m,White,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+12/03/1996,Gregory Beaver,30,m,White,1 White Male(s),VA,Prince George,S,Lethal Injection,No,No,No,No
+12/06/1996,John Mills,41,m,Black,1 White Male(s),FL,Wakulla,S,Electrocution,No,No,No,No
+12/10/1996,Larry Stout,33,m,Black,1 White Female(s),VA,Staunton,S,Lethal Injection,No,No,No,No
+12/11/1996,Richard Zeitvogel,40,m,White,1 White Male(s),MO,Cole,M,Lethal Injection,No,No,No,No
+12/12/1996,Lem Tuggle,44,m,White,1 White Female(s),VA,Smyth,S,Lethal Injection,No,No,No,No
+12/16/1996,Ronald Hoke,39,m,White,1 White Female(s),VA,Petersburg City,S,Lethal Injection,No,No,No,No
+12/02/1997,Robert Williams,61,m,Black,1 White Female(s),NE,Sarpy,M,Electrocution,No,No,No,No
+12/09/1997,Michael Lockhart,37,m,White,1 White Male(s),TX,Arlington,S,Lethal Injection,No,No,No,No
+12/09/1997,Michael Satcher,29,m,Black,1 White Female(s),VA,Arlington,S,Lethal Injection,No,No,No,No
+12/08/1998,Jeff Emery,39,m,White,1 White Female(s),TX,Brazos,S,Lethal Injection,No,No,No,No
+12/11/1998,Louis Truesdale,40,m,Black,1 White Female(s),SC,Tulsa,S,Lethal Injection,No,No,No,No
+12/17/1998,John Duvall,47,m,White,1 White Female(s),OK,Stephens,S,Lethal Injection,No,No,No,No
+12/02/1999,Cornel Cooks,43,m,Black,1 White Female(s),OK,Comanche,S,Lethal Injection,No,No,No,No
+12/03/1999,David Rocheville,31,m,White,1 White Male(s),SC,Spartanburg,S,Lethal Injection,No,No,No,No
+12/09/1999,Bobby Ross,41,m,Black,1 White Male(s),OK,Roger Mills,S,Lethal Injection,No,No,No,No
+12/09/1999,James Beathard,42,m,White,2 White Female(s)1 White Female(s),TX,Trinity,S,Lethal Injection,No,No,No,No
+12/14/1999,Robert Atworth,30,m,White,1 White Male(s),TX,Dallas,S,Lethal Injection,No,No,Yes,No
+12/15/1999,Sammie Felder,54,m,Black,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+12/05/2000,Garry Miller,33,m,White,1 White Female(s),TX,Jones,S,Lethal Injection,No,No,No,No
+12/06/2000,Daniel Hittle,50,m,White,1 White Male(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+12/07/2000,Edward Castro,50,m,Latino,1 White Male(s),FL,Marion,S,Lethal Injection,No,No,Yes,No
+12/07/2000,Claude Jones,60,m,White,1 White Male(s),TX,San Jacinto,S,Lethal Injection,No,No,No,No
+12/04/2001,Lois Smith,61,f,White,1 White Female(s),OK,Sequoyah,S,Lethal Injection,No,No,No,No
+12/11/2001,Byron Parker,41,m,White,1 White Female(s),GA,Douglas,S,Lethal Injection,No,No,No,No
+12/12/2001,Vincent Cooks,37,m,Black,1 White Male(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+12/06/2002,Ernest Basden,49,m,White,1 White Male(s),NC,Duplin,S,Lethal Injection,No,No,No,No
+12/10/2002,Desmond Carter,35,m,Black,1 White Female(s),NC,Rockingham,S,Lethal Injection,No,No,No,No
+12/11/2002,Jessie Williams,51,m,White,1 White Female(s),MS,Jackson,S,Lethal Injection,No,No,No,No
+12/12/2002,Jay Neill,37,m,White,1 White Male(s)3 White Female(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+12/17/2002,Ernest Carter,36,m,Black,1 White Male(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+12/04/2002,Leonard Rojas,52,m,Latino,1 Latino Male(s)1 White Female(s),TX,Johnson,S,Lethal Injection,No,No,No,No
+02/24/1999,Karl LaGrand,35,m,White,1 White Male(s),AZ,Pima,W,Lethal Injection,No,No,No,Yes
+02/25/1998,Reginald Powell,29,m,Black,2 Black Male(s),MO,St. Louis City,M,Lethal Injection,No,No,No,No
+02/28/1992,David Clark,32,m,White,1 White Male(s)1 White Female(s),TX,Brazos,S,Lethal Injection,No,No,No,No
+02/20/1998,Michael Long,35,m,White,1 White Male(s)1 White Female(s),OK,Muskogee,S,Lethal Injection,No,No,Yes,No
+02/24/1998,Terry Langford,31,m,White,1 White Male(s)1 White Female(s),MT,Powel,W,Lethal Injection,No,No,No,No
+02/16/1999,Andrew Cantu,31,m,Latino,2 White Male(s)1 White Female(s),TX,Taylor,S,Lethal Injection,No,No,No,No
+02/16/1999,Johnie Cox,42,m,White,1 White Male(s)2 White Female(s),AR,White,S,Lethal Injection,No,No,No,No
+02/23/1996,William Bonin,49,m,White,4 White Male(s),CA,Los Angeles,W,Lethal Injection,No,No,No,No
+02/27/1996,Kenneth Granviel,45,m,Black,1 Black Female(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+02/25/2003,Richard Williams,33,m,Black,1 Black Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+02/29/1984,John Taylor,30,m,Black,1 White Male(s),LA,Jefferson Parish,S,Electrocution,No,No,No,No
+02/20/1985,Van Solomon,41,m,Black,1 White Male(s),GA,Cobb,S,Electrocution,No,No,No,No
+02/26/1991,Lawrence Buxton,38,m,Black,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+02/16/1995,Billy Gardner,51,m,White,1 White Female(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+02/21/1995,Samuel Hawkins,51,m,Black,1 White Female(s),TX,Lubbock,S,Lethal Injection,No,No,No,No
+02/16/1996,Edward Horsley,38,m,Black,1 White Female(s),AL,Monroe,S,Electrocution,No,No,No,No
+02/21/1996,Jeffery Sloan,29,m,White,1 White Male(s),MO,Clay,M,Lethal Injection,No,No,No,No
+02/26/1997,Coleman Gray,39,m,Black,1 White Male(s),VA,Portsmouth City,S,Lethal Injection,No,No,No,No
+02/19/1999,Wilford Berry,36,m,White,1 White Male(s),OH,Cuyahoga,M,Lethal Injection,No,No,Yes,No
+02/24/1999,James Rodden,38,m,White,1 White Female(s),MO,Clay,M,Lethal Injection,No,No,No,No
+02/24/1999,Norman Green,38,m,Black,1 White Male(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+02/16/2000,Anthony Chaney,45,m,White,1 White Male(s),AZ,Coconino,W,Lethal Injection,No,No,No,No
+02/23/2000,Terry Sims,58,m,White,1 White Male(s),FL,Seminole,S,Lethal Injection,No,No,No,No
+02/23/2000,Cornelius Goss,38,m,Black,1 White Male(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+02/24/2000,Anthony Bryan,40,m,White,1 White Male(s),FL,Santa Rosa,S,Lethal Injection,No,No,No,No
+02/24/2000,Betty Beets,62,f,White,1 White Male(s),TX,Henderson,S,Lethal Injection,No,No,No,No
+02/19/2002,John Byrd,38,m,White,1 White Male(s),OH,Hamilton,M,Lethal Injection,No,No,No,No
+02/28/2002,Monty Delk,35,m,White,1 White Male(s),TX,Anderson,S,Lethal Injection,No,No,No,No
+02/13/2003,Bobby Fields,39,m,Black,1 White Female(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+02/26/2003,Amos King,48,m,Black,1 White Female(s),FL,Pinellas,S,Lethal Injection,No,No,No,No
+03/15/2000,Patrick Poland,50,m,White,2 White Male(s),AZ,Yavapai,W,Lethal Injection,No,No,No,No
+03/28/2001,Thomas Ervin,50,m,White,1 White Male(s)1 White Female(s),MO,Callaway,M,Lethal Injection,No,No,No,No
+03/25/2003,John Hooker,49,m,Black,2 Black Female(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+03/16/1984,James Hutchins,54,m,White,2 White Male(s),NC,McDowell,S,Lethal Injection,No,No,No,No
+03/14/1992,Steven Pennell,34,m,White,2 White Female(s),DE,New Castle,S,Lethal Injection,No,No,Yes,No
+03/30/1996,Richard Moran,42,m,White,1 White Male(s)1 White Female(s),NV,Clark,W,Lethal Injection,No,No,No,No
+03/20/1985,John Young,28,m,Black,1 White Male(s)2 White Female(s),GA,Bibb,S,Electrocution,No,No,No,No
+03/13/1992,Olan Robison,46,m,White,3 White Female(s),OK,Stephens,S,Lethal Injection,No,No,No,No
+03/27/2001,Ronald Fluke,52,m,White,3 White Female(s),OK,Tulsa,S,Lethal Injection,No,No,Yes,No
+03/18/1998,Douglas Buchanan,29,m,White,3 White Male(s)1 White Female(s),VA,Amherst,S,Lethal Injection,No,No,No,No
+03/18/1993,Syvasky Poyner,36,m,Black,4 White Female(s)1 Black Female(s),VA,York,S,Electrocution,No,No,No,No
+03/14/2000,Ponchai Wilkerson,28,m,Black,1 Asian Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+03/31/1994,William Hance,45,m,Black,1 Black Female(s),GA,Muscogee,S,Electrocution,No,No,No,No
+03/20/1995,Thomas Grasso,32,m,White,1 Black Female(s),OK,Tulsa,S,Lethal Injection,No,No,Yes,No
+03/25/1997,Pedro Medina,39,m,Latino,1 Black Female(s),FL,Orange,S,Electrocution,No,No,No,Yes
+03/25/1998,Milton Griffin-El,37,m,Black,1 Black Male(s),MO,St. Louis City,M,Lethal Injection,No,No,No,No
+03/18/2003,Walanzo Robinson,31,m,Black,1 Black Male(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+03/23/1993,Carlos Santana,40,m,Latino,1 Latino Male(s),TX,Harris,S,Lethal Injection,No,No,No,Yes
+03/16/2000,Lonnie Weeks,28,m,Black,1 Latino Male(s),VA,Prince William,S,Lethal Injection,No,No,No,No
+03/20/2003,Keith Clay,35,m,Black,1 Other Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+03/14/1984,James Autry,29,m,White,1 White Female(s),TX,Jefferson,S,Lethal Injection,No,No,No,No
+03/31/1984,Ronald O'Bryan,39,m,White,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+03/13/1985,Stephen Morin,37,m,White,1 White Female(s),TX,Jefferson,S,Lethal Injection,No,No,Yes,No
+03/21/1986,Arthur Jones,47,m,Black,1 White Male(s),AL,Mobile,S,Electrocution,No,No,No,No
+03/15/1988,Willie Darden,54,m,Black,1 White Male(s),FL,Polk,S,Electrocution,No,No,No,No
+03/15/1988,Wayne Felde,38,m,White,1 White Male(s),LA,Caddo Parish,S,Electrocution,No,No,No,No
+03/22/1989,Leon King,44,m,Black,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+03/20/1992,Larry Heath,40,m,White,1 White Female(s),AL,Russel,S,Electrocution,No,No,No,No
+03/25/1993,Ramon Montoya,38,m,Latino,1 White Male(s),TX,Dallas,S,Lethal Injection,No,No,No,Yes
+03/31/1994,Freddie Webb,33,m,Black,1 Latino Male(s),TX,Nueces,S,Lethal Injection,No,No,No,No
+03/17/1995,Nelson Shelton,27,m,White,1 White Male(s),DE,New Castle,S,Lethal Injection,No,No,Yes,No
+03/22/1995,Hernando Williams,40,m,Black,1 White Female(s),IL,Cook,M,Lethal Injection,No,No,No,No
+03/22/1995,James Free,41,m,White,1 White Female(s),IL,DuPage,M,Lethal Injection,No,No,No,No
+03/23/1998,Gerald Stano,46,m,White,1 White Female(s),FL,Volusia,S,Electrocution,No,No,No,No
+03/24/1998,Leo Jones,47,m,Black,1 White Male(s),FL,St. Johns,S,Electrocution,No,No,No,No
+03/25/1998,Ronald Watkins,35,m,Black,1 White Male(s),VA,Pittsylvania,S,Lethal Injection,No,No,No,No
+03/30/1998,Judy Buenoano,54,f,White,1 White Male(s),FL,Orange,S,Electrocution,No,No,No,No
+03/31/1998,Daniel Remeta,40,m,Native American,1 White Female(s),FL,Marion,S,Electrocution,No,No,No,No
+03/17/1999,Andrew Kokoraleis,35,m,White,1 White Female(s),IL,DuPage,M,Lethal Injection,No,No,No,No
+03/25/1999,Charles Rector,44,m,Black,1 White Female(s),TX,Travis,S,Lethal Injection,No,No,No,No
+03/26/1999,David Fisher,57,m,White,1 White Male(s),VA,Bedford,S,Lethal Injection,No,No,No,No
+03/26/1999,James Rich,26,m,White,1 White Male(s),NC,Greene,S,Lethal Injection,No,No,Yes,No
+03/30/1999,Robert White,61,m,White,1 White Male(s),TX,Collin,S,Lethal Injection,No,No,No,No
+03/15/2000,Darrell Rich,45,m,Native American,3 White Female(s),CA,Yavapai,W,Lethal Injection,No,No,No,No
+03/15/2000,Timothy Gribble,36,m,White,1 White Female(s),TX,Shasta,S,Lethal Injection,No,No,No,No
+03/22/2000,James Hampton,62,m,White,1 White Female(s),MO,Callaway,M,Lethal Injection,No,No,Yes,No
+03/23/2000,Kelly Rogers,31,m,Black,1 White Female(s),OK,Payne,S,Lethal Injection,No,No,No,No
+03/14/2001,Gerald Bivins,41,m,White,1 White Male(s),IN,Boone,M,Lethal Injection,No,No,Yes,No
+03/27/2001,Robert Massie,59,m,White,1 White Male(s),CA,San Francisco,W,Lethal Injection,No,No,Yes,No
+03/14/2002,James Patterson,35,m,White,1 White Female(s),VA,Prince George,S,Lethal Injection,No,No,Yes,No
+03/13/2003,Michael Thompson,43,m,White,1 White Female(s),AL,Blount,S,Lethal Injection,No,No,No,No
+03/18/2003,Louis Jones*,53,m,Black,1 White Female(s),FE,,S,Lethal Injection,No,Yes,No,No
+03/25/2003,Larry Moon,57,m,White,1 White Male(s),GA,Catoosa,S,Lethal Injection,No,No,No,No
+03/26/2003,James Colburn,43,m,White,1 White Female(s),TX,Montgomery,S,Lethal Injection,No,No,No,No
+04/22/1983,John Evans,33,m,White,1 White Male(s),AL,Mobile,S,Electrocution,No,No,No,No
+04/18/1985,James Briley,28,m,Black,1 Black Male(s)1 Black Female(s),VA,Richmond City,S,Electrocution,No,No,No,No
+04/22/1986,David Funchess,39,m,Black,1 White Male(s)1 White Female(s),FL,Duval,S,Electrocution,No,No,No,No
+04/21/1992,Robert Harris,39,m,White,2 White Male(s),CA,San Diego,W,Gas Chamber,No,No,No,No
+04/19/1996,James Clark,39,m,White,1 White Male(s)1 White Female(s),DE,New Castle,S,Lethal Injection,No,No,Yes,No
+04/29/1997,Ernest Baldree,55,m,White,1 White Male(s)1 White Female(s),TX,Navarro,S,Lethal Injection,No,No,No,No
+04/14/1999,Roy Ramsey,45,m,Black,1 White Male(s)1 White Female(s),MO,Jackson,M,Lethal Injection,No,No,No,No
+04/20/1999,Arthur Jenkins,29,m,White,2 White Male(s),VA,Warren,S,Lethal Injection,No,No,No,No
+04/25/2001,Mose Young,46,m,Black,3 Black Male(s),MO,Tarrant,M,Lethal Injection,No,No,No,No
+04/21/1993,Robert Henderson,48,m,White,3 White Male(s),FL,Hernando,S,Electrocution,No,No,No,No
+04/14/1993,James Clark,35,m,White,3 White Male(s)1 White Female(s),AZ,Cochise,W,Lethal Injection,No,No,No,No
+04/23/1999,David Lawrie,37,m,White,4 White Male(s),DE,Kent,S,Lethal Injection,No,No,No,No
+04/13/1988,Leslie Lowenfield,34,m,Black,1 Black Male(s)4 Black Female(s),LA,Jefferson Parish,S,Electrocution,No,No,No,Yes
+04/14/1988,Earl Clanton,33,m,Black,1 Black Female(s),VA,Petersburg City,S,Electrocution,No,No,No,No
+04/21/1990,Jerome Butler,54,m,Black,1 Black Male(s),TX,Harris,S,Lethal Injection,No,No,Yes,No
+04/28/1995,Willie Clisby,47,m,Black,1 Black Male(s),AL,Jefferson,S,Electrocution,No,No,No,No
+04/25/2001,David Goff,32,m,Black,1 Black Male(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+04/17/2003,Larry Jackson,40,m,Black,1 Black Female(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+04/22/1998,Jose Villafuerte,45,m,Latino,1 Latino Female(s),AZ,Maricopa,W,Lethal Injection,No,No,No,Yes
+04/30/2002,Rodolfo Hernandez,52,m,Latino,1 Latino Male(s),TX,Comal,S,Lethal Injection,No,No,No,No
+04/22/2003,Juan Chavez,34,m,Latino,1 Latino Male(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+04/15/1986,Daniel Thomas,37,m,Black,1 White Female(s),FL,Polk,S,Electrocution,No,No,No,No
+04/16/1986,Jeffrey Barney,28,m,White,1 White Female(s),TX,Harris,S,Lethal Injection,No,No,Yes,No
+04/27/1990,Ronald Woomer,35,m,White,1 White Female(s),SC,Richland,S,Electrocution,No,No,No,No
+04/24/1991,Roy Harich,32,m,White,1 White Female(s),FL,Volusia,S,Electrocution,No,No,No,No
+04/23/1992,William White,34,m,Black,1 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+04/22/1994,Roy Allen Stewart,38,m,White,1 White Female(s),FL,Miami-Dade,S,Electrocution,No,No,No,No
+04/26/1994,Larry Anderson,41,m,White,1 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+04/27/1994,Timothy Spencer,32,m,Black,1 White Female(s),VA,Richmond,S,Electrocution,No,No,No,No
+04/19/1995,Richard Snell,64,m,White,1 White Male(s),AR,Miller,S,Lethal Injection,No,No,No,No
+04/26/1996,Benjamin Brewer,38,m,White,1 White Female(s),OK,Tulsa,S,Lethal Injection,No,No,No,No
+04/14/1997,Billy Woods,50,m,White,1 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+04/16/1997,Kenneth Gentry,36,m,White,1 White Male(s),TX,Denton,S,Lethal Injection,No,No,No,No
+04/21/1997,Benjamin Boyle,53,m,White,1 White Female(s),TX,Potter,S,Lethal Injection,No,No,No,No
+04/24/1997,John Brown,35,m,White,1 White Male(s),LA,Orleans Parish,S,Lethal Injection,No,No,No,No
+04/14/1998,Angel Breard,32,m,Latino,1 White Female(s),VA,Arlington,S,Lethal Injection,No,No,No,Yes
+04/22/1998,Glennon Sweet,42,m,White,1 White Male(s),MO,Clay,M,Lethal Injection,No,No,No,No
+04/22/1998,Joseph Cannon,38,m,White,1 White Female(s),TX,Hays,S,Lethal Injection,Yes,No,No,No
+04/24/1998,Lesley Gosch,42,m,White,1 White Female(s),TX,Victoria,S,Lethal Injection,No,No,No,No
+04/29/1998,Arthur Ross,43,m,White,1 White Male(s),AZ,Pima,W,Lethal Injection,No,No,Yes,No
+04/29/1998,Frank McFarland,34,m,White,1 White Female(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+04/13/1999,Carl Chichester,36,m,Black,1 White Male(s),VA,Prince William,S,Lethal Injection,No,No,No,No
+04/28/1999,Ralph Davis,61,m,Black,1 White Female(s),MO,Butler,M,Lethal Injection,No,No,No,No
+04/28/1999,Aaron Foust,26,m,White,1 White Male(s),TX,Tarrant,S,Lethal Injection,No,No,Yes,No
+04/29/1999,Ronald Yeatts,38,m,White,1 White Female(s),VA,Pittsylvania,S,Lethal Injection,No,No,No,No
+04/14/2000,Robert Tarver,52,m,Black,1 White Male(s),AL,Russel,S,Electrocution,No,No,No,No
+04/19/2000,Robert Coe,44,m,White,1 White Female(s),TN,Weakley,S,Lethal Injection,No,No,No,No
+04/27/2000,Ronald Boyd,43,m,Black,1 White Male(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+04/21/2001,Sebastian Bridges,37,m,White,1 White Male(s),NV,Clark,W,Lethal Injection,No,No,Yes,Yes
+04/26/2001,David Dawson,46,m,White,1 White Female(s),DE,Kent,S,Lethal Injection,No,No,No,No
+04/18/2002,Gerald Casey,47,m,White,1 White Female(s),TX,Montgomery,S,Lethal Injection,No,No,No,No
+04/26/2002,Alton Coleman,46,m,Black,1 White Female(s),OH,Hamilton,M,Lethal Injection,No,No,No,No
+04/24/2003,Gary Brown,44,m,White,1 White Male(s),AL,Jefferson,S,Lethal Injection,No,No,No,No
+04/29/2003,David Brewer,44,m,White,1 White Female(s),OH,Greene,M,Lethal Injection,No,No,No,No
+04/28/1999,Eric Payne,26,m,White,1 White Female(s)1 Black Female(s),VA,Richmond,S,Lethal Injection,No,No,Yes,No
+05/29/1985,Marvin Francois,39,m,Black,6 Black Male(s),FL,Miami-Dade,S,Electrocution,No,No,No,No
+05/17/1990,Leonard Laws,40,m,White,1 White Male(s)1 White Female(s),MO,Schuyler,M,Lethal Injection,No,No,Yes,No
+05/15/1986,Jay Pinkerton,24,m,White,2 White Female(s),TX,Potter,S,Lethal Injection,Yes,No,No,No
+05/23/1991,Ignacio Cuevas,59,m,Latino,2 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+05/16/1997,Harry Moore,56,m,White,1 White Male(s)1 White Female(s),OR,Marion,W,Lethal Injection,No,No,Yes,No
+05/28/1997,Robert Madden,34,m,White,2 White Male(s),TX,Leon,S,Lethal Injection,No,No,No,No
+05/25/1999,Edward Harper,50,m,White,1 White Male(s)1 White Female(s),KY,Jefferson,S,Lethal Injection,No,No,Yes,No
+05/28/2003,Robert Knighton,62,m,White,1 White Male(s)1 White Female(s),OK,Noble,S,Lethal Injection,No,No,No,No
+05/27/1994,Charles Campbell,39,m,White,3 White Female(s),WA,Snohomish,W,Hanging,No,No,No,No
+05/19/1997,Richard Drinkard,39,m,White,1 White Male(s)2 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+05/16/2003,Newton Slawson,48,m,White,2 White Male(s)2 White Female(s),FL,Hillsborough,S,Lethal Injection,No,No,Yes,No
+05/31/2000,Robert Carter,34,m,Black,1 Black Male(s)5 Black Female(s),TX,Bastrop,S,Lethal Injection,No,No,No,No
+05/15/1985,Jesse de la Rosa,24,m,Latino,1 Asian Male(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+05/15/1987,Joseph Mulligan,35,m,Black,1 Black Female(s),GA,Muscogee,S,Electrocution,No,No,No,No
+05/16/1995,Thomas Ward,59,m,Black,1 Black Male(s),LA,Orleans Parish,S,Lethal Injection,No,No,No,No
+05/26/1999,Jessie Wise,46,m,Black,1 Black Female(s),MO,St. Louis City,M,Lethal Injection,No,No,No,No
+05/25/2000,Charles Foster,51,m,Black,1 Black Male(s),OK,Muskogee,S,Lethal Injection,No,No,No,No
+05/23/2001,Samuel Smith,40,m,Black,1 Black Male(s),MO,Callaway,M,Lethal Injection,No,No,No,No
+05/25/2001,Abdullah Hameen,37,m,Black,1 Black Male(s),DE,New Castle,S,Lethal Injection,No,No,No,No
+05/29/2001,Vincent Johnson,42,m,Black,1 Black Female(s),OK,Pottawatomie,S,Lethal Injection,No,No,No,No
+05/20/1992,Jesus Romero,27,m,Latino,1 Latino Female(s),TX,Cameron,S,Lethal Injection,No,No,No,No
+05/19/1998,Robert Carter,34,m,Black,1 Latino Female(s),TX,Harris,S,Lethal Injection,Yes,No,No,No
+05/25/1979,John Spenkelink,30,m,White,1 White Male(s),FL,Leon,S,Electrocution,No,No,No,No
+05/20/1986,Ronald Straight,42,m,White,1 White Male(s),FL,Duval,S,Electrocution,No,No,No,No
+05/20/1987,Edward Johnson,26,m,Black,1 White Male(s),MS,Leake,S,Gas Chamber,No,No,No,No
+05/22/1987,Richard Tucker,44,m,Black,1 White Female(s),GA,Bibb,S,Electrocution,No,No,No,No
+05/28/1987,Anthony Williams,27,m,Black,1 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+05/29/1987,William Tucker,31,m,White,1 White Female(s),GA,Muscogee,S,Electrocution,No,No,No,No
+05/18/1989,Henry Willis,36,m,Black,1 White Male(s),GA,Berrien,S,Electrocution,No,No,No,No
+05/24/1989,Stephen McCoy,41,m,White,1 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+05/26/1989,Michael Lindsey,28,m,Black,1 White Female(s),AL,Mobile,S,Electrocution,No,No,No,No
+05/17/1990,Johnny Anderson,30,m,White,1 White Male(s),TX,Walker,S,Lethal Injection,No,No,No,No
+05/18/1990,Dalton Prejean,30,m,Black,1 White Male(s),LA,Lafayette Parish,S,Electrocution,Yes,No,No,No
+05/20/1992,Roger Coleman,33,m,White,1 White Female(s),VA,Buchanan,S,Electrocution,No,No,No,No
+05/22/1992,Robert Black,45,m,White,1 White Female(s),TX,Brazos,S,Lethal Injection,No,No,No,No
+05/18/1993,John Sawyers,37,m,White,1 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+05/17/1994,John Thanos,44,m,White,1 White Male(s),MD,Baltimore,S,Lethal Injection,No,No,Yes,No
+05/27/1994,Stephen Nethery,33,m,White,1 White Male(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+05/17/1995,Girvies Davis,37,m,Black,1 White Male(s),IL,St. Clair,M,Lethal Injection,No,No,No,No
+05/17/1995,Darrell Devier,39,m,White,1 White Female(s),GA,Bartow,S,Electrocution,No,No,No,No
+05/25/1995,Willie Turner,49,m,Black,1 White Male(s),VA,Southampton,S,Lethal Injection,No,No,No,No
+05/31/1996,Robert South,51,m,White,1 White Male(s),SC,Lexington,S,Lethal Injection,No,No,Yes,No
+05/13/1997,Anthony Westley,36,m,Black,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+05/16/1997,Clifton Belyeu,38,m,White,1 White Female(s),TX,McLennan,S,Lethal Injection,No,No,No,No
+05/20/1997,Clarence Lackey,42,m,White,1 White Female(s),TX,Tom Green,S,Lethal Injection,No,No,No,No
+05/21/1997,Bruce Callins,37,m,Black,1 White Male(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+05/22/1997,Larry White,47,m,White,1 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+05/19/1998,Pedro Muniz,41,m,Latino,1 White Female(s),TX,Williamson,S,Lethal Injection,No,No,No,No
+05/23/2000,James Richardson,32,m,Black,1 White Male(s),TX,Navarro,S,Lethal Injection,No,No,No,No
+05/24/2000,Richard Foster,47,m,White,1 White Male(s),TX,Parker,S,Lethal Injection,No,No,No,No
+05/25/2000,James Clayton,33,m,Black,1 White Female(s),TX,Taylor,S,Lethal Injection,No,No,No,No
+05/22/2001,Terrance James,41,m,Native American,1 White Male(s),OK,Muskogee,S,Lethal Injection,No,No,No,No
+05/16/2002,Ronford Styron,32,m,White,1 White Male(s),TX,Liberty,S,Lethal Injection,No,No,No,No
+05/22/2002,Johnny Martinez,29,m,Latino,1 White Male(s),TX,Nueces,S,Lethal Injection,No,No,No,No
+05/28/2002,Napoleon Beazley,25,m,Black,1 White Male(s),TX,Smith,S,Lethal Injection,Yes,No,No,No
+05/30/2002,Stanley Baker,35,m,White,1 White Male(s),TX,Brazos,S,Lethal Injection,No,No,No,No
+05/15/2003,Bruce Jacobs,56,m,White,1 White Male(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+06/16/1987,Jimmy Wingo,35,m,White,1 White Male(s)1 White Female(s),LA,Lafayette Parish,S,Electrocution,No,No,No,No
+06/16/1999,Michael Poland,59,m,White,2 White Male(s),AZ,Yavapai,W,Lethal Injection,No,No,No,No
+06/28/2000,Bert Hunter,53,m,White,1 White Male(s)1 White Female(s),MO,St. Louis,M,Lethal Injection,No,No,No,No
+06/25/1990,Ronald Simmons,49,m,White,10 White Female(s)6 White Male(s),AR,Pope,S,Lethal Injection,No,No,Yes,No
+06/23/1994,Andre Deputy,45,m,Black,1 Black Male(s)1 Black Female(s),DE,Kent,S,Lethal Injection,No,No,No,No
+06/27/2001,Jim Lowery,54,m,White,1 White Male(s)1 White Female(s),IN,Boone,M,Lethal Injection,No,No,No,No
+06/25/2002,Robert Coulson,33,m,White,2 White Male(s)3 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+06/17/1997,Eddie Johnson,44,m,Black,1 White Male(s)2 White Female(s),TX,Aransas,S,Lethal Injection,No,No,No,No
+06/19/2001,Juan Garza*,44,m,Latino,3 Latino Male(s),FE,,S,Lethal Injection,No,Yes,No,No
+06/13/2003,Joseph Trueblood,46,m,White,1 White Male(s)2 White Female(s),IN,Tippecanoe,M,Lethal Injection,No,No,No,No
+06/26/1998,Leopoldo Narvaiz,30,m,Latino,1 White Male(s)3 White Female(s),TX,Hays,S,Lethal Injection,No,No,No,No
+06/25/1985,Charles Milton,34,m,Black,1 Black Female(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+06/21/1989,Leo Edwards,36,m,Black,1 Black Male(s),MS,Hinds,S,Gas Chamber,No,No,No,No
+06/25/1991,Bobby Francis,46,m,Black,1 Black Male(s),FL,Monroe,S,Electrocution,No,No,No,No
+06/21/1995,Larry Griffin,40,m,Black,1 Black Male(s),MO,St. Louis City,M,Lethal Injection,No,No,No,No
+06/14/2001,Jay Scott,48,m,Black,1 Black Male(s),OH,Cuyahoga,M,Lethal Injection,No,No,No,No
+06/26/2002,Jeffrey Williams,30,m,Black,1 Black Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+06/18/2003,Ernest Martin,42,m,Black,1 Black Male(s),OH,Cuyahoga,M,Lethal Injection,No,No,No,No
+06/14/2000,John Burks,44,m,Black,1 Latino Male(s),TX,McLennan,S,Lethal Injection,No,No,No,No
+06/20/1984,Carl Shriner,30,m,White,1 White Female(s),FL,Alachua,S,Electrocution,No,No,No,No
+06/25/1985,Morris Mason,32,m,Black,1 White Female(s),VA,Northampton,S,Electrocution,No,No,No,No
+06/19/1986,Kenneth Brock,37,m,White,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+06/24/1986,Jerome Bowden,34,m,Black,1 White Female(s),GA,Muscogee,S,Electrocution,No,No,No,No
+06/24/1987,Elliot Johnson,28,m,Black,1 White Male(s),TX,Jefferson,S,Lethal Injection,No,No,No,No
+06/14/1988,Edward Byrne,28,m,White,1 White Female(s),LA,Bossier Parish,S,Electrocution,No,No,No,No
+06/19/1989,William Thompson,51,m,White,1 White Male(s),NV,Washoe,W,Lethal Injection,No,No,Yes,No
+06/23/1989,Sean Flannagan,28,m,White,1 White Male(s),NV,Clark,W,Lethal Injection,No,No,Yes,No
+06/18/1990,John Swindler,46,m,White,1 White Male(s),AR,Sebastian,S,Electrocution,No,No,No,No
+06/26/1990,James Smith,37,m,Black,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,Yes,No
+06/17/1991,Jerry Bird,54,m,White,1 White Male(s),TX,Cameron,S,Lethal Injection,No,No,No,No
+06/17/1993,Andrew Chabrol,36,m,White,1 White Female(s),VA,Virginia Beach City,S,Electrocution,No,No,Yes,No
+06/28/1993,Thomas Stevens,36,m,White,1 White Male(s),GA,Liberty,S,Electrocution,No,No,No,No
+06/29/1993,Markham Duff-Smith,46,m,White,1 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+06/14/1994,Denton Crank,38,m,White,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+06/15/1994,David Lawson,38,m,White,1 White Male(s),NC,Cabarrus,S,Gas Chamber,No,No,No,No
+06/20/1995,John Fearance,40,m,Black,1 White Male(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+06/21/1995,Karl Hammond,30,m,Black,1 White Female(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+06/19/1996,Daren Bolton,29,m,White,1 White Female(s),AZ,Pima,W,Lethal Injection,No,No,Yes,No
+06/13/1997,Michael Elkins,41,m,White,1 White Female(s),SC,Jasper,S,Lethal Injection,No,No,Yes,No
+06/16/1997,David Stoker,38,m,White,1 White Male(s),TX,Hale,S,Lethal Injection,No,No,No,No
+06/18/1997,Irineo Montoya,30,m,Latino,1 White Male(s),TX,Cameron,S,Lethal Injection,No,No,No,Yes
+06/25/1997,William Woratzeck,51,m,White,1 White Female(s),AZ,Pinal,W,Lethal Injection,No,No,No,No
+06/15/1998,Johnny Pyles,40,m,White,1 White Male(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+06/18/1998,Dennis Eaton,41,m,White,1 White Male(s),VA,Fairfax,S,Lethal Injection,No,No,No,No
+06/16/1999,Bruce Kilgore,38,m,Black,1 White Female(s),MO,St. Louis,M,Lethal Injection,No,No,No,No
+06/17/1999,Stanley Faulder,61,m,White,1 White Female(s),TX,Gregg,S,Lethal Injection,No,No,No,Yes
+06/18/1999,Brian Baldwin,40,m,Black,1 White Female(s),AL,Monroe,S,Electrocution,No,No,No,No
+06/30/1999,Robert Walls,33,m,White,1 White Male(s),MO,St. Louis,M,Lethal Injection,No,No,No,No
+06/15/2000,William Bryson,29,m,Black,1 White Female(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+06/15/2000,Paul Nuncio,31,m,Latino,1 White Female(s),TX,Hale,S,Lethal Injection,No,No,No,No
+06/21/2000,Thomas Provenzano,51,m,White,1 White Male(s),FL,Harris,S,Lethal Injection,No,No,No,No
+06/22/2000,Shaka Sankofa (Gary Graham),36,m,Black,1 White Male(s),TX,Orange,S,Lethal Injection,Yes,No,No,No
+06/29/2000,Jessy San Miguel,29,m,Latino,1 White Male(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+06/13/2001,John Wheat,57,m,White,1 White Male(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+06/26/2001,Miguel Richardson,46,m,Black,1 White Male(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+06/13/2002,Daniel Reneau,27,m,White,1 White Male(s),TX,Kerr,S,Lethal Injection,No,No,No,No
+07/30/1992,William Andrews,37,m,Black,1 White Male(s)2 White Female(s),UT,Weber,W,Lethal Injection,No,No,No,No
+07/30/1993,Danny Harris,32,m,Black,1 White Male(s),TX,Brazos,S,Lethal Injection,No,No,No,No
+07/18/1996,Tommie Smith,42,m,Black,1 White Male(s),IN,Marion,M,Lethal Injection,No,No,No,No
+07/23/2002,Randall Cannon,42,m,White,1 White Female(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+07/26/1995,Robert Murray,32,m,Black,2 Black Male(s),MO,St. Louis City,M,Lethal Injection,No,No,No,No
+07/22/2003,Bryan Toles,31,m,Black,2 Black Male(s),OK,Comanche,S,Lethal Injection,No,No,No,No
+07/21/1992,Edward Kennedy,47,m,Black,2 White Male(s),FL,Duval,S,Electrocution,No,No,No,No
+07/17/1996,John Joubert,33,m,White,2 White Male(s),NE,Lancaster,M,Electrocution,No,No,No,No
+07/29/2003,Harold McElmurry,33,m,White,1 White Male(s)1 White Female(s),OK,McIntosh,S,Lethal Injection,No,No,No,No
+07/13/1984,David Washington,34,m,Black,2 White Male(s)1 Black Female(s),FL,Miami-Dade,S,Electrocution,No,No,No,No
+07/18/1995,Bernard Bolender,42,m,White,3 Latino Male(s)1 White Male(s),FL,Miami-Dade,S,Electrocution,No,No,No,No
+07/19/1996,Fred Kornahrens,47,m,White,2 White Male(s)1 White Female(s),SC,Charleston,S,Lethal Injection,No,No,No,No
+07/22/1991,Andrew Jones,35,m,Black,1 Black Female(s),LA,East Baton Rouge Parish,S,Electrocution,No,No,No,No
+07/28/1993,Frederick Lashley,29,m,Black,1 Black Female(s),MO,St. Louis City,M,Lethal Injection,Yes,No,No,No
+07/21/1999,Thomas Strickler,33,m,White,1 Black Female(s),VA,Augusta,S,Lethal Injection,No,No,No,No
+07/31/1986,Michael Smith,40,m,Black,1 White Female(s),VA,James City County,S,Electrocution,No,No,No,No
+07/20/1987,Willie Celestine,30,m,Black,1 White Female(s),LA,Lafayette Parish,S,Electrocution,No,No,No,No
+07/24/1987,Willie Watson,31,m,Black,1 White Female(s),LA,St. Charles Parish,S,Electrocution,No,No,No,No
+07/30/1987,John Brogdon,25,m,White,1 White Female(s),LA,St. Charles Parish,S,Electrocution,No,No,No,No
+07/28/1988,James Messer,34,m,White,1 White Female(s),GA,Polk,S,Electrocution,No,No,No,No
+07/14/1989,Horace Dunkins,28,m,Black,1 White Female(s),AL,Jefferson,S,Electrocution,No,No,No,No
+07/13/1990,Wallace Thomas,35,m,Black,1 White Female(s),AL,Jefferson,S,Electrocution,No,No,No,No
+07/18/1990,Mikel Derrick,33,m,White,1 White Male(s),TX,Muskogee,S,Lethal Injection,No,No,No,No
+07/19/1990,Richard Boggs,27,m,White,1 White Female(s),VA,Portsmouth City,S,Electrocution,No,No,No,No
+07/27/1990,Anthony Bertolotti,38,m,Black,1 White Female(s),FL,Osceola,S,Electrocution,No,No,No,No
+07/24/1991,Albert Clozza,31,m,White,1 White Female(s),VA,Virginia Beach City,S,Electrocution,No,No,No,No
+07/23/1992,Edward Fitzgerald,34,m,White,1 White Female(s),VA,Chesterfield,S,Electrocution,No,No,No,No
+07/21/1993,Walter Blair,32,m,Black,1 White Female(s),MO,Jackson,M,Lethal Injection,No,No,No,No
+07/17/1996,Joseph Savino,37,m,White,1 White Male(s),VA,Bedford,S,Lethal Injection,No,No,No,No
+07/31/1996,Emmet Nave,55,m,Native American,1 White Female(s),MO,St. Charles,M,Lethal Injection,No,No,No,No
+07/17/1997,Roy Smith,50,m,White,1 White Male(s),VA,Pittsylvania,S,Lethal Injection,No,No,No,No
+07/23/1997,Joseph O'Dell,55,m,White,1 White Female(s),VA,Virginia Beach City,S,Lethal Injection,No,No,No,No
+07/29/1997,Robert West,35,m,Native American,1 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+07/14/1998,Thomas Thompson,43,m,White,1 White Female(s),CA,Orange,W,Lethal Injection,No,No,No,No
+07/23/1998,Danny King,47,m,White,1 White Female(s),VA,Roanoke,S,Lethal Injection,No,No,No,No
+07/20/2000,Gregg Braun,39,m,White,1 White Female(s),OK,Carter,S,Lethal Injection,No,No,No,No
+07/26/2000,Juan Soria,33,m,Latino,1 White Male(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+07/17/2001,Jerald Harjo,40,m,Native American,1 Native American Female(s),OK,Seminole,S,Lethal Injection,No,No,No,No
+07/17/2002,Tracy Hansen,39,m,White,1 White Male(s),MS,Chickasaw,S,Lethal Injection,No,No,No,No
+07/30/2002,Earl Frederick,51,m,White,1 White Male(s),OK,Oklahoma,S,Lethal Injection,No,No,Yes,No
+07/22/2003,Bobby Swisher,27,m,White,1 White Female(s),VA,Augusta,S,Lethal Injection,No,No,No,No
+07/23/2003,Cedric Ransom,29,m,Black,1 White Male(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+07/24/2003,Jackie Willingham,33,m,White,1 White Female(s),OK,Comanche,S,Lethal Injection,No,No,No,No
+07/24/2003,Allen Janecka,53,m,White,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+08/28/1987,Wayne Ritter,33,m,White,1 White Male(s),AL,Mobile,S,Electrocution,No,No,No,No
+08/28/1987,Beauford White,41,m,Black,6 Black Male(s),FL,Miami-Dade,S,Electrocution,No,No,No,No
+08/31/1990,George Gilmore,44,m,White,1 White Male(s)1 White Female(s),MO,St. Louis,M,Lethal Injection,No,No,No,No
+08/28/1987,Dale Selby,34,m,Black,1 White Male(s)2 White Female(s),UT,Weber,W,Lethal Injection,No,No,No,No
+08/31/1993,Richard Wilkerson,29,m,Black,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+08/21/1996,Richard Oxford,39,m,White,1 White Male(s)1 White Female(s),MO,Platte,M,Lethal Injection,No,No,No,No
+08/30/2000,Russel Burkett,32,m,White,2 White Female(s),VA,Virginia Beach City,S,Lethal Injection,No,No,No,No
+08/16/2001,Jeffrey Doughtie,39,m,White,1 White Male(s)1 White Female(s),TX,Nueces,S,Lethal Injection,No,No,No,No
+08/29/2001,Jack Walker,35,m,White,1 White Male(s)1 White Female(s),OK,Tulsa,S,Lethal Injection,No,No,No,No
+08/30/2000,Jeffrey Caldwell,37,m,Black,1 Black Male(s)2 Black Female(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+08/28/2002,Toronto Patterson,27,m,Black,3 Black Female(s),TX,Dallas,S,Lethal Injection,Yes,No,No,No
+08/15/1995,Leon Moser,52,m,White,3 White Female(s),PA,Montgomery,N,Lethal Injection,No,No,Yes,No
+08/30/2000,Gary Roll,47,m,White,2 White Male(s)1 White Female(s),MO,Boone,M,Lethal Injection,No,No,No,No
+08/23/1991,Maurice Byrd,36,m,Black,1 White Male(s)3 White Female(s),MO,St. Louis,M,Lethal Injection,No,No,No,No
+08/18/1989,Herbert Richardson,43,m,Black,1 Black Female(s),AL,Houston,S,Electrocution,No,No,No,No
+08/18/1995,Sylvester Adams,39,m,Black,1 Black Male(s),SC,York,S,Lethal Injection,No,No,No,No
+08/26/1998,Genaro Ruiz Camacho,43,m,Latino,1 Black Male(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+08/22/2003,William Jones,34,m,Black,1 Black Male(s),NC,Quake,S,Lethal Injection,No,No,No,No
+08/24/1993,Ruben Cantu,26,m,Latino,1 Latino Male(s),TX,Bexar,S,Lethal Injection,Yes,No,No,No
+08/22/1996,Luis Mata,45,m,Latino,1 White Female(s),AZ,Maricopa,W,Lethal Injection,No,No,No,No
+08/14/2002,Javier Medina,33,m,Latino,1 Latino Male(s),TX,Dallas,S,Lethal Injection,No,No,No,Yes
+08/20/1986,Randy Woolls,36,m,White,1 White Female(s),TX,Tom Green,S,Lethal Injection,No,No,No,No
+08/22/1986,Larry Smith,30,m,Black,1 White Male(s),TX,El Paso,S,Lethal Injection,No,No,No,No
+08/26/1986,Chester Wicker,37,m,White,1 White Female(s),TX,Galveston,S,Lethal Injection,No,No,No,No
+08/24/1987,Sterling Rault,36,m,White,1 White Female(s),LA,Orleans Parish,S,Electrocution,No,No,No,No
+08/30/1989,Alton Waye,34,m,Black,1 White Male(s),VA,Brunswick,S,Electrocution,No,No,No,No
+08/22/1991,Derick Peterson,30,m,Black,1 White Male(s),VA,Hampton City,S,Electrocution,No,No,No,No
+08/20/1993,Carl Kelly,34,m,Black,2 White Male(s),TX,McLennan,S,Lethal Injection,No,No,No,No
+08/24/1993,David Mason,36,m,White,2 White Male(s)3 White Female(s),CA,Alameda,W,Gas Chamber,No,No,Yes,No
+08/25/1993,Michael Durocher,33,m,White,1 White Female(s),FL,Clay,S,Electrocution,No,No,Yes,No
+08/31/1993,Kenneth DeShields,33,m,Black,1 White Female(s),DE,Sussex,S,Lethal Injection,No,No,No,No
+08/15/1995,Vernon Sattiewhite,39,m,Black,1 White Female(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+08/31/1995,Barry Fairchild,41,m,Black,1 White Female(s),AR,Pulaski,S,Lethal Injection,No,No,No,No
+08/13/1997,Donald Reese,54,m,White,1 White Male(s),MO,Jefferson,M,Lethal Injection,No,No,No,No
+08/19/1997,Carlton Pope,35,m,Black,1 White Female(s),VA,Portsmouth City,S,Lethal Injection,No,No,No,No
+08/20/1997,Andrew Six,32,m,White,1 White Female(s),MO,Schuyler,M,Lethal Injection,No,No,No,No
+08/14/1998,Zane Hill,62,m,White,1 White Male(s),NC,Buncombe,S,Lethal Injection,No,No,No,No
+08/20/1998,Lance Chandler,25,m,Black,1 White Male(s),VA,Halifax,S,Lethal Injection,No,No,No,No
+08/31/1998,Johnile DuBois,31,m,Black,1 White Male(s),VA,Fairfax,S,Lethal Injection,No,No,No,No
+08/17/1999,Marlon Williams,26,m,Black,1 White Female(s),VA,Chesapeake City,S,Lethal Injection,No,No,No,No
+08/18/1999,Joseph Trevino,37,m,Latino,1 White Female(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+08/16/2000,John Satterwhite,53,m,Black,1 White Female(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+08/22/2000,Richard Jones,40,m,White,1 White Female(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+08/23/2000,David Gibbs,39,m,White,2 White Female(s),TX,Montgomery,S,Lethal Injection,No,No,No,No
+08/25/2000,Dan Hauser,30,m,White,1 White Female(s),FL,Okaloosa,S,Lethal Injection,No,No,Yes,No
+08/24/2001,Clifton White,43,m,White,1 White Female(s),NC,Mecklenburg,S,Lethal Injection,No,No,No,No
+08/28/2001,James Elledge,58,m,White,1 White Female(s),WA,Snohomish,W,Lethal Injection,No,No,Yes,No
+08/31/2001,Ronald Frye,42,m,White,1 White Male(s),NC,Catawba,S,Lethal Injection,No,No,No,No
+08/14/2002,Daniel Basile,35,m,White,1 White Female(s),MO,St. Charles,M,Lethal Injection,No,No,No,No
+08/16/2002,Wallace Fugate,52,m,White,1 White Female(s),GA,Putnam,S,Lethal Injection,No,No,No,No
+08/20/2002,Gary Etheridge,38,m,White,1 White Female(s),TX,Brazoria,S,Lethal Injection,No,No,No,No
+08/23/2002,Anthony Green,37,m,Black,1 White Female(s),SC,Charleston,S,Lethal Injection,No,No,No,No
+09/15/1992,Willie Jones,34,m,Black,1 Black Male(s)1 Black Female(s),VA,Charles City,S,Electrocution,No,No,No,No
+09/22/1992,James Demouchette,37,m,Black,2 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+09/20/1994,George Lott,47,m,White,2 White Male(s),TX,Potter,S,Lethal Injection,No,No,Yes,No
+09/25/1997,Benjamin Stone,45,m,White,2 White Female(s),TX,Nueces,S,Lethal Injection,No,No,Yes,No
+09/23/1998,Kenneth Stewart,44,m,White,1 White Male(s)1 White Female(s),VA,Bedford,S,Electrocution,No,No,No,No
+09/24/2002,Rex Mays,42,m,White,2 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+09/25/1998,Sammy Roberts,40,m,White,2 White Male(s)1 Black Female(s),SC,Berkeley,S,Lethal Injection,No,No,No,No
+09/22/1995,Phillip Ingle,34,m,White,1 White Female(s)1 White Male(s),NC,Rutherford,S,Lethal Injection,No,No,Yes,No
+09/18/1996,Raymond Stewart,44,m,Black,1 White Male(s)2 Black Male(s),IL,Winnebago,M,Lethal Injection,No,No,No,No
+09/20/1984,James Henry,34,m,Black,1 Black Male(s),FL,Orange,S,Electrocution,No,No,No,No
+09/19/1995,Carl Johnson,40,m,Black,1 Black Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+09/24/1997,Samuel McDonald,48,m,Black,1 Black Male(s),MO,St. Louis City,M,Lethal Injection,No,No,No,No
+09/14/1999,William Davis,42,m,Black,1 Black Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+09/13/2000,George Harris,41,m,Black,1 Black Male(s),MO,Jackson,M,Lethal Injection,No,No,No,No
+09/25/2002,Calvin King,48,m,Black,1 Black Male(s),TX,Jefferson,S,Lethal Injection,No,No,No,No
+09/23/1998,David Castillo,34,m,Latino,1 Latino Male(s),TX,Hidalgo,S,Lethal Injection,No,No,No,No
+09/18/2001,James Knox,50,m,White,1 Latino Male(s),TX,Galveston,S,Lethal Injection,No,No,No,No
+09/19/1986,John Rook,27,m,White,1 White Female(s),NC,Wake,S,Lethal Injection,No,No,No,No
+09/21/1987,Timothy McCorquodale,35,m,White,1 White Female(s),GA,Fulton,S,Electrocution,No,No,No,No
+09/20/1989,James Paster,44,m,White,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+09/21/1990,James Hamblen,61,m,White,1 White Female(s),FL,Duval,S,Electrocution,No,No,No,No
+09/19/1991,James Russell,42,m,Black,1 White Male(s),TX,Fort Bend,S,Lethal Injection,No,No,No,No
+09/25/1991,Warren McCleskey,44,m,Black,1 White Male(s),GA,Fulton,S,Electrocution,No,No,No,No
+09/14/1993,Joseph Wise,31,m,Black,1 White Male(s),VA,Mecklenburg,S,Electrocution,No,No,No,No
+09/28/1993,Antonio Bonham,33,m,Black,1 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+09/16/1994,Jessie Gutierrez,29,m,Latino,1 White Female(s),TX,Brazos,S,Lethal Injection,No,No,No,No
+09/13/1995,Jimmie Jeffers,49,m,White,1 White Female(s),AZ,Pima,W,Lethal Injection,No,No,No,No
+09/20/1995,Charles Albanese,58,m,White,1 White Female(s),IL,McHenry,M,Lethal Injection,No,No,No,No
+09/27/1995,Dennis Stockton,54,m,White,1 White Male(s),VA,Patrick,S,Lethal Injection,No,No,No,No
+09/18/1996,Joe Gonzales,36,m,Latino,1 White Male(s),TX,Potter,S,Lethal Injection,No,No,Yes,No
+09/17/1997,Mario Murphy,25,m,Latino,1 White Male(s),VA,Virginia Beach City,S,Lethal Injection,No,No,No,Yes
+09/22/1997,Jessel Turner,37,m,Black,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+09/30/1997,Johnny Cockrum,38,m,White,1 White Female(s),TX,Bowie,S,Lethal Injection,No,No,No,No
+09/16/1999,Everett Mueller,51,m,White,1 White Female(s),VA,Chesterfield,S,Lethal Injection,No,No,No,No
+09/21/1999,Richard Smith,43,m,White,1 White Female(s),TX,Harris,S,Lethal Injection,No,No,Yes,No
+09/24/1999,Willie Sullivan,28,m,Black,1 White Male(s),DE,Kent,S,Lethal Injection,No,No,No,No
+09/24/1999,Harvey Green,38,m,Black,1 White Male(s)1 White Female(s),NC,Pitt,S,Lethal Injection,No,No,No,No
+09/14/2000,Derek Barnabei,33,m,White,1 White Female(s),VA,Norfolk City,S,Lethal Injection,No,No,No,No
+09/27/2000,Ricky McGinn,43,m,White,1 White Female(s),TX,Brown,S,Lethal Injection,No,No,No,No
+10/03/2001,Michael Roberts,27,m,White,1 White Female(s),MO,St. Louis,M,Lethal Injection,No,No,No,No
+09/13/2002,Michael Passaro,40,m,White,1 White Female(s),SC,Horry,S,Lethal Injection,No,No,Yes,No
+09/17/2002,Jessie Patrick,44,m,White,1 White Female(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+09/18/2002,Ronald Shamburger,30,m,White,1 White Female(s),TX,Brazos,S,Lethal Injection,No,No,No,No
+09/25/2002,Robert Buell,62,m,White,1 White Female(s),OH,Wayne,M,Lethal Injection,No,No,No,No
+09/10/2003,Larry Hayes,54,m,White,1 White Female(s)1 Black Female(s),TX,Montgomery,S,Lethal Injection,No,No,Yes,No
+09/12/2003,Henry Hunt,58,m,Native American,2 Native American Male(s),NC,Robeson,S,Lethal Injection,No,No,No,No
+09/26/2003,Joseph Bates,35,m,White,1 White Male(s),NC,Yadkin,S,Lethal Injection,No,No,No,No
+10/03/2003,Edward Hartman,39,m,White,1 White Male(s),NC,Northampton,S,Lethal Injection,No,No,No,No
+10/29/2003,John Smith,42,m,White,1 White Male(s)1 White Female(s),MO,Audrain,M,Lethal Injection,No,No,Yes,No
+11/04/2003,James Brown,55,m,White,1 White Female(s),GA,Gwinnet,S,Lethal Injection,No,No,No,No
+11/07/2003,Joseph Keel,39,m,White,1 White Male(s),NC,Edgecombe,S,Lethal Injection,No,No,No,No
+11/14/2003,John Daniels,46,m,Black,1 Black Female(s),NC,Mecklenburg,S,Lethal Injection,No,No,No,No
+11/20/2003,Robert Henry,41,m,White,2 White Female(s),TX,San Patricio,S,Lethal Injection,No,No,No,No
+12/03/2003,Richard Duncan,61,m,White,1 White Male(s)1 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+12/04/2003,Ivan Murphy,38,m,White,1 White Female(s),TX,Grayson,S,Lethal Injection,No,No,No,No
+12/05/2003,Robbie Lyons,31,m,Black,1 White Male(s),NC,Forsyth,S,Lethal Injection,No,No,No,No
+01/06/2004,Ynobe Matthews,27,m,Black,1 White Female(s),TX,Brazos,S,Lethal Injection,No,No,Yes,No
+01/06/2004,Charles Singleton,44,m,Black,1 White Female(s),AR,Ashley,S,Lethal Injection,No,No,No,No
+01/09/2004,Raymond Rowsey,32,m,White,1 White Male(s),NC,Alamance,S,Lethal Injection,No,No,No,No
+01/13/2004,Tyrone Darks,39,m,Black,1 Black Female(s),OK,Cleveland,S,Lethal Injection,No,No,No,No
+01/14/2004,Lewis Williams,45,m,Black,1 White Female(s),OH,Cuyahoga,M,Lethal Injection,No,No,No,No
+01/14/2004,Kenneth Bruce,32,m,Black,1 White Female(s),TX,Collin,S,Lethal Injection,No,No,No,No
+01/21/2004,Kevin Zimmerman,42,m,White,1 White Male(s),TX,Jefferson,S,Lethal Injection,No,No,No,No
+01/28/2004,Billy Vickers,58,m,White,1 White Male(s),TX,Lamar,S,Lethal Injection,No,No,No,No
+02/03/2004,John Roe,41,m,White,1 White Female(s),OH,Franklin,M,Lethal Injection,No,No,No,No
+02/05/2004,Johnny Robinson,51,m,Black,1 White Female(s),FL,St. Johns,S,Lethal Injection,No,No,No,No
+02/11/2004,Edward Lagrone,46,m,Black,3 Black Female(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+02/12/2004,Bobby Hopkins,36,m,Black,2 White Female(s),TX,Johnson,S,Lethal Injection,No,No,No,No
+02/17/2004,Norman Cleary,38,m,White,1 White Female(s),OK,Tulsa,S,Lethal Injection,No,No,No,No
+02/17/2004,Cameron Willingham,36,m,White,3 White Female(s),TX,Navarro,S,Lethal Injection,No,No,No,No
+03/03/2004,Marcus Cotton,29,m,Black,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+03/09/2004,David Brown,49,m,White,1 White Male(s),OK,Grady,S,Lethal Injection,No,No,No,No
+03/18/2004,Brian Cherrix,30,m,White,1 White Female(s),VA,Accomack,S,Lethal Injection,No,No,No,No
+03/19/2004,David Hill,39,m,White,1 White Male(s),SC,Georgetown,S,Lethal Injection,No,No,No,No
+03/23/2004,Hung Thanh Le,37,m,Asian,1 Asian Male(s),OK,Oklahoma,S,Lethal Injection,No,No,No,Yes
+03/26/2004,Lawrence Colwell,35,m,White,1 White Male(s),NV,Clark,W,Lethal Injection,No,No,Yes,No
+03/30/2004,William Wickline,52,m,White,1 White Male(s)1 White Female(s),OH,Franklin,M,Lethal Injection,No,No,No,No
+03/31/2004,Dennis Orbe,39,m,White,1 White Male(s),VA,York,S,Lethal Injection,No,No,No,No
+04/16/2004,Jerry McWee,51,m,White,1 White Male(s),SC,Aiken,S,Lethal Injection,No,No,No,No
+04/23/2004,Jason Byram,38,m,White,1 White Female(s),SC,Richland,S,Lethal Injection,No,No,No,No
+05/18/2004,Kelsey Patterson,50,m,Black,1 White Male(s)1 White Female(s),TX,Anderson,S,Lethal Injection,No,No,No,No
+05/26/2004,John Blackwelder,49,m,White,1 White Male(s),FL,Columbia,S,Lethal Injection,No,No,Yes,No
+05/28/2004,James Tucker,47,m,White,2 White Female(s),SC,Calhoun,S,Electrocution,No,No,No,No
+06/08/2004,William Zuern,45,m,White,1 White Male(s),OH,Hamilton,M,Lethal Injection,No,No,No,No
+06/08/2004,Robert Bryan,63,m,White,1 White Female(s),OK,Beckham,S,Lethal Injection,No,No,No,No
+06/17/2004,Steven Oken,42,m,White,1 White Female(s),MD,Baltimore,S,Lethal Injection,No,No,No,No
+06/30/2004,David Harris,43,m,White,1 White Male(s),TX,Jefferson,S,Lethal Injection,No,No,No,No
+07/01/2004,Robert Hicks,47,m,White,1 White Female(s),GA,Spalding,S,Lethal Injection,No,No,No,No
+07/14/2004,Stephen Vrabel,47,m,White,2 White Female(s),OH,Mahoning,M,Lethal Injection,No,No,Yes,No
+07/19/2004,Eddie Crawford,57,m,White,1 White Female(s),GA,Spalding,S,Lethal Injection,No,No,No,No
+07/20/2004,Scott Mink,40,m,White,1 White Male(s)1 White Female(s),OH,Montgomery,M,Lethal Injection,No,No,Yes,No
+07/22/2004,Mark Bailey,34,m,White,1 White Male(s)1 White Female(s),VA,Hampton City,S,Lethal Injection,No,No,No,No
+08/05/2004,James Hubbard,74,m,White,1 White Female(s),AL,Tuscaloosa,S,Lethal Injection,No,No,No,No
+08/12/2004,Terry Dennis,56,m,White,1 White Female(s),NV,Washoe,W,Lethal Injection,No,No,Yes,No
+08/18/2004,James Hudson,57,m,White,2 White Male(s)1 White Female(s),VA,Halifax,S,Lethal Injection,No,No,Yes,No
+08/25/2004,Jasen Busby,28,m,White,2 White Female(s),TX,Cherokee,S,Lethal Injection,No,No,No,No
+08/26/2004,Windel Workman,46,m,White,1 White Female(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+08/26/2004,James Allridge,41,m,Black,1 White Male(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+09/09/2004,James Reid,58,m,Black,1 Black Female(s),VA,Montgomery,S,Lethal Injection,No,No,No,No
+09/21/2004,Andrew Flores,32,m,Latino,1 Latino Male(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+09/30/2004,David Hocker,33,m,White,1 White Male(s),AL,Henry,S,Lethal Injection,No,No,Yes,No
+10/05/2004,Edward Green,30,m,Black,1 Black Male(s)1 Black Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+10/06/2004,Peter Miniel,42,m,Latino,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,Yes,No
+10/08/2004,Sammy Perkins,51,m,Black,1 Black Female(s),NC,Pitt,S,Lethal Injection,No,No,No,No
+10/12/2004,Donald Aldrich,39,m,White,1 Latino Male(s),TX,Kerr,S,Lethal Injection,No,No,No,No
+10/13/2004,Adremy Dennis,28,m,Black,1 White Male(s),OH,Summit,M,Lethal Injection,No,No,No,No
+10/20/2004,Ricky Morrow,53,m,White,1 White Male(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+10/22/2004,Charles Roache,30,m,White,2 White Female(s),NC,Haywood,S,Lethal Injection,No,No,Yes,No
+10/26/2004,Dominique Green,30,m,Black,1 Black Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+11/02/2004,Lorenzo Morris,52,m,Black,1 Black,TX,Harris,S,Lethal Injection,No,No,No,No
+11/04/2004,Robert Morrow,47,m,White,1 White Female(s),TX,Liberty,S,Lethal Injection,No,No,No,No
+11/09/2004,Demarco McCullum,30,m,Black,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+11/10/2004,Frederick McWilliams,30,m,Black,1 Latino Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+11/12/2004,Frank Chandler,32,m,White,1 White Female(s),NC,Surry,S,Lethal Injection,No,No,No,No
+11/17/2004,Anthony Fuentes,30,m,Latino,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+01/04/2005,James Porter,33,m,White,1 Latino Male(s),TX,Bowie,S,Lethal Injection,No,No,Yes,No
+01/19/2005,Donald Beardslee,61,m,White,2 White Female(s),CA,San Mateo,W,Lethal Injection,No,No,No,No
+01/25/2005,Troy Kunkle,38,m,White,1 White Male(s),TX,Nueces,S,Lethal Injection,No,No,No,No
+01/25/2005,Timothy Carr,34,m,White,1 White Male(s),GA,Monroe,S,Lethal Injection,No,No,No,No
+02/17/2005,Dennis Bagwell,41,m,White,4 White Female(s),TX,Atascosa,S,Lethal Injection,No,No,No,No
+03/01/2005,Stephen Mobley,39,m,White,1 White Male(s),GA,Hall,S,Lethal Injection,No,No,No,No
+03/08/2005,William Smith,47,m,Black,1 Black Female(s),OH,Hamilton,M,Lethal Injection,No,No,No,No
+03/08/2005,George Hopper,50,m,White,1 White Female(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+03/10/2005,Donald Wallace,47,m,White,2 White Male(s)2 White Female(s),IN,Vigo,M,Lethal Injection,No,No,No,No
+03/11/2005,William Powell,58,m,White,1 White Female(s),NC,Cleveland,S,Lethal Injection,No,No,No,No
+03/15/2005,Jimmy Slaughter,57,m,White,2 White Female(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+03/16/2005,Stanley Hall,37,m,Black,1 White Female(s),MO,St. Louis,M,Lethal Injection,No,No,No,No
+04/05/2005,Glen Ocha,47,m,White,1 White Female(s),FL,Osceola,S,Lethal Injection,No,No,Yes,No
+04/15/2005,Richard Longworth,36,m,White,2 White Male(s),SC,Spartanburg,S,Lethal Injection,No,No,No,No
+04/20/2005,Douglas Roberts,42,m,White,1 Latino Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+04/21/2005,Bill Benefiel,48,m,White,1 White Female(s),IN,Vigo,M,Lethal Injection,No,No,No,No
+04/27/2005,Donald Jones,38,m,Black,1 Black Female(s),MO,St. Louis,M,Lethal Injection,No,No,No,No
+04/28/2005,Mario Centobie,39,m,White,1 White Male(s),AL,St. Clair,S,Lethal Injection,No,No,Yes,No
+05/03/2005,Lonnie Pursley,43,m,White,1 White Male(s),TX,Polk,S,Lethal Injection,No,No,No,No
+05/06/2005,Earl Richmond,43,m,Black,1 Black Male(s)2 Black Female(s),NC,Cumberland,S,Lethal Injection,No,No,No,No
+05/13/2005,Michael Ross,45,m,White,4 White Female(s),CT,New London,N,Lethal Injection,No,No,Yes,No
+05/12/2005,George Miller,37,m,Black,1 White Male(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+05/18/2005,Vernon Brown,51,m,Black,1 Black Female(s),MO,St. Louis,M,Lethal Injection,No,No,No,No
+05/18/2005,Bryan Wolfe,44,m,Black,1 Black Female(s),TX,Jefferson,S,Lethal Injection,No,No,No,No
+05/19/2005,Richard Cartwright,31,m,White,1 Latino Male(s),TX,Nueces,S,Lethal Injection,No,No,No,No
+05/25/2005,Gregory Johnson,40,m,White,1 White Female(s),IN,Madison,M,Lethal Injection,No,No,No,No
+06/02/2005,Jerry Henderson,58,m,White,1 White Male(s),AL,Talladega,S,Lethal Injection,No,No,No,No
+06/07/2005,Alexander Martinez,28,m,Latino,1 White Female(s),TX,Harris,S,Lethal Injection,No,No,Yes,No
+07/12/2005,Robert Conklin,44,m,White,1 White Male(s),GA,Fulton,S,Lethal Injection,No,No,No,No
+07/19/2005,Michael Pennington,37,m,Black,1 White Male(s),OK,Comanche,S,Lethal Injection,No,No,No,No
+07/27/2005,Kevin Conner,38,m,White,3 White Male(s),IN,Marion,M,Lethal Injection,No,No,Yes,No
+07/28/2005,David Martinez,29,m,Latino,1 White Female(s),TX,Travis,S,Lethal Injection,No,No,No,No
+08/04/2005,George Sibley,62,m,White,1 White Male(s),AL,Lee,S,Lethal Injection,No,No,No,No
+08/10/2005,Gary Sterling,38,m,Black,1 White Male(s),TX,Navarro,S,Lethal Injection,No,No,No,No
+08/11/2005,Kenneth Turrentine,52,m,Black,1 Black Female(s),OK,Tulsa,S,Lethal Injection,No,No,No,No
+08/22/2005,Robert Shields,30,m,White,1 White Female(s),TX,Galveston,S,Lethal Injection,No,No,No,No
+08/31/2005,Timothy Johnston,44,m,White,1 White Female(s),MO,St. Louis,M,Lethal Injection,No,No,No,No
+09/14/2005,Frances Newton,40,f,Black,2 Black Male(s)1 Black Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+09/22/2005,John Peoples,48,m,White,2 White Male(s)1 White Female(s),AL,Talladega,S,Lethal Injection,No,No,No,No
+09/27/2005,Herman Ashworth,32,m,White,1 White Male(s),OH,Licking,M,Lethal Injection,No,No,Yes,No
+09/28/2005,Alan Matheney,54,m,White,1 White Female(s),IN,Lake,M,Lethal Injection,No,No,No,No
+10/06/2005,Ronald Howard,32,m,Black,1 White Male(s),TX,Travis,S,Lethal Injection,No,No,No,No
+10/20/2005,Luis Ramirez,42,m,Latino,1 Latino Male(s),TX,Tom Green,S,Lethal Injection,No,No,No,No
+10/25/2005,William Williams,48,m,Black,3 White Male(s)1 Black Female(s),OH,Summit,M,Lethal Injection,No,No,No,No
+10/26/2005,Marlin Gray,38,m,Black,1 White Female(s),MO,St. Louis,M,Lethal Injection,No,No,No,No
+11/03/2005,Melvin White,55,m,White,1 White Female(s),TX,Pecos,S,Lethal Injection,No,No,No,No
+11/04/2005,Brian Steckel,36,m,White,1 White Female(s),DE,New Castle,S,Lethal Injection,No,No,No,No
+11/04/2005,Arthur Wise,51,m,Black,3 White Male(s)1 White Female(s),SC,Aiken,S,Lethal Injection,No,No,Yes,No
+11/09/2005,Charles Thacker,38,m,White,1 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+11/11/2005,Steven McHone,35,m,White,1 White Male(s)1 White Female(s),NC,Surry,S,Lethal Injection,No,No,No,No
+11/15/2005,Robert Rowell,50,m,White,1 Latino Male(s)1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+11/16/2005,Shannon Thomas,34,m,Black,2 Latino Male(s)1 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+11/18/2005,Elias Syriani,67,m,White,1 Other Female(s),NC,Mecklenburg,S,Lethal Injection,No,No,No,No
+11/28/2005,Eric Nance,45,m,White,1 White Female(s),AR,Hot Spring,S,Lethal Injection,No,No,No,No
+11/29/2005,John Hicks,49,m,Black,2 Black Female(s),OH,Hamilton,M,Lethal Injection,No,No,No,No
+12/02/2005,Kenneth Boyd,57,m,White,1 White Male(s)1 White Female(s),NC,Rockingham,S,Lethal Injection,No,No,No,No
+12/02/2005,Shawn Humphries,33,m,White,1 White Male(s),SC,Greenville,S,Lethal Injection,No,No,No,No
+12/06/2005,Wesley Baker,47,m,Black,1 White Female(s),MD,Harford,S,Lethal Injection,No,No,No,No
+12/13/2005,Stanley Williams,51,m,Black,1 White Male(s)1 Asian Male(s)2 Asian Female(s),CA,Los Angeles,W,Lethal Injection,No,No,No,No
+12/14/2005,John Nixon,77,m,White,1 White Female(s),MS,Rankin,S,Lethal Injection,No,No,No,No
+01/17/2006,Clarence Allen,76,m,Native American,2 White Male(s)1 White Female(s),CA,Glenn,W,Lethal Injection,No,No,No,No
+01/20/2006,Perrie Simpson,43,m,Black,1 White Male(s),NC,Rockingham,S,Lethal Injection,No,No,No,No
+01/25/2006,Marion Dudley,33,m,Black,2 Latino Male(s)1 Latino Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+01/27/2006,Marvin Bieghler,58,m,White,1 White Male(s)1 White Female(s),IN,Howard,M,Lethal Injection,No,No,No,No
+01/31/2006,Jaime Elizalde,34,m,Latino,2 Latino Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+02/07/2006,Glenn Benner,43,m,White,2 White Female(s),OH,Summit,M,Lethal Injection,No,No,No,No
+02/08/2006,Robert Neville,31,m,White,1 Native American Male(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+02/15/2006,Clyde Smith,32,m,Black,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+03/15/2006,Tommie Hughes,31,m,Black,1 Black Female(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+03/17/2006,Patrick Moody,39,m,White,1 White Male(s),NC,Davidson,S,Lethal Injection,No,No,No,No
+03/22/2006,Robert Salazar,27,m,Latino,1 Latino Female(s),TX,Lubbock,S,Lethal Injection,No,No,No,No
+03/29/2006,Kevin Kincy,38,m,Black,1 Black Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+04/18/2006,Richard Thornburg,40,m,White,3 White Male(s),OK,Grady,S,Lethal Injection,No,No,No,No
+04/20/2006,Willie Brown,61,m,Black,1 Black Female(s),NC,Martin,S,Lethal Injection,No,No,No,No
+04/26/2006,Daryl Mack,47,m,Black,1 White Female(s),NV,Washoe,W,Lethal Injection,No,No,Yes,No
+04/27/2006,Dexter Vinson,43,m,Black,1 White Female(s),VA,Portsmouth City,S,Lethal Injection,No,No,No,No
+05/02/2006,Joseph Clark,57,m,Black,1 White Male(s),OH,Lucas,M,Lethal Injection,No,No,No,No
+05/04/2006,Jackie Wilson,40,m,Latino,1 White Female(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+05/17/2006,Jermaine Herron,27,m,Black,1 White Male(s)1 White Female(s),TX,Refugio,S,Lethal Injection,No,No,No,No
+05/24/2006,Jesus Aguilar,42,m,Latino,1 Latino Male(s)1 Latino Female(s),TX,Cameron,S,Lethal Injection,No,No,No,No
+06/01/2006,John Boltz,74,m,White,1 White Male(s),OK,Pottawatomie,S,Lethal Injection,No,No,No,No
+06/06/2006,Timothy Titsworth,34,m,White,1 White Female(s),TX,Randall,S,Lethal Injection,No,No,No,No
+06/20/2006,Lamont Reese,28,m,Black,3 Black Male(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+06/27/2006,Angel Resendiz,46,m,Latino,1 Latino Female(s),TX,Harris,S,Lethal Injection,No,No,No,Yes
+06/28/2006,Sedley Alley,51,m,White,1 White Female(s),TN,Shelby,S,Lethal Injection,No,No,No,No
+07/11/2006,Derrick O'Brien,31,m,Black,2 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+07/12/2006,Rocky Barton,49,m,White,1 White Female(s),OH,Warren,M,Lethal Injection,No,No,Yes,No
+07/14/2006,William Downs,39,m,White,1 Black Male(s),SC,Aiken,S,Lethal Injection,No,No,Yes,No
+07/19/2006,Mauriceo Brown,31,m,Black,1 White Male(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+07/20/2006,Robert Anderson,40,m,White,1 White Female(s),TX,Potter,S,Lethal Injection,No,No,No,No
+07/20/2006,Brandon Hedrick,27,m,White,1 Black Female(s),VA,Appomattox,S,Electrocution,No,No,No,No
+07/27/2006,Michael Lenz,42,m,White,1 White Male(s),VA,Prince William,S,Lethal Injection,No,No,No,No
+08/03/2006,William Wyatt,41,m,Black,1 Black Male(s),TX,Bowie,S,Lethal Injection,No,No,No,No
+08/08/2006,Darrell Ferguson,28,m,White,1 White Male(s)2 White Female(s),OH,Montgomery,M,Lethal Injection,No,No,Yes,No
+08/11/2006,David Dawson,49,m,White,2 White Male(s)1 White Female(s),MT,Yellowstone,W,Lethal Injection,No,No,Yes,No
+08/17/2006,Richard Hinojosa,45,m,Latino,1 White Female(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+08/18/2006,Samuel Flippen,37,m,White,1 White Female(s),NC,Forsyth,S,Lethal Injection,No,No,No,No
+08/24/2006,Justin Fuller,27,m,Black,1 White Male(s),TX,Smith,S,Lethal Injection,No,No,No,No
+08/29/2006,Eric Patton,49,m,Black,1 White Female(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+08/31/2006,James Malicoat,31,m,White,1 White Female(s),OK,Grady,S,Lethal Injection,No,No,No,No
+08/31/2006,Derrick Frazier,29,m,Black,1 White Male(s)1 White Female(s),TX,Refugio,S,Lethal Injection,No,No,No,No
+09/12/2006,Farley Matchett,43,m,Black,1 Black Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+09/20/2006,Clarence Hill,48,m,Black,1 White Male(s),FL,Escabia,S,Lethal Injection,No,No,No,No
+10/18/2006,Arthur Rutherford,57,m,White,1 White Female(s),FL,Rutherford,S,Lethal Injection,No,No,No,No
+10/18/2006,Bobby Wilcher,43,m,White,2 White Female(s),MS,Scott,S,Lethal Injection,No,No,No,No
+10/24/2006,Jeffrey Lundgren,56,m,White,1 White Male(s)4 White Female(s),OH,Lake,M,Lethal Injection,No,No,No,No
+10/25/2006,Danny Rolling,52,m,White,1 Latino Male(s)4 White Female(s),FL,Alachua,S,Lethal Injection,No,No,No,No
+10/25/2006,Gregory Summers,48,m,White,2 White Male(s)1 White Female(s),TX,Denton,S,Lethal Injection,No,No,No,No
+10/26/2006,Larry Hutcherson,37,m,White,1 White Female(s),AL,Mobile,S,Lethal Injection,No,No,No,No
+11/01/2006,Donell Jackson,33,m,Black,1 Black Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+11/08/2006,Willie Shannon,33,m,Black,1 Latino Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+11/09/2006,John Schmitt,33,m,White,1 Black Male(s),VA,Chesterfield,S,Lethal Injection,No,No,No,No
+12/13/2006,Angel Diaz,55,m,Latino,1 White Male(s),FL,Miami-Dade,S,Lethal Injection,No,No,No,Yes
+01/09/2007,Corey Hamilton,38,m,Black,3 White Male(s)1 White Female(s),OK,Tulsa,S,Lethal Injection,No,No,No,No
+01/10/2007,Carlos Granados,36,m,Latino,1 Latino Female(s)1 Latino Male(s),TX,Williamson,S,Lethal Injection,No,No,No,No
+01/17/2007,Jonathan Moore,33,m,White,1 Latino Male(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+01/30/2007,Christopher Swift,31,m,White,2 White Female(s),TX,Denton,S,Lethal Injection,No,No,Yes,No
+02/07/2007,James Jackson,47,m,Black,3 Black Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+02/22/2007,Newton Anderson,30,m,White,1 White Male(s)1 White Female(s),TX,Smith,S,Lethal Injection,No,No,No,No
+02/27/2007,Donald Miller,44,m,White,2 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+03/06/2007,Robert Perez,48,m,Latino,2 Latino Male(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+03/07/2007,Joseph Nichols,45,m,Black,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+03/20/2007,Charles Nealy,42,m,Black,1 Asian Male(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+03/28/2007,Vincent Gutierrez,28,m,Latino,1 Latino Male(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+03/29/2007,Roy Pippin,51,m,White,2 Latino Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+04/11/2007,James Clark,38,m,White,1 White Female(s),TX,Denton,S,Lethal Injection,No,No,No,No
+04/24/2007,James Filiaggi,41,m,White,1 White Female(s),OH,Lorain,M,Lethal Injection,No,No,No,No
+04/26/2007,Ryan Dickson,30,m,White,1 White Male(s)1 White Female(s),TX,Potter,S,Lethal Injection,No,No,No,No
+05/03/2007,Aaron Jones,55,m,Black,1 White Male(s)1 White Female(s),AL,Blount,S,Lethal Injection,No,No,No,No
+05/04/2007,David Woods,42,m,White,1 Latino Male(s),IN,Delaware,M,Lethal Injection,No,No,No,No
+05/09/2007,Philip Workman,53,m,White,1 White Male(s),TN,Shelby,S,Lethal Injection,No,No,No,No
+05/16/2007,Charles Smith,41,m,White,1 White Male(s),TX,Pecos,S,Lethal Injection,No,No,No,No
+05/22/2007,Robert Comer,50,m,White,1 White Male(s),AZ,Maricopa,W,Lethal Injection,No,No,Yes,No
+05/24/2007,Christopher Newton,37,m,White,1 White Male(s),OH,Richland,M,Lethal Injection,No,No,Yes,No
+06/07/2007,Michael Griffith,56,m,White,1 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+06/14/2007,Michael Lambert,36,m,White,1 White Male(s),IN,Delaware,M,Lethal Injection,No,No,No,No
+06/20/2007,Lionell Rodriguez,36,m,Latino,1 Asian Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+06/21/2007,Gilberto Reyes,33,m,Latino,1 Latino Female(s),TX,Bailey,S,Lethal Injection,No,No,No,No
+06/22/2007,Calvin Shuler,40,m,Black,1 White Male(s),SC,Dorchester,S,Lethal Injection,No,No,No,No
+06/26/2007,Jimmy Bland,49,m,White,1 White Male(s),OK,Tillman,S,Lethal Injection,No,No,No,No
+06/25/2007,Patrick Knight,39,m,White,1 White Male(s)1 White Female(s),TX,Randall,S,Lethal Injection,No,No,No,No
+06/25/2007,John Hightower,63,m,Black,3 Black Female(s),GA,Morgan,S,Lethal Injection,No,No,No,No
+07/11/2007,Elijah Page,25,m,White,1 White Male(s),SD,Lawrence,M,Lethal Injection,No,No,Yes,No
+07/24/2007,Lonnie Johnson,44,m,Black,2 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+07/26/2007,Darrell Grayson,46,m,Black,1 White Female(s),AL,Shelby,S,Lethal Injection,No,No,No,No
+08/15/2007,Kenneth Parr,27,m,Black,1 White Female(s),TX,Matagorda,S,Lethal Injection,No,No,No,No
+08/21/2007,Frank Welch,46,m,White,1 White Female(s),OK,Garvin,S,Lethal Injection,No,No,No,No
+08/22/2007,Johnny Conner,32,m,Black,1 Asian Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+08/23/2007,Luther Williams,47,m,Black,1 White Male(s),AL,Tuscaloosa,S,Lethal Injection,No,No,No,No
+08/28/2007,DaRoyce Mosley,32,m,Black,3 White Male(s)1 White Female(s),TX,Gregg,S,Lethal Injection,No,No,No,No
+08/30/2007,John Amador,32,m,Latino,1 White Male(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+09/05/2007,Tony Roach,30,m,White,1 White Female(s),TX,Potter,S,Lethal Injection,No,No,No,No
+09/12/2007,Daryl Holton,45,m,White,3 White Male(s)1 Black Female(s),TN,Bedford,S,Electrocution,No,No,Yes,No
+09/20/2007,Clifford Kimmel,32,m,White,1 White Male(s)2 White Female(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+09/25/2007,Michael Richard,49,m,Black,1 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+05/06/2008,William Lynd,53,m,White,1 White Female(s),GA,Chatham,S,Lethal Injection,No,No,No,No
+05/21/2008,Earl Berry,49,m,White,1 White Female(s),MS,Chickasaw,S,Lethal Injection,No,No,No,No
+05/27/2008,Kevin Green,31,m,Black,1 White Female(s),VA,Brunswick,S,Lethal Injection,No,No,No,No
+06/04/2008,Curtis Osborne,37,m,Black,1 Black Male(s)1 Black Female(s),GA,Spalding,S,Lethal Injection,No,No,No,No
+06/06/2008,David Hill,48,m,White,1 White Male(s)1 Black Female(s)1 White Female(s),SC,Aiken,S,Lethal Injection,No,No,Yes,No
+06/11/2008,Karl Chamberlain,37,m,White,1 White Female(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+06/17/2008,Terry Short,47,m,White,1 Asian Male(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+06/20/2008,James Reed,49,m,Black,1 Black Male(s)1 Black Female(s),SC,Charleston,S,Electrocution,No,No,No,No
+06/25/2008,Robert Yarbrough,30,m,Black,1 White Male(s),VA,Mecklenberg,S,Lethal Injection,No,No,No,No
+07/01/2008,Mark Schwab,39,m,White,1 Latino Male(s),FL,Brevard,S,Lethal Injection,No,No,No,No
+07/10/2008,Carlton Turner,29,m,Black,1 Black Male(s)1 Black Female(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+07/10/2008,Kent Jackson,26,m,Black,1 White Female(s),VA,King George,S,Lethal Injection,No,No,No,No
+07/23/2008,Dale Bishop,34,m,White,1 White Male(s),MS,Lee,S,Lethal Injection,No,No,No,No
+07/23/2008,Derrick Sonnier,40,m,Black,1 Black Male(s)1 Black Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+07/24/2008,Christopher Emmett,36,m,White,1 White Male(s),VA,Danville City,S,Lethal Injection,No,No,No,No
+07/31/2008,Larry Davis,40,m,Black,1 White Male(s),TX,Potter,S,Lethal Injection,No,No,No,No
+08/05/2008,Jose Medellin,33,m,Latino,2 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,Yes
+08/12/2008,Leon Dorsey,32,m,Black,2 White Male(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+09/16/2008,Jack Alderman,57,m,White,1 White Female(s),GA,Chatham,S,Lethal Injection,No,No,No,No
+09/17/2008,William Murray,39,m,White,1 White Female(s),TX,Kaufman,S,Lethal Injection,No,No,No,No
+08/14/2008,Michael Rodriguez,45,m,Latino,1 White Male(s),TX,Dallas,S,Lethal Injection,No,No,Yes,No
+09/23/2008,Richard Henyard,34,m,Black,2 Black Female(s),FL,Lake,S,Lethal Injection,No,No,No,No
+09/25/2008,Jessie Cummings,52,m,White,1 White Female(s),OK,Coal,S,Lethal Injection,No,No,No,No
+10/14/2008,Richard Cooey,41,m,White,2 White Female(s),OH,Summit,M,Lethal Injection,No,No,No,No
+10/14/2008,Alvin Kelly,57,m,White,2 White Male(s)1 White Female(s),TX,Gregg,S,Lethal Injection,No,No,No,No
+10/16/2008,Kevin Watts,27,m,Black,1 Asian Male(s)2 Asian Female(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+10/21/2008,Joseph Ries,29,m,White,1 White Male(s),TX,Hopkins,S,Lethal Injection,No,No,No,No
+10/28/2008,Eric Nenno,47,m,White,1 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+08/07/2008,Heliberto Chi,29,m,Latino,1 White Male(s),TX,Tarrant,S,Lethal Injection,No,No,No,Yes
+11/06/2008,Elkie Taylor,46,m,Black,1 Black Male(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+11/12/2008,George Whitaker,36,m,Black,1 Black Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+11/13/2008,Denard Manns,42,m,Black,1 White Female(s),TX,Bell,S,Lethal Injection,No,No,No,No
+10/30/2008,Gregory Wright,42,m,White,1 White Female(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+11/19/2008,Gregory Bryant-Bey,53,m,Black,1 White Male(s),OH,Lucas,M,Lethal Injection,No,No,No,No
+11/20/2008,Robert Hudson,45,m,Black,1 Black Female(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+11/21/2008,Marco Chapman,37,m,White,1 White Male(s)1 White Female(s),KY,Fayette,S,Lethal Injection,No,No,Yes,No
+12/05/2008,Joseph Gardner,38,m,Black,1 White Female(s),SC,Dorchester,S,Lethal Injection,No,No,No,No
+01/14/2009,Curtis Moore,40,m,Black,2 Black Male(s)1 Black Female(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+01/15/2009,James Callahan,62,m,White,1 White Female(s),AL,Calhoun,S,Lethal Injection,No,No,No,No
+01/21/2009,Frank Moore,49,m,Black,2 Black Male(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+01/22/2009,Darwin Brown,32,m,Black,1 White Male(s),OK,Tulsa,S,Lethal Injection,No,No,No,No
+01/22/2009,Reginald Perkins,53,m,Black,1 Black Female(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+01/28/2009,Virgil Martinez,41,m,Latino,2 Latino Male(s)2 Latino Female(s),TX,Brazoria,S,Lethal Injection,No,No,No,No
+01/29/2009,Ricardo Ortiz,46,m,Latino,1 Latino Male(s),TX,El Paso,S,Lethal Injection,No,No,No,No
+02/04/2009,Steve Henley,55,m,White,1 White Male(s)1 White Female(s),TN,Jackson,S,Lethal Injection,No,No,No,No
+02/04/2009,David Martinez,36,m,Latino,1 Latino Male(s)1 Latino Female(s),TX,Bexar,S,Lethal Injection,No,No,Yes,No
+02/10/2009,Dale Scheanette,35,m,Black,1 Black Female(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+02/11/2009,Wayne Tompkins,51,m,White,1 White Female(s),FL,Hillsborough,S,Lethal Injection,No,No,No,No
+02/12/2009,Danny Bradley,49,m,White,1 White Female(s),AL,Calhoun,S,Lethal Injection,No,No,No,No
+02/12/2009,Johnny Johnson,51,m,Black,1 Black Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+02/19/2009,Edward Bell,44,m,Black,1 White Male(s),VA,Frederick,S,Lethal Injection,No,No,No,Yes
+02/20/2009,Luke Williams,56,m,White,1 White Male(s)1 White Female(s),SC,Edgefield,S,Lethal Injection,No,No,No,No
+03/03/2009,Willie Pondexter,34,m,Black,1 White Female(s),TX,Red River,S,Lethal Injection,No,No,No,No
+03/04/2009,Kenneth Morris,38,m,Black,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+03/10/2009,James Martinez,34,m,Latino,1 White Male(s)1 White Female(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+03/10/2009,Robert Newland,65,m,White,1 White Female(s),GA,Glynn,S,Lethal Injection,No,No,No,No
+03/11/2009,Luis Salazar,38,m,Latino,1 Latino Female(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+04/15/2009,Michael Rosales,35,m,Latino,1 Black Female(s),TX,Lubbock,S,Lethal Injection,No,No,No,No
+04/16/2009,Jimmy Dill,49,m,Black,1 Black Male(s),AL,Jefferson,S,Lethal Injection,No,No,No,No
+04/29/2009,William Mize,52,m,White,1 White Male(s),GA,Oconee,S,Lethal Injection,No,No,No,No
+04/30/2009,Derrick Johnson,28,m,Black,1 Black Female(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+05/08/2009,Thomas Ivey,34,m,Black,2 White Male(s),SC,Orangeburg,S,Lethal Injection,No,No,No,No
+05/14/2009,Willie McNair,44,m,Black,1 White Female(s),AL,Montgomery,S,Lethal Injection,No,No,No,No
+05/14/2009,Donald Gilson,48,m,White,1 White Male(s),OK,Cleveland,S,Lethal Injection,No,No,No,No
+05/19/2009,Michael Riley,51,m,Black,1 White Female(s),TX,Wood,S,Lethal Injection,No,No,No,No
+05/20/2009,Dennis Skillicorn,49,m,White,1 White Male(s),MO,Lafayette,M,Lethal Injection,No,No,No,No
+06/02/2009,Terry Hankins,34,m,White,1 White Male(s)1 White Female(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+06/03/2009,Daniel Wilson,39,m,White,1 White Female(s),OH,Lorain,M,Lethal Injection,No,No,No,No
+06/11/2009,Jack Trawick,62,m,White,1 White Female(s),AL,Jefferson,S,Lethal Injection,No,No,Yes,No
+07/09/2009,Michael DeLozier,32,m,White,2 White Male(s),OK,McCurtain,S,Lethal Injection,No,No,No,No
+07/14/2009,John Fautenberry,45,m,White,1 White Male(s),OH,Hamilton,M,Lethal Injection,No,No,No,No
+07/21/2009,Marvallous Keene,36,m,Black,1 Black Female(s)2 White Female(s)2 Black Male(s),OH,Montgomery,M,Lethal Injection,No,No,No,No
+08/18/2009,Jason Getsy,33,m,White,1 White Female(s),OH,Trumbull,M,Lethal Injection,No,No,No,No
+08/19/2009,John Marek,45,m,White,1 White Female(s),FL,Broward,S,Lethal Injection,No,No,No,No
+09/16/2009,Stephen Moody,52,m,White,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+09/22/2009,Christopher Coleman,37,m,Black,3 Latino Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+10/08/2009,Max Payne,38,m,White,1 White Male(s),AL,Cullman,S,Lethal Injection,No,No,No,No
+10/21/2009,Mark McClain,42,m,White,1 White Female(s),GA,Richmond,S,Lethal Injection,No,No,No,No
+10/27/2009,Reginald Blanton,28,m,Black,1 Latino Male(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+11/05/2009,Khristian Oliver,32,m,Black,1 White Male(s),TX,Nacogdoches,S,Lethal Injection,No,No,No,No
+11/10/2009,Yosvanis Valle,34,m,Latino,1 Latino Male(s),TX,Harris,S,Lethal Injection,No,No,No,Yes
+11/10/2009,John Muhammad,48,m,Black,1 White Male(s),VA,Prince William,S,Lethal Injection,No,No,No,No
+11/17/2009,Larry Elliott,60,m,White,1 White Female(s),VA,Prince William,S,Electrocution,No,No,No,No
+11/18/2009,Danielle Simpson,30,m,Black,1 White Female(s),TX,Anderson,S,Lethal Injection,No,No,No,No
+11/19/2009,Robert Thompson,34,m,Black,1 Other Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+12/02/2009,Cecil Johnson,53,m,Black,3 Black Male(s),TN,Davidson,S,Lethal Injection,No,No,No,No
+12/03/2009,Bobby Woods,44,m,White,1 White Female(s),TX,Llano,S,Lethal Injection,No,No,No,No
+12/08/2009,Kenneth Biros,51,m,White,1 White Female(s),OH,Trumbull,M,Lethal Injection,No,No,No,No
+12/11/2009,Matthew Wrinkles,49,m,White,2 White Male(s)1 White Female(s),IN,Vanderburgh,M,Lethal Injection,No,No,No,No
+01/07/2010,Vernon Smith,37,m,Black,1 Black Male(s),OH,Lucas,M,Lethal Injection,No,No,No,No
+01/07/2010,Kenneth Mosley,51,m,Black,1 White Male(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+01/07/2010,Gerald Bordelon,47,m,White,1 White Female(s),LA,Livingston Parish,S,Lethal Injection,No,No,Yes,No
+01/12/2010,Gary Johnson,59,m,White,2 White Male(s),TX,Walker,S,Lethal Injection,No,No,No,No
+01/14/2010,Julius Young,60,m,Black,1 Black Male(s)1 Black Female(s),OK,Tulsa,S,Lethal Injection,No,No,No,No
+02/04/2010,Mark Brown,37,m,Black,1 Other Male(s),OH,Mahoning,M,Lethal Injection,No,No,No,No
+02/16/2010,Martin Grossman,45,m,White,1 White Female(s),FL,Pinellas,S,Lethal Injection,No,No,No,No
+03/02/2010,Michael Sigala,32,m,Latino,1 Latino Male(s)1 Latino Female(s),TX,Collin,S,Lethal Injection,No,No,No,No
+03/11/2010,Joshua Maxwell,31,m,White,1 Latino Male(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+03/16/2010,Lawrence Reynolds,43,m,White,1 White Female(s),OH,Summit,M,Lethal Injection,No,No,No,No
+03/18/2010,Paul Powell,31,m,White,1 White Female(s),VA,Manassas,S,Electrocution,No,No,No,No
+03/30/2010,Franklin Alix,34,m,Black,1 Black Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+04/20/2010,Darryl Durr,46,m,Black,1 White Female(s),OH,Cuyahoga,M,Lethal Injection,No,No,No,No
+04/22/2010,William Berkley,31,m,White,1 Latino Female(s),TX,El Paso,S,Lethal Injection,No,No,No,No
+04/27/2010,Samuel Bustamante,40,m,Latino,1 Latino Male(s),TX,Fort Bend,S,Lethal Injection,No,No,No,No
+05/12/2010,Kevin Varga,41,m,White,1 White Male(s),TX,Hunt,S,Lethal Injection,No,No,No,No
+05/13/2010,Michael Beuke,48,m,White,1 White Male(s),OH,Hamilton,M,Lethal Injection,No,No,No,No
+05/13/2010,Billy Galloway,41,m,White,1 White Male(s),TX,Hunt,S,Lethal Injection,No,No,No,No
+05/19/2010,Rogelio Cannady,37,m,Latino,1 Latino Female(s),TX,Bee County,S,Lethal Injection,No,No,No,No
+05/19/2010,Paul Woodward,62,m,White,1 White Female(s),MS,Perry,S,Lethal Injection,No,No,No,No
+05/20/2010,Gerald Holland,72,m,White,1 White Female(s),MS,Chickasaw,S,Lethal Injection,No,No,No,No
+05/20/2010,Darick Walker,37,m,Black,2 Black Male(s),VA,Henrico,S,Lethal Injection,No,No,No,No
+05/25/2010,John Alba,54,m,Latino,1 Latino Female(s),TX,Collin,S,Lethal Injection,No,No,No,No
+05/27/2010,Thomas Whisenhant,63,m,White,1 White Female(s),AL,Mobile,S,Lethal Injection,No,No,No,No
+06/02/2010,George Jones,36,m,Black,1 Black Male(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+06/10/2010,John Parker,42,m,White,1 White Female(s),AL,Colbert,S,Lethal Injection,No,No,No,No
+06/15/2010,David Powell,59,m,White,1 Latino Male(s),TX,Travis,S,Lethal Injection,No,No,No,No
+06/17/2010,Ronnie Gardner,49,m,White,1 White Male(s),UT,Salt Lake,W,Firing Squad,No,No,No,No
+06/09/2010,Melbert Ford,49,m,White,2 White Female(s),GA,Newton,S,Lethal Injection,No,No,No,No
+07/01/2010,Michael Perry,28,m,White,1 White Female(s),TX,Montgomery,S,Lethal Injection,No,No,No,No
+07/13/2010,William Garner,37,m,Black,1 Black Male(s)4 Black Female(s),OH,Hamilton,M,Lethal Injection,No,No,No,No
+07/20/2010,Derrick Jackson,42,m,Black,2 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+07/21/2010,Joseph Burns,42,m,White,1 White Male(s),MS,Lee,S,Lethal Injection,No,No,No,No
+08/10/2010,Roderick Davie,38,m,Black,1 White Female(s)1 Black Male(s),OH,Trumbull,M,Lethal Injection,No,No,No,No
+08/12/2010,Michael Land,41,m,White,1 White Female(s),AL,Jefferson,S,Lethal Injection,No,No,No,No
+08/17/2010,Peter Cantu,35,m,Latino,2 White Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+09/09/2010,Holly Wood,50,m,Black,1 Black Female(s),AL,Pike,S,Lethal Injection,No,No,No,No
+09/10/2010,Cal Brown,52,m,White,1 White Female(s),WA,King,W,Lethal Injection,No,No,No,No
+09/23/2010,Teresa Lewis,41,f,White,2 White Male(s),VA,Pittsylvania,S,Lethal Injection,No,No,No,No
+09/27/2010,Brandon Rhode,31,m,White,2 White Male(s)1 White Female(s),GA,Jones,S,Lethal Injection,No,No,No,No
+10/06/2010,Michael Benge,49,m,White,1 White Female(s),OH,Butler,M,Lethal Injection,No,No,No,No
+10/14/2010,Donald Wackerly,41,m,White,1 Asian Male(s),OK,Sequoyah,S,Lethal Injection,No,No,No,No
+10/21/2010,Larry Wooten,51,m,Black,1 Black Male(s)1 Black Female(s),TX,Lamar,S,Lethal Injection,No,No,No,No
+10/26/2010,Jeffrey Landrigan,50,m,Native American,1 White Male(s),AZ,Maricopa,W,Lethal Injection,No,No,No,No
+11/04/2010,Phillip Hallford,63,m,White,1 White Male(s),AL,Dale,S,Lethal Injection,No,No,No,No
+12/16/2010,John Duty,58,m,White,1 White Male(s),OK,Pittsburgh,S,Lethal Injection,No,No,No,No
+01/06/2011,Billy Alverson,39,m,Black,1 White Male(s),OK,Tulsa,S,Lethal Injection,No,No,No,No
+01/11/2011,Jeffrey Matthews,38,m,White,1 White Male(s),OK,Cleveland,S,Lethal Injection,No,No,No,No
+01/13/2011,Leroy White,52,m,Black,1 Black Female(s),AL,Madison,S,Lethal Injection,No,No,No,No
+01/25/2011,Emmanuel Hammond,45,m,Black,1 White Female(s),GA,Fulton,S,Lethal Injection,No,No,No,No
+02/09/2011,Martin Link,47,m,White,1 White Female(s),MO,St. Louis City,M,Lethal Injection,No,No,No,No
+02/15/2011,Michael Hall,31,m,White,1 White Female(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+02/17/2011,Frank Spisak,59,m,White,1 White Male(s)2 Black Male(s),OH,Cuyahoga,M,Lethal Injection,No,No,No,No
+02/22/2011,Timothy Adams,42,m,Black,1 Black Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+03/10/2011,Johnnie Baston,37,m,Black,1 Asian Male(s),OH,Lucas,M,Lethal Injection,No,No,No,No
+03/29/2011,Eric King,47,m,Black,2 White Male(s),AZ,Maricopa,W,Lethal Injection,No,No,No,No
+03/31/2011,William Boyd,45,m,White,1 White Male(s)1 White Female(s),AL,Calhoun,S,Lethal Injection,No,No,No,No
+04/12/2011,Clarence Carter,49,m,Black,1 Black Male(s),OH,Hamilton,M,Lethal Injection,No,No,No,No
+05/03/2011,Cary Kerr,46,m,White,1 White Female(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+05/06/2011,Jeffrey Motts,36,m,White,1 White Male(s),SC,Greenville,S,Lethal Injection,No,No,Yes,No
+05/10/2011,Benny Stevens,52,m,White,3 White Male(s)1 White Female(s),MS,Marion,S,Lethal Injection,No,No,No,No
+05/17/2011,Daniel Bedford,63,m,White,1 White Female(s)1 White Male(s),OH,Hamilton,M,Lethal Injection,No,No,No,No
+05/17/2011,Rodney Gray,39,m,Black,1 White Female(s),MS,Newton,S,Lethal Injection,No,No,No,No
+05/19/2011,Jason Williams,42,m,White,3 White Male(s)1 White Female(s),AL,Mobile,S,Lethal Injection,No,No,No,No
+05/25/2011,Donald Beaty,56,m,White,1 White Female(s),AZ,Maricopa,W,Lethal Injection,No,No,No,No
+06/01/2011,Gayland Bradford,42,m,Black,1 White Male(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+06/16/2011,Eddie Powell,41,m,Black,1 White Female(s),AL,Tuscaloosa,S,Lethal Injection,No,No,No,No
+06/16/2011,Lee Taylor,32,m,White,1 Black Male(s),TX,Bowie,S,Lethal Injection,No,No,No,No
+06/21/2011,Milton Mathis,32,m,Black,1 White Male(s)1 Black Male(s),TX,Ft. Bend,S,Lethal Injection,No,No,No,No
+06/23/2011,Roy Blankenship,55,m,White,1 White Female(s),GA,Chatham,S,Lethal Injection,No,No,No,No
+06/30/2011,Richard Bible,49,m,White,1 White Female(s),AZ,Coconino,W,Lethal Injection,No,No,No,No
+07/07/2011,Humberto Leal,38,m,Latino,1 Latino Female(s),TX,Bexar,S,Lethal Injection,No,No,No,Yes
+07/19/2011,Thomas West,52,m,White,1 White Male(s),AZ,Pima,W,Lethal Injection,No,No,No,No
+07/20/2011,Mark Stroman,41,m,White,1 Asian Male(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+07/21/2011,Andrew DeYoung,37,m,White,1 White Male(s)2 White Female(s),GA,Cobb,S,Lethal Injection,No,No,No,No
+07/29/2011,Robert Jackson,38,m,White,1 White Female(s),DE,New Castle,S,Lethal Injection,No,No,No,No
+08/10/2011,Martin Robles,33,m,Latino,2 Latino Male(s),TX,Nueces,S,Lethal Injection,No,No,No,No
+08/18/2011,Jerry Jackson,30,m,Black,1 White Female(s),VA,Williamsburg City,S,Lethal Injection,No,No,No,No
+09/13/2011,Steven Woods,31,m,White,1 White Male(s)1 White Female(s),TX,Denton,S,Lethal Injection,No,No,No,No
+09/21/2011,Troy Davis,41,m,Black,1 White Male(s),GA,Chatham,S,Lethal Injection,No,No,No,No
+09/21/2011,Lawrence Brewer,44,m,White,1 Black Male(s),TX,Jasper,S,Lethal Injection,No,No,No,No
+09/22/2011,Derrick Mason,37,m,Black,1 White Female(s),AL,Madison,S,Lethal Injection,No,No,No,No
+09/28/2011,Manuel Valle,61,m,Latino,1 Latino Male(s),FL,Miami-Dade,S,Lethal Injection,No,No,No,Yes
+10/20/2011,Christopher Johnson,38,m,White,1 White Male(s),AL,Escambia,S,Lethal Injection,No,No,Yes,No
+10/27/2011,Frank Garcia,39,m,Latino,1 Latino Male(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+11/15/2011,Reginald Brooks,66,m,Black,3 Black Male(s),OH,Cuyahoga,M,Lethal Injection,No,No,No,No
+11/15/2011,Oba Chandler,65,m,White,3 White Female(s),FL,Hillsborough,S,Lethal Injection,No,No,No,No
+11/16/2011,Guadalupe Esparza,46,m,Latino,1 Latino Female(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+11/18/2011,Paul Rhoades,54,m,White,2 White Female(s),ID,Bingham,W,Lethal Injection,No,No,No,No
+01/05/2012,Gary Welch,49,m,White,1 White Male(s),OK,Ottawa,S,Lethal Injection,No,No,No,No
+01/26/2012,Rodrigo Hernandez,39,m,Latino,1 White Female(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+02/08/2012,Edwin Turner,38,m,White,2 Black Male(s),MS,Forrest,S,Lethal Injection,No,No,No,No
+02/15/2012,Robert Waterhouse,65,m,White,1 White Female(s),FL,Pinellas,S,Lethal Injection,No,No,No,No
+02/29/2012,Robert Moormann,63,m,White,1 White Female(s),AZ,Pinal,W,Lethal Injection,No,No,No,No
+02/29/2012,George Rivas,41,m,Latino,1 White Male(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+03/07/2012,Keith Thurmond,52,m,White,1 White Male(s)1 White Female(s),TX,Montgomery,S,Lethal Injection,No,No,No,No
+03/08/2012,Robert Towery,47,m,White,1 White Male(s),AZ,Maricopa,W,Lethal Injection,No,No,No,No
+03/15/2012,Timothy Stemple,46,m,White,1 White Female(s),OK,Tulsa,S,Lethal Injection,No,No,No,No
+03/20/2012,Larry Puckett,35,m,White,1 White Female(s),MS,Forrest,S,Lethal Injection,No,No,No,No
+03/22/2012,William Mitchell,61,m,Black,1 White Female(s),MS,Harrison,S,Lethal Injection,No,No,No,No
+03/28/2012,Jesse Hernandez,47,m,Latino,1 Latino Male(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+04/12/2012,David Gore,58,m,White,1 White Female(s),FL,Pinellas,S,Lethal Injection,No,No,No,No
+04/18/2012,Mark Wiles,49,m,White,1 White Male(s),OH,Portage,M,Lethal Injection,No,No,No,No
+04/20/2012,Shannon Johnson,28,m,Black,1 Black Male(s),DE,New Castle,S,Lethal Injection,No,No,Yes,No
+04/25/2012,Thomas Kemp,63,m,White,1 Latino Male(s),AZ,Pima,W,Lethal Injection,No,No,No,No
+04/26/2012,Beunka Adams,29,m,Black,1 White Male(s),TX,Cherokee,S,Lethal Injection,No,No,No,No
+05/01/2012,Michael Selsor,57,m,White,1 White Male(s),OK,Tulsa,S,Lethal Injection,No,No,No,No
+06/05/2012,Henry Jackson,47,m,Black,2 Black Male(s)2 Black Female(s),MS,Copiah,S,Lethal Injection,No,No,No,No
+06/12/2012,Richard Leavitt,53,m,White,1 White Female(s),ID,Bingham,W,Lethal Injection,No,No,No,No
+06/12/2012,Jan Brawner,34,m,White,3 White Female(s)1 White Male(s),MS,Tate,S,Lethal Injection,No,No,No,No
+06/20/2012,Gary Simmons,49,m,White,1 White Male(s),MS,Jackson,S,Lethal Injection,No,No,No,No
+06/27/2012,Samuel Lopez,49,m,Latino,1 Latino Female(s),AZ,Maricopa,W,Lethal Injection,No,No,No,No
+07/18/2012,Yokamon Hearn,33,m,Black,1 White Male(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+08/07/2012,Marvin Wilson,54,m,Black,1 Black Male(s),TX,Jefferson,S,Lethal Injection,No,No,No,No
+08/08/2012,Daniel Cook,51,m,White,1 White Male(s)1 Latino Male(s),AZ,Mohave,W,Lethal Injection,No,No,No,No
+08/14/2012,Michael Hooper,40,m,White,2 White Female(s)1 White Male(s),OK,Canadian,S,Lethal Injection,No,No,No,No
+09/20/2012,Donald Palmer,47,m,White,2 White Male(s),OH,Belmont,M,Lethal Injection,No,No,No,No
+09/20/2012,Robert Harris,40,m,Black,1 Latino Male(s)1 White Female(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+09/25/2012,Cleve Foster,47,m,White,1 Black Female(s),TX,Tarrant,S,Lethal Injection,No,No,No,No
+10/10/2012,Jonathan Green,44,m,Black,1 White Female(s),TX,Montgomery,S,Lethal Injection,No,No,No,No
+10/15/2012,Eric Robert,50,m,White,1 White Male(s),SD,Minnehaha,M,Lethal Injection,No,No,Yes,No
+10/24/2012,Bobby Hines,24,m,White,1 White Female(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+10/30/2012,Donald Moeller,60,m,White,1 White Female(s),SD,Minnehaha,M,Lethal Injection,No,No,No,No
+10/31/2012,Donnie Roberts,41,m,White,1 White Female(s),TX,Polk,S,Lethal Injection,No,No,No,No
+11/06/2012,Garry Allen,56,m,Black,1 Black Female(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+11/08/2012,Mario Swain,33,m,Black,1 White Female(s),TX,Gregg,S,Lethal Injection,No,No,No,No
+11/13/2012,Brett Hartman,38,m,White,1 White Female(s),OH,Summit,M,Lethal Injection,No,No,No,No
+11/14/2012,Ramon Hernandez,41,m,Latino,1 Latino Female(s),TX,Bexar,S,Lethal Injection,No,No,No,No
+11/15/2012,Preston Hughes,46,m,Black,1 Black Male(s)1 Black Female(s),TX,Harris,S,Lethal Injection,No,No,No,No
+12/04/2012,George Ochoa,38,m,Latino,1 Latino Female(s)1 Latino Male(s),OK,Oklahoma,S,Lethal Injection,No,No,No,No
+12/05/2012,Richard Stokley,60,m,White,2 White Female(s),AZ,Cochise,W,Lethal Injection,No,No,No,No
+12/11/2012,Manuel Pardo,56,m,Latino,5 Latino Male(s)3 Latino Female(s)1 White Male(s),FL,Miami-Dade,S,Lethal Injection,No,No,No,No
+01/16/2013,Robert Gleason,42,m,White,1 White Male(s)1 Black Male(s),VA,Wise,S,Electrocution,No,No,Yes,No
+02/21/2013,Carl Blue,48,m,Black,1 Black Female(s),TX,Brazos,S,Lethal Injection,No,No,No,No
+02/21/2013,Andrew Cook,38,m,White,1 White Female(s)1 White Male(s),GA,Monroe,S,Lethal Injection,No,No,No,No
+03/06/2013,Frederick Treesh,48,m,White,1 Black Male(s),OH,Lake,M,Lethal Injection,No,No,No,No
+03/12/2013,Ray Thacker,42,m,White,1 White Male(s),OK,Dyer (Tennessee),S,Lethal Injection,No,No,No,No
+04/09/2013,Rickey Lewis,50,m,Black,1 White Male(s),TX,Smith,S,Lethal Injection,No,No,No,No
+04/10/2013,Larry Mann,59,m,White,1 White Female(s),FL,Pinellas,S,Lethal Injection,No,No,No,No
+04/16/2013,Ronnie Threadgill,40,m,Black,1 Black Male(s),TX,Navarro,S,Lethal Injection,No,No,No,No
+04/25/2013,Richard Cobb,29,m,White,1 White Male(s),TX,Cherokee,S,Lethal Injection,No,No,No,No
+05/01/2013,Steve Smith,46,m,White,1 White Female(s),OH,Richland,M,Lethal Injection,No,No,No,No
+05/07/2013,Carroll Parr,35,m,Black,1 Latino Male(s),TX,McLennan,S,Lethal Injection,No,No,No,No
+05/15/2013,Jeffery Williams,37,m,Black,1 White Male(s),TX,Harris,S,Lethal Injection,No,No,No,No
+05/29/2013,Elmer Carroll,56,m,White,1 White Female(s),FL,Orange,S,Lethal Injection,No,No,No,No
+06/12/2013,Elroy Chester,44,m,Black,1 White Male(s),TX,Jefferson,S,Lethal Injection,No,No,No,No
+06/12/2013,William Van Poyck,58,m,White,1 White Male(s),FL,Palm Beach,S,Lethal Injection,No,No,No,No
+06/18/2013,James DeRosa,36,m,White,1 White Male(s)1 White Female(s),OK,Le Flore,S,Lethal Injection,No,No,No,No
+06/25/2013,Brian Davis,39,m,Black,1 Black Female(s),OK,Kay,S,Lethal Injection,No,No,No,No
+06/26/2013,Kimberly McCarthy,52,f,Black,1 White Female(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+07/16/2013,John Quintanilla,36,m,Latino,1 White Male(s),TX,Victoria,S,Lethal Injection,No,No,No,No
+07/18/2013,Vaugn Ross,41,m,Black,1 White Male(s)1 Black Female(s),TX,Lubbock,S,Lethal Injection,No,No,No,No
+07/25/2013,Andrew Lackey,29,m,White,1 White Male(s),AL,Limestone,S,Lethal Injection,No,No,Yes,No
+07/31/2013,Douglas Feldman,55,m,White,1 White Male(s)1 Latino Male(s),TX,Dallas,S,Lethal Injection,No,No,No,No
+08/05/2013,John Ferguson,65,m,Black,7 White Male(s)1 White Female(s),FL,Miami-Dade,S,Lethal Injection,No,No,No,No

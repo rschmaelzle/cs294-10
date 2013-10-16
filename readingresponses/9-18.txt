@@ -1,0 +1,5 @@
+The Polaris paper seemed really obvious, but that may only be because I've seen Tableau before. Many good ideas should seem obvious in retrospect. In any case, I liked that they approached the problem from formal definitions. It's much easier to evaluate research when they have rigorously defined their system and their objectives. However, I was hoping for a better evaluation than their hand-wavey "Scenario" analysis. What do real users/data scientists think when they use Polaris?
+
+The second paper was a nice look at using parallel coordinates to explore a multivariate data set. While I think the work was well-done in general, I have a few complaints: first, the fact that they couldn't divulge more information about the data set probably means they should have picked a different data set. Second, I would have liked to see a comparison against other methods of multivariate visualization. Without it, it's hard to know just how effective parallel coordinates are for this task.
+
+I particularly enjoyed the two Tufte chapters because they were lighter on the dogma and heavier on the beautiful examples. 
