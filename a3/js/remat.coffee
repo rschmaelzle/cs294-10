@@ -313,7 +313,6 @@ class ReorderableMatrix
         .attr("d", (d, i) ->
             r = "M 0 #{rowHeights[i] + borderHeight - 3}"
             r += " L #{width + labelWidth} #{rowHeights[i] + borderHeight - 3}"
-            return r
         )
         .attr("stroke", "none")
         .attr("stroke-width", 2)
@@ -343,7 +342,7 @@ class ReorderableMatrix
         .text((d, i) =>
             if d.group?
                 return @groupLabels[d.group]
-            return ""
+            ""
         )
 
         @box.selectAll('.rematRowSVG')

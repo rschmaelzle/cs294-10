@@ -288,8 +288,7 @@
       this.box.selectAll('.rematRowSVG').append("svg:path").attr("class", "rematBottomBorder").attr("d", function(d, i) {
         var r;
         r = "M 0 " + (rowHeights[i] + borderHeight - 3);
-        r += " L " + (width + labelWidth) + " " + (rowHeights[i] + borderHeight - 3);
-        return r;
+        return r += " L " + (width + labelWidth) + " " + (rowHeights[i] + borderHeight - 3);
       }).attr("stroke", "none").attr("stroke-width", 2).style("stroke-dasharray", "7,7");
       this.box.selectAll('.rematRowSVG').append("svg:rect").attr("x", width + labelWidth).attr("y", -1).attr("width", 10).attr("height", function(d, i) {
         return rowHeights[i] + borderHeight + 2;
