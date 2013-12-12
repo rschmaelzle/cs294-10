@@ -1,0 +1,20 @@
+Most of the people surveyed believe that the US government respects personal freedoms of its people.
+ok,ok
+
+Roughly 1/3 of the people surveyed believe that China respects the personal freedoms of its people.
+ok,ok
+
+Only about 20% of the people surveyed believe that Saudi Arabia respects the personal freedoms of its people.
+vital,vital
+
+Only about 10% of the people surveyed believe that Iran respects the personal freedoms of its people.
+ok,ok
+
+People think Saudi Arabia's government is more respecting of personal freedoms than China's governement, but less restricting than Iran's government.
+vital,ok
+
+Of the countries listed, people think Iran's government is the least respecting of its peoples' personal freedoms.
+ok,vital
+
+Of the countries listed, people think the US's government is the most respecting of its peoples' personal freedoms.
+ok,vital

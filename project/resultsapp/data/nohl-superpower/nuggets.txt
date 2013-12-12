@@ -1,0 +1,32 @@
+Roughly half of Americans want the US to remain as the sole military superpower.
+vital,ok
+
+About 1/3 of Americans think it would be okay if China or another country became as powerful as the US.
+vital,ok
+
+Two thirds of Republicans want the US to remain as the sole military superpower.
+vital,ok
+
+Half of Democrats want the US to remain as the sole military superpower.
+vital,ok
+
+A bit more than half of independents want the US to remain as the sole military superpower.
+ok,ok
+
+Only a quarter of Republicans think it would be okay if China or another country became as powerful as the US.
+vital,ok
+
+About 40% of Democrats think it would be okay if China or another country became as powerful as the US.
+vital,ok
+
+About 1/3 of Independents think it would be okay if China or another country became as powerful as the US.
+ok,ok
+
+Republicans are the most strong believers that the US should remain as the only military superpower.
+vital,vital
+
+Democrats are the most strong believers that it would be okay if another country became as powerful as the US.
+vital,vital
+
+Independents' percentages on this issue closely reflect the percentages of the total population.
+ok,vital

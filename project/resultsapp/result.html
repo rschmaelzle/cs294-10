@@ -1,0 +1,87 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="../../docs-assets/ico/favicon.png">
+
+    <title>Visualization Understanding Result</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/chosen.css">
+    <link href="css/result.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-9">
+          <h1 class="pageTitle">
+          </h1>          
+        </div>
+        <div class="col-md-3">
+          <select class="visSelect" data-placeholder="Choose a visualization">
+            <option value=""></option>
+          </select>
+        </div>
+      </div>
+
+      <hr>
+
+      <div class="row result">
+        <div class="col-md-4">
+          <h2>Visualization image</h2>
+          <div class="visImg"></div>
+        </div>
+        <div class="col-md-8">
+          <h2>Understanding</h2>
+          <div class="row">
+            <div class="col-md-6">
+              <h3>Score histogram</h3>
+              <div class="scoreHist"></div>
+              <h3>Average score: <span class="avgScore"></span></h3>
+            </div>
+            <div class="col-md-6">
+              <h3>Response variability</h3>
+              <div class="spread"></div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+
+    </div> <!-- /container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <script src="js/spin.js"></script>
+    <script src="js/chosen.jquery.min.js"></script>
+    <script src="js/mds.js"></script>
+    <script src="js/numeric-1.2.6.min.js"></script>
+    <script src="js/venn.js"></script>
+    <script src="js/colorbrewer.js"></script>
+    <script src="js/d3.tip.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.2/underscore-min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/visUnderstandingResult.js"></script>
+    <script src="js/resultsPage.js"></script>
+
+  </body>
+</html>

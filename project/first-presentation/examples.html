@@ -1,0 +1,180 @@
+<!doctype html>
+
+<html>
+
+    <head>
+        <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+
+<style type="text/css">
+.line {
+    shape-rendering: crispEdges;
+}
+</style>
+    </head>
+
+    <body>
+        
+<div class="holywar"></div>
+
+<div class="holywar2"></div>
+
+<script>
+d3.csv('holywar.csv', function (data) {
+    var winWidth = 35,
+        textHeight = winWidth / 2,
+        top = 20,
+        svg = d3.select('.holywar')
+            .append('svg:svg')
+            .attr("height", 300)
+            .attr("width", (winWidth + 3) * data.length);   
+
+    svg.selectAll('.rect')
+        .data(data)
+        .enter()
+            .append('svg:rect')
+            .attr("width", winWidth)
+            .attr("height", winWidth / 2)
+            .attr('y', function (d, i) {
+                if (d.winner === 'byu') {
+                    return top;
+                }
+                return top + textHeight + winWidth / 2;
+            })
+            .attr("x", function (d, i) {
+                return i * (winWidth + 3);
+            })
+            .style('fill', function (d, i) {
+                if (d.winner === 'byu') {
+                    return "#000085"
+                }
+                return "#b70022"
+            });
+
+    svg.selectAll('.year')
+        .data(data)
+        .enter()
+            .append('svg:text')
+            .attr('text-anchor', 'middle')
+            .attr('font-family', 'Helvetica')
+            .attr('font-size', '12')
+            .attr('x', function (d, i) {
+                return (i + .5) * (winWidth + 3) - 1.5;
+            })
+            .attr('y', function (d, i) {
+                return top + textHeight + 12;
+            })
+            .text(function (d, i) {
+                return d.year;
+            });
+
+    svg.append('svg:text')
+        .attr('font-family', 'Helvetica')
+        .attr('font-size', '18')
+        .attr('x', 0)
+        .attr('y', 15)
+        .attr("fill", "#000085")
+        .text("BYU");
+
+    svg.append('svg:text')
+        .attr('font-family', 'Helvetica')
+        .attr('font-size', '18')
+        .attr('x', 0)
+        .attr('y', top + 2 * winWidth)
+        .attr("fill", "#b70022")
+        .text("Utah");
+
+    // take 2
+
+    var svg2 = d3.select('.holywar2')
+        .append('svg:svg')
+        .attr("height", 500)
+        .attr("width", (winWidth + 3) * data.length + 100);  
+
+    var byuWins = 0,
+        total = 0;
+
+    data.forEach(function (v, i, arr) {
+        if (v.winner === "byu") {
+            byuWins += 1;
+        }
+        total += 1;
+        v.byuRecord = byuWins / total;
+    });
+
+    var padding = 0;
+
+    var yScale = d3.scale.linear()
+        .domain([0, 1])
+        .range([300, 50]);
+
+    var line = d3.svg.line()
+        .x(function (d, i) { return padding + (i + .5) * 38; })
+        .y(function (d) { return yScale(d.byuRecord); })
+        .interpolate("step");
+
+    var yAxis = d3.svg.axis()
+        .scale(yScale)
+        .orient('left')
+        .ticks(3);
+
+    // svg2.append("g")
+    //     .attr("class", "axis")
+    //     .attr("transform", "translate(" + padding + ",0)")
+    //     .call(yAxis);
+
+    svg2.append('svg:line')
+        .attr('fill', "none")
+        .attr("stroke-width", 2)
+        .attr("stroke", "black")
+        .attr('y1', yScale(.5))
+        .attr('y2', yScale(.5))
+        .attr('x1', 0)
+        .attr('x2', padding + data.length * 38)
+
+    svg2.append("path").datum(data).attr("d", line)
+        .attr("fill", "none")
+        .attr('class', 'line')
+        .attr("stroke", "#0000bc")
+        .attr("stroke-width", 3);
+
+    svg2.append('svg:text')
+            .attr('font-family', 'Helvetica')
+            .attr('font-size', '18')
+            .attr('x', 0)
+            .attr('y', yScale(.52))
+            .text('.500 line');
+
+    svg2.append('svg:text')
+            .attr('font-family', 'Helvetica')
+            .attr('font-size', '18')
+            .attr('x', 0)
+            .attr('y', yScale(1.02))
+            .text('Perfect BYU record');
+
+    svg2.append('svg:text')
+            .attr('font-family', 'Helvetica')
+            .attr('font-size', '18')
+            .attr('x', 0)
+            .attr('y', yScale(.02))
+            .text('Perfect Utah record');
+
+    svg2.selectAll('.year')
+        .data(data)
+        .enter()
+            .append('svg:text')
+            .attr('text-anchor', 'middle')
+            .attr('font-family', 'Helvetica')
+            .attr('font-size', '12')
+            .attr('x', function (d, i) {
+                return (i + .5) * (winWidth + 3) - 1.5;
+            })
+            .attr('y', yScale(.45))
+            .text(function (d, i) {
+                return d.year;
+            });
+
+});
+</script>
+    </body>
+
+</html>

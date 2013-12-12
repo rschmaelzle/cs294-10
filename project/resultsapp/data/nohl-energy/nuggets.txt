@@ -1,0 +1,17 @@
+Natural gas was the the largest source of US domestic energy production in 2012.
+vital,vital
+
+Fossil fuels domestic energy production dwarved renewable and nuclear production in 2012.
+vital,vital
+
+Biomass was the largest source of US domestic renewable energy production in 2012.
+vital,vital
+
+In 2012, the US domestically produced more renewable energy than nuclear energy.
+vital,ok
+
+In 2012, the top three methods of energy production in the US were all fossil fuels.
+ok,ok
+
+In 2012, the US produced more nuclear energy than any individual category of renewable energy.
+ok,vital

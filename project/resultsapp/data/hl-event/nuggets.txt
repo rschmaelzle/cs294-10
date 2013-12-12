@@ -1,0 +1,32 @@
+More people remember where they were during 9/11 than any of the other historical events.
+vital,vital
+
+Nearly everyone over 8 years old at the time remembers where they were exactly during the 9/11 attacks.
+vital,vital
+
+Nearly everyone over 8 years old at the time remembers where they were exactly when JFK was assassinated.
+ok,ok
+
+Nearly everyone over 8 years old at the time remembers where they were exactly when Pearl Harbor was bombed.
+ok,ok
+
+Among the events listed, the fewest people (over 8 years old at the time) remember exactly where they were when the Berlin Wall fell.
+ok,ok
+
+Most people over 18 years old at the time remember where they were exactly when Osama was killed.
+ok,ok
+
+Most people over 8 years old at the time remember where they were exactly when the 1st man landed on the moon.
+ok,ok
+
+Most people over 8 years old at the time remember where they were exactly when the Challenger exploded.
+ok,ok
+
+Most people over 8 years old at the time remember where they were exactly when MLK was assassinated.
+ok,ok
+
+Most people over 8 years old at the time remember where they were exactly when Nixon resigned.
+ok,ok
+
+Most people over 8 years old at the time remember where they were exactly when the OKC bombing happened.
+ok,ok

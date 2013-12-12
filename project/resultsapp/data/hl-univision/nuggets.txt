@@ -1,0 +1,23 @@
+In the date range studied, Univision had more primetime viewers in the 18-49 year old range than the other major networks.
+vital,vital
+
+In the date range studied, CBS had more primetime viewers in the 2+ age range than the other major networks.
+ok,vital
+
+In the date range studied, ABC had the fewest viewers in the 18-49 year old range of the major networks.
+ok,ok
+
+In the date range studied, FOX had the fewest viewers in the 2+ age range of the major networks.
+ok,ok
+
+In the date range studied, the primetime viewership of ABC, Univision, and FOX were very close in the 2+ age range.
+ok,ok
+
+In the date range studied, the primetime viewership of FOX, NBC, and CBS were very close in the 18-49 year old range.
+ok,ok
+
+Univision had the most primetime viewers in the 18-49 demographic but finished 4th among all viewers over 2 years old.
+vital,vital
+
+CBS finished 4th in viewers in the 18-49 demographic but finished first among all viewers over 2 years old.
+ok,ok

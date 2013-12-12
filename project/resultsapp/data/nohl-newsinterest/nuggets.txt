@@ -1,0 +1,35 @@
+Over 1/3 of people are closely following the health care rollout.
+vital,vital
+
+About 1/3 of people are closely following the Philippines typhoon.
+ok,ok
+
+About 1/3 of people are closely following the US economy.
+ok,ok
+
+About 15% of people are following the NFL bullying story.
+ok,ok
+
+Around 10% of people are following the Toronto mayor's crack admission story.
+ok,ok
+
+Around 10% of people are following the statin guidelines story.
+ok,ok
+
+Around 10% of people are following the FDA trans fat ban story.
+ok,vital
+
+Of the stories listed, the health care rollout is being followed most closely.
+vital,vital
+
+Of the stories listed, the FDA trans fat ban is being followed least closely.
+ok,vital
+
+Two of the top three news stories are about domestic issues.
+ok,ok
+
+Four of the top seven news stories are about domestic issues.
+ok,vital
+
+Three of the top seven news stories regard personal health and well-being (health care rollout, statin guidelines, and FDA trans fat ban).
+vital,ok

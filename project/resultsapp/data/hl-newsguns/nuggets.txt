@@ -1,0 +1,23 @@
+In 2011, the Arizona shooting was the fifth most followed news story.
+vital,ok
+
+In 2012, two of the top 5 news stories were domestic shootings.
+vital,vital
+
+In the past two years, 3 of the most followed news stories were domestic shootings.
+vital,vital
+
+In each of the past two years, the rising price of gas/oil was one of the top 5 most followed news stories.
+ok,ok
+
+In 2012, the most followed news story was the presidential election.
+ok,vital
+
+In 2011, the most followed news story was the Japan disaster.
+ok,vital
+
+In the past two years, 2 of the most followed news stories were related to natural disasters.
+ok,ok
+
+In the past two years, many of the most followed news stories seemed to have a negative connotation.
+ok,ok

@@ -1,0 +1,29 @@
+Most Americans followed the Haiti earthquake aftermath closely.
+ok,ok
+
+Most Americans followed the Indian Ocean tsunami aftermath closely.
+ok,ok
+
+Most Americans followed the Japan tsunami aftermath closely.
+ok,ok
+
+About 1/3 of Americans followed the Philippines typhoon aftermath closely.
+vital,ok
+
+About 1/3 of Americans followed the China earthquake aftermath closely.
+ok,ok
+
+Fewer than 1/3 of Americans followed the Chile earthquake aftermath closely.
+ok,ok
+
+About a quarter of Americans followed the Burma cyclone aftermath closely.
+ok,ok
+
+About a quarter of Americans followed the Pakistan earthquake aftermath closely.
+ok,ok
+
+The Haiti earthquake was the most followed international natural distaster story by Americans in the last 8 years.
+ok,vital
+
+Fewer Americans are following the Philippines earthquake aftermath closely than followed some other recent major disasters.
+vital,vital

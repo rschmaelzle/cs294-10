@@ -1,0 +1,84 @@
+* Natalia Bilenko and Asako Miyakawa
+
+Is the goal to provide a visualization that can be explored? I'm not sure how I would use the visualization in the context of, say, a replacement for a book cover. I like the ideas, but I think the project/visualization will be more powerful if you have a more clear end goal. Exploratory visualization is nice, and could be a reasonable end goal, but if your goal is to inform someone about whether they would want to read a book, you might try to make a more specifically targeted visualization.
+
+* Peggy Chi
+
+Do you have any more information about if people prefer the videos over the static IKEA instructions? I think that static IKEA instructions are quite good. I understand the advantage of mixed media tutorials, but they may not be the most useful instructions when you're doing a manual labor task like assembling furniture. Yes, yes, people have iPads so they can have easy access to that kind of tool, but I'm still not 100% convinced that it's desirable. On the other hand, as a research/visualization project, it's very cool.
+
+* Kevin Johnson and Stephanie Tung
+
+Noble goal. As you continue in your project, I think you should try to differentiate your project from Tableau. I also think you should think about the portability argument a little more- why is it so important that the system can be used in a browser?
+
+* Sayantan
+
+In case you haven't seen it- this is a very cool visualization of a baseball game: http://statlas.co/improbable-dream-boston-red-sox-win-2013-world-series/ (the site has several visualizations like this). It's a lot more interesting to read than a basic box score. It would be cool if you could create something like this that was augmented with event data from twitter.
+
+* Stephanie Rogers, Bhavik Singh, Dennis Rong
+
+The idea sounds appealing, but what would the application be? Showing someone how you perform a particular task on the web? Or is it truly an exploratory visualization? Or, if it's for collaborative research, how does knowing exactly what your peers are doing affect the way you browse and do research?
+
+* Wendy de Heer
+
+It would be great to know how to intepret this kind of data. Knowing nothing about neuroscience, my natural question is- what are the implications of finding a pattern of stimuli to brain responses?
+
+* Aaron Baucom and Chris Echanique
+
+What if the user wants to modify or supplement the data that they extracted from the chart? It might also be interesting to allow the user to combine data from multiple charts and build a visualization from that. I'm trying to brainstorm ways that you can differentiate yourself from ReVision.
+
+* Vaidyanath Venkitasubramanian, Divya Karthikeyan
+
+What applications do you hope to enable with your visualization? Literary text visualizations are cool, but what purpose do they ultimately serve? For example, if the user wants to do topic analysis, why wouldn't they just do LDA and look at the resulting topics? What does a visualization buy you here?
+
+* Warren He, Claire Tuna
+
+Nomograms are the best. I hope you find they're useful. Bret Victor has done some work to try to give people more intuitive understandings of equations: http://worrydream.com/ExplorableExplanations/#explorableExample
+
+* Stephanie Greer
+
+In light of Jeff Heer's color work, do you think your findings will vary greatly based on demographics? This is probably an extension, but you could also look at triplets and quartets (for example, is color A closer in mood to color B or color C). This could give you additional (and different) information than what you're collecting now. But what you have now is the right place to start, I think.
+
+* Ming Jin
+
+Are there ways that the visualization will be more useful than simply reporting the results of the analysis?
+
+* Evan Sparks, Josh Rosen & Daniel Bruckner
+
+This is presuming that the deeper layers of a CNN have some human-understandable meaning. Is it possible that the deeper layers are not as important on their own, but only in the context of the rest of the model (maybe this isn't true)? If so, what can I gain by looking at the visualization and progression of one filter?
+
+* Evan Wang
+
+There's some cool related work from Maneesh and others on data-driven stylistic label placement: http://vis.berkeley.edu/papers/labellay/
+
+* Biye Jiang and Jun-Yan Zhu
+
+Cool visualizations- what insights do you hope to enable that I couldn't get from, say, looking at a grid that contains all of the drawings?
+
+* Amy Pavel
+
+How long do you think the ideal browseable/skimmable summary would be? How fast could I get the gist of a six minute long video?
+
+* Andrew Lee
+
+Woop!
+
+* Aisha Kigongo + Vanessa McAfee
+
+Visualizing the results of qualitative analysis is tricky because you're trying to summarize personal information that has come from a small number of sources (20, in your case). I like the idea of visualization what just one interview has said because it's important that a visualization doesn't present the data out of context.
+
+* JiaXian Yao
+
+Have you seen http://www.datathief.org/ ? I haven't used it, but I think Nick used it to extract data for his Graphical Overlays paper- http://vis.berkeley.edu/papers/grover/
+
+* Woody Chow
+
+I love the idea of updating a music visualization on-the-fly if the user is making mistakes or is unsure of how to play a certain chord, etc. From my (myopic) point of view, that's the killer idea that you presented, so you might want to focus on that.
+
+* Victoria Junquera
+
+It would be nice to combine visualizations of commodity flows with some data analysis/mining, so you could focus on the interesting parts of the data instead of the overall data set. Ideally, you don't just want to show someone the data, but you want to emphasize the patterns in the data. Ah, ok, you mentioned this at the end of the presentation.
+
+* Summer Kim, Brian Wong, Yang Zhao
+
+Do you have ideas what the ideal static public transportation map should look like? Destination-specific maps are great, but there's something to be said for general maps. The map of the train schedule in France is actually quite useful to get a general view of the train system (i.e., seeing fast/slow and high-frequency routes).
+
