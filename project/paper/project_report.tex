@@ -12,6 +12,7 @@
 \usepackage{times}    % comment if you want LaTeX's default font
 \usepackage{url}      % llt: nicely formatted URLs
 \usepackage{framed}
+\usepackage{mathtools}
 
 % llt: Define a global style for URLs, rather that the default one
 \makeatletter
@@ -387,7 +388,7 @@ trend has no importance, he can leave it off the list of nuggets.
     \item Marriage rates have steadily decreased since 1960.
     \item The gap in median household income between whites and blacks has grown between 1960 and 2011.
     \item The gap between whites and blacks in median household wealth peaked in the mid 2000's.
-    \item There exists a financial gap between blacks and whites."
+    \item There exists a financial gap between blacks and whites.
     \end{enumerate}
   \end{center}
   \end{framed}
@@ -395,13 +396,128 @@ trend has no importance, he can leave it off the list of nuggets.
   \label{fig:nuggets}
 \end{figure}
 
+This list of nuggets represents a set of potentially important
+statements that can be made about the visualization. However, some of
+these nuggets are likely more important than others. If the designer
+has a strong sense of the relative importance of these nuggets, he
+should assign each one a weight between 0.1 and 1.0 (here, 0 is
+reserved for completely unimportant or wrong statements, so none of
+the nuggets should have a weight of 0; more on this later).
+
+In many cases, the designer may not be able to come up with these
+weights on his own. There exist multiple reasons why this might
+happen. For example, the designer might have a sense of what the few
+most important points are, but may not know how to rank the other
+statements. In this case, we propose a method of creating weights for
+nuggets that draws on an idea from the text retrieval (TREC)
+community~\cite{lin2006will}.
+
+The designer selects $k-1$ colleagues that he trusts will be able to
+properly understand the visualization. Then the designer and his
+colleagues independently assign a rating of either 0 or 1 to each
+nugget. Here, `1' means that the statement is vitally important,
+whereas `0' means that the statement is correct, but not as important.
+These ratings are given in the context of the visualization; that is,
+the raters are rating the nuggets on how important the nuggets appear
+to be in the given visualization. For example, nugget 11, ``There
+exists a financial gap between blacks and whites'' may be a very
+important trend in the global sense, but in the visualization, the
+fact that certain gaps between blacks and whites are widening seems to
+be more important.
+
+If we start with $n$ nuggets, this procedure gives us a matrix
+$n\times k$ matrix $N$ that contains 0/1 entries, with each column
+representing a single person's ratings. To compute the weight $w_i$ of
+nugget $i$, we take
+
+\[w_i = \left( \frac{\sum_{j=1}^k N_{ij} }{\max_{s\in\{1,2,\dots,n\}} \sum_{j=1}^k N_{sj}} \right) .9 + .1 \]
+
+This guarantees that the minimum weight is at least .1, and the
+maximum weight is 1. The maximum weights needs to be 1 because later
+on, we want to consider the best possible response from a crowd worker
+to have score 1. Likewise, we want the worst possible response that
+still contains a nugget to be .1. We want completely unimportant and
+false statements to have a score of 0.
+
+So, once our system has computed the weight vector $\mathbf{w} = [w_1,
+w_2,\dots,w_n]$ our system can proceed in assigning scores to the
+crowdsourced statements. First, the designer must analyze each
+statement $r$ and create an indicator vector $\mathbf{\delta^r}$ where
+
+\[\delta^r_i = \begin{dcases*}
+    1 & : nugget $i$ appears in statement $r$\\
+    0 & : nugget $i$ is not in statement $r$
+    \end{dcases*}
+\]
+
+The score $s_r$ for statement $r$ is the computed as the weighted
+average of the included nuggets:
+
+\[s_r = \frac{\mathbf{w}^T\mathbf{\delta^r}}{\|\mathbf{\delta^r}\|_1}.
+\]
+
+Once again, notice that the best statements will have a score of 1,
+false or completely unimportant statements will have a score of 0, and
+responses that contain only unimportant nuggets will have a score of
+.1.
+
+Figure \ref{fig:scorecomp} shows the nugget assignment and score
+computation of the first two statements from Figure \ref{fig:sample}.
+
+\setcounter{MaxMatrixCols}{20}
+
+\begin{figure}[t]
+  \begin{framed}
+    From $k=2$ raters, we had
+    \[
+    N = \begin{bmatrix}
+    0 & 0 & 1 & 0 & 0 & 0 & 1 & 0 & 1 & 0 & 1 \\
+    0 & 0 & 1 & 0 & 1 & 0 & 1 & 1 & 1 & 1 & 0
+    \end{bmatrix}^T
+    \]
+
+    So the computed nuggets weights were:
+    \[\mathbf{w}=\left[0.1,0.1,1.0,0.1,0.55,0.1,1.0,0.55,1.0,0.55,0.55\right]\]
+
+    Sample of statements:
+    \begin{enumerate}
+    \item The gap in median household income, marriage rate, and
+    median household wealth between whites and blacks have all grown.
+    \begin{align*}
+    \mathbf{\delta^1} &= \left[0,0,1,0,0,0,1,0,1,0,0\right]\\
+    s_1 &= \frac{1 + 1 + 1}{1 + 1 + 1} = 1
+    \end{align*}
+
+    \item There is still a large financial gap between whites and blacks
+    \begin{align*}
+    \mathbf{\delta^2} &= \left[0,0,0,0,0,0,0,0,0,0,1\right]\\
+    s_2 &= \frac{.55}{1} = .55
+    \end{align*}
+  \end{enumerate}
+
+  \end{framed}
+  \caption{Nugget assignment and score computation of a sample of crowdsourced importance statements.}
+  \label{fig:scorecomp}
+\end{figure}
+
 \subsection{Dashboard Generation}
+
+Once the nuggets have been assigned and the scores have been computed,
+the final step is to convey this information the the designer. While
+the designer has looked over each crowdsourced statement of importance
+individually during the nugget assignment phase, the goal of our
+system is to present the data in aggregate. Figure XX shows a
+prototype dashboard for communicating the results to the designer.
+
+
 
 \section{Results}
 
 \section{Discussion}
 
 \section{Future Work}
+
+Automation on automation. NLP. Yeah.
 
 % If you want to use smaller typesetting for the reference list,
 % uncomment the following line:
