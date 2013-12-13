@@ -506,12 +506,105 @@ Once the nuggets have been assigned and the scores have been computed,
 the final step is to convey this information the the designer. While
 the designer has looked over each crowdsourced statement of importance
 individually during the nugget assignment phase, the goal of our
-system is to present the data in aggregate. Figure XX shows a
-prototype dashboard for communicating the results to the designer.
+system is to present the data in aggregate. Figure \ref{fig:dashboard}
+shows a prototype dashboard for communicating the results to the
+designer. In addition to the original visualization, the dashboard
+shows new visualizations of the results.
 
+\begin{figure*}[t]
+  \begin{center}
+    \includegraphics[width=7in]{figures/dashboard.png}
+  \end{center}
+  \caption{A prototype dashboard for communicating the aggregate statistics of the crowdsourced and scored statements of importance about the visualization.}
+  \label{fig:dashboard}
+\end{figure*}
 
+\subsubsection{Score histogram}
+
+The dashboard shows a histogram of the computed statement scores. This
+is intended to give the designer a sense of how well, on average, the
+perceived important trends of a visualization correspond to the
+important trends as determined by the designer and his colleagues. The
+average score is also reported here; a low average score indicates to
+the designer that the visualization may not be conveying the desired
+trends optimally. The designer can click on a bar to see all of the
+statements that scored in that range.
+
+\subsubsection{Response variability bar chart}
+
+This chart shows the designer the spread of the crowdsourced
+statements. Each bar represents a nugget, and the y-axis is the number
+of statements that contained that nugget. The colors of the bars
+encode the weight of the nugget, so green bars correspond to vitally
+important nuggets. The designer can use the color and distribution to
+see if viewers are focusing on important or unimportant trends in the
+visualization. If this chart has a long tail, the designer can have
+some confidence that his visualization is giving people many different
+ideas about what is most important. The designer can use the nuggets
+in the long tail to inform re-design decision. Like the score
+histogram, the designer can click on one of the bars to view the
+nugget and all statements that contained that nugget (and the scores
+of those statements).
+
+\subsubsection{Response overlap Euler diagram}
+
+The final visualization on the dashboard is a modified Euler diagram
+that shows the response overlap. An Euler diagram is similar to a Venn
+diagram, except that it does not need to show each of the $2^n$
+logically possible set intersections. Unlike a typical Euler diagram,
+the area of the circles and overlaps in this diagram are proportional
+to the set and set intersection sizes. These area-proportional
+diagrams were explored in recent work~\cite{wilkinson2012exact}, and
+our system uses a related technique and D3 layout
+library~\cite{venn2,venn1,vennlib}.
+
+This Euler diagram shows the overlap of nuggets within statements.
+Each circle represents one nugget. Overlap between two circles means
+that there are statements containing both of those nuggets. Because
+these circles and overlaps are proportional, the designer can easily
+see what nuggets are often considered together in statements of
+importance. Large overlap can reflect a few things: (1) that two
+nuggets are inherently very similar, (2) that viewers are likely to
+group certain ideas together when reporting the ``most important''
+trend, or (3) that viewers are writing too many things instead of
+focusing on just a single trend. The last point is not very important,
+because it is difficult to define exactly what we mean by one trend.
+Our system's scoring procedure is a weighted average, so it is robust
+to workers writing long, multi-nugget statements of importance.
+Finally, as the number of circles in the diagram increases, it becomes
+harder to and interpret. Our dashboard includes a slider that allows
+the designer to filter the diagram, showing only circles whose nuggets
+were in at least a given number of statements.
 
 \section{Results}
+
+\begin{figure*}[t]
+  \begin{center}
+    \includegraphics[width=7in]{figures/allvis.pdf}
+  \end{center}
+  \caption{All of the visualizations that we have tested with our methodology so far. These all come from Pew Research. The first row is an arbitrary sample of visualization. The second and third rows are bar charts without and with highlighted bars.}
+  \label{fig:allvis}
+\end{figure*}
+
+To test our methodology, we initially ran our procedure with five
+charts from Pew Research. We put ourselves in the role of the designer
+even though we did not actually do the design. The five initial
+visualizations are shown in the first row of Figure \ref{fig:allvis}
+(minus the running example visualization, Figure
+\ref{fig:racialgaps}).
+
+After running our methodology, we noticed that the graph about why
+people go to Facebook (Figure \ref{fig:allvis}, row 1, column 2) was
+getting particularly bad scores ($\mu=.44$). Nearly every crowd worker
+was claiming that the most important trend corresponded to the largest
+bar in the graph (``The most people go to Facebook to see what family
+and friends are up to'') while the chart's design includes a
+highlighted bar, implying that the important trend is that ``Around
+15\% of people go to Facebook as a source of news.'' The original
+context of the visualization on Pew Research verified that this chart
+was created with the intent of showing this trend. We hypothesized
+that the viewers were focusing on simpler trends like largest bars
+instead of potentially more subtle trends like bar highlights.
 
 \section{Discussion}
 

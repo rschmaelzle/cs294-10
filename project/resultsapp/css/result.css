@@ -56,3 +56,8 @@ body {
 select {
     width: 100%;
 }
+
+.spreadVenn .slider-selection {
+  background-color: #94adea;
+  background-image: none;
+}

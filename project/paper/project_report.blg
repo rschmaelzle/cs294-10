@@ -4,45 +4,45 @@ The top-level auxiliary file: project_report.aux
 The style file: acm-sigchi.bst
 Database file #1: project_report.bib
 Warning--to sort, need author or key in junkcharts
-You've used 11 entries,
+You've used 15 entries,
             2243 wiz_defined-function locations,
-            594 strings with 6064 characters,
-and the built_in function-call counts, 3914 in all, are:
-= -- 384
-> -- 161
+            609 strings with 6518 characters,
+and the built_in function-call counts, 4811 in all, are:
+= -- 472
+> -- 189
 < -- 0
-+ -- 69
-- -- 56
-* -- 261
-:= -- 602
-add.period$ -- 32
-call.type$ -- 11
-change.case$ -- 59
++ -- 81
+- -- 64
+* -- 299
+:= -- 750
+add.period$ -- 44
+call.type$ -- 15
+change.case$ -- 75
 chr.to.int$ -- 0
-cite$ -- 12
-duplicate$ -- 159
-empty$ -- 337
-format.name$ -- 56
-if$ -- 853
+cite$ -- 16
+duplicate$ -- 188
+empty$ -- 429
+format.name$ -- 64
+if$ -- 1047
 int.to.chr$ -- 0
-int.to.str$ -- 11
-missing$ -- 11
-newline$ -- 57
-num.names$ -- 20
-pop$ -- 82
+int.to.str$ -- 15
+missing$ -- 12
+newline$ -- 77
+num.names$ -- 28
+pop$ -- 108
 preamble$ -- 1
-purify$ -- 50
+purify$ -- 62
 quote$ -- 0
-skip$ -- 122
+skip$ -- 151
 stack$ -- 0
-substring$ -- 258
-swap$ -- 45
+substring$ -- 303
+swap$ -- 49
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 40
+type$ -- 56
 warning$ -- 1
-while$ -- 37
-width$ -- 13
-write$ -- 114
+while$ -- 47
+width$ -- 17
+write$ -- 151
 (There was 1 warning)

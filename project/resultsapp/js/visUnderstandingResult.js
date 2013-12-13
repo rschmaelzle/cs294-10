@@ -97,7 +97,7 @@
 
   SpreadVis = (function() {
     function SpreadVis(statements, nuggets, $el, callback) {
-      var barWidth, data, h, nug, padding, svg, tooltip, w, xAxis, xScale, yAxis, yScale, _i, _len, _ref,
+      var barWidth, colors, data, h, nug, padding, svg, tooltip, w, xAxis, xScale, yAxis, yScale, _i, _len, _ref,
         _this = this;
       this.statements = statements;
       this.nuggets = nuggets;
@@ -112,7 +112,8 @@
           data.push({
             count: nug.statements.length,
             nugget: nug.nugget,
-            statements: nug.statements
+            statements: nug.statements,
+            score: nug.score
           });
         }
       }
@@ -139,6 +140,7 @@
       tooltip = d3.tip().attr('class', 'd3-tip').html(function(d) {
         return d.nugget;
       }).direction('s').offset([5, 0]);
+      colors = d3.scale.ordinal().domain([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]).range(colorbrewer.RdYlGn[11]);
       svg.call(tooltip);
       svg.selectAll(".spreadBar").data(data).enter().append("svg:rect").attr("x", function(d, i) {
         return xScale(i) + 2;
@@ -146,11 +148,11 @@
         return yScale(d.count);
       }).attr("width", barWidth - 10).attr("height", function(d) {
         return yScale(0) - yScale(d.count);
-      }).style("fill", "#7a4e91").classed("spreadBar", true).on('mouseover', function(d) {
-        d3.select(this).style("fill", "#4c007e");
+      }).style("fill", function(d) {
+        return colors(Math.ceil(d.score * 10));
+      }).classed("spreadBar", true).on('mouseover', function(d) {
         return tooltip.show(d);
       }).on('mouseout', function(d) {
-        d3.select(this).style("fill", "#7a4e91");
         return tooltip.hide(d);
       }).on('click', function(d, i) {
         return _this.showStatements(d);
@@ -179,11 +181,12 @@
     };
 
     SpreadVis.prototype.renderVenn = function() {
-      var c, cString, combs, e, i, n, ns, nug, nugs, offset, offsets, offsetted, olap, olaps, overlaps, s, sets, svg, tooltip, v, vsets, _i, _j, _k, _l, _len, _len1, _len2, _len3, _ref, _ref1, _ref2,
+      var $slider, c, cString, combs, e, filterVenn, i, maxSize, n, ns, nug, nugs, offset, offsets, offsetted, olap, olaps, overlaps, s, sets, slider, svg, tooltip, v, vsets, _i, _j, _k, _l, _len, _len1, _len2, _len3, _ref, _ref1, _ref2,
         _this = this;
       sets = [];
       nugs = [];
       offsets = [];
+      maxSize = 0;
       _ref = this.nuggets;
       for (i = _i = 0, _len = _ref.length; _i < _len; i = ++_i) {
         nug = _ref[i];
@@ -194,6 +197,9 @@
             label: '',
             size: nug.statements.length
           });
+          if (nug.statements.length > maxSize) {
+            maxSize = nug.statements.length;
+          }
         }
       }
       overlaps = {};
@@ -265,13 +271,13 @@
           layoutFunction: venn.classicMDSLayout
         });
       }
-      venn.drawD3Diagram(d3.select(this.$vennEl[0]), vsets, 300, 300);
+      venn.drawD3Diagram(d3.select(this.$vennEl[0]), vsets, 380, 300);
       svg = d3.select(this.$vennEl[0]).select('svg');
       tooltip = d3.tip().attr('class', 'd3-tip').html(function(d, i) {
-        return _this.nuggets[offsets[i]].nugget;
+        return _this.nuggets[offsets[i]].nugget + ("(" + _this.nuggets[offsets[i]].statements.length + ")");
       }).direction('s').offset([5, 0]);
       svg.call(tooltip);
-      return svg.selectAll('circle').each(function(d, i) {
+      svg.selectAll('circle').each(function(d, i) {
         var circle,
           _this = this;
         circle = this;
@@ -283,6 +289,24 @@
           return d3.select(circle).attr('stroke', 'none');
         });
       });
+      filterVenn = function(val) {
+        return svg.selectAll('circle').each(function(d, i) {
+          if (d.size < val) {
+            return d3.select(this).style('display', 'none');
+          } else {
+            return d3.select(this).style('display', 'block');
+          }
+        });
+      };
+      $slider = $(document.createElement('div')).attr('class', 'sliderBox').css('width', '100%').appendTo(this.$vennEl);
+      return slider = $slider.slider({
+        min: 1,
+        max: maxSize,
+        step: 1,
+        value: 1
+      }).on('slide', function(e) {
+        return filterVenn(slider.getValue());
+      }).data('slider');
     };
 
     SpreadVis.prototype.combinations = function(ids) {

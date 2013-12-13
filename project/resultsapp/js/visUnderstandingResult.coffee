@@ -111,6 +111,7 @@ class SpreadVis
                     count: nug.statements.length
                     nugget: nug.nugget
                     statements: nug.statements
+                    score: nug.score
         data = data.sort (a, b) -> b.count - a.count
 
 
@@ -156,6 +157,10 @@ class SpreadVis
             .direction('s')
             .offset([5,0])
 
+        colors = d3.scale.ordinal()
+            .domain([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
+            .range(colorbrewer.RdYlGn[11])
+
         svg.call(tooltip)
 
         svg.selectAll(".spreadBar")
@@ -166,13 +171,15 @@ class SpreadVis
             .attr("y", (d) -> yScale(d.count))
             .attr("width", barWidth - 10)
             .attr("height", (d) -> yScale(0) - yScale(d.count))
-            .style("fill", "#7a4e91")
+            .style("fill", (d) ->
+                colors Math.ceil d.score * 10
+            )
             .classed("spreadBar", true)
             .on('mouseover', (d) ->
-                d3.select(this).style("fill", "#4c007e")
+                # d3.select(this).style("fill", "#4c007e")
                 tooltip.show(d)
             ).on('mouseout', (d) ->
-                d3.select(this).style("fill", "#7a4e91")
+                # d3.select(this).style("fill", "#7a4e91")
                 tooltip.hide(d)
             ).on('click', (d, i) =>
                 @showStatements d
@@ -212,6 +219,7 @@ class SpreadVis
         sets = []
         nugs = []
         offsets = []
+        maxSize = 0
         for nug, i in @nuggets
             if nug.statements.length > 0
                 nugs.push nug
@@ -219,6 +227,8 @@ class SpreadVis
                 sets.push
                     label: ''
                     size: nug.statements.length
+                if nug.statements.length > maxSize
+                    maxSize = nug.statements.length
 
         overlaps = {}
 
@@ -252,12 +262,13 @@ class SpreadVis
             console.log "hmm", e
             vsets = venn.venn sets, olaps, layoutFunction: venn.classicMDSLayout
 
-        venn.drawD3Diagram d3.select(@$vennEl[0]), vsets, 300, 300
+        venn.drawD3Diagram d3.select(@$vennEl[0]), vsets, 380, 300
+
 
         svg = d3.select(@$vennEl[0]).select('svg')
 
         tooltip = d3.tip().attr('class', 'd3-tip')
-            .html((d, i) => @nuggets[offsets[i]].nugget)
+            .html((d, i) => @nuggets[offsets[i]].nugget + "(#{@nuggets[offsets[i]].statements.length})")
             .direction('s')
             .offset([5,0])
 
@@ -279,6 +290,28 @@ class SpreadVis
                     )
             )
 
+
+        filterVenn = (val) ->
+            svg.selectAll('circle')
+                .each( (d, i) ->
+                    if d.size < val
+                        d3.select(this).style('display', 'none')
+                    else
+                        d3.select(this).style('display', 'block')
+                )
+
+        $slider = $(document.createElement 'div')
+            .attr('class', 'sliderBox')
+            .css('width', '100%')
+            .appendTo(@$vennEl)
+        slider = $slider.slider({
+                min: 1
+                max: maxSize
+                step: 1
+                value: 1
+        }).on('slide', (e) ->
+            filterVenn slider.getValue()
+        ).data('slider')
 
     combinations: (ids) ->
         result = []

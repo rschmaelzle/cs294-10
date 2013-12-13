@@ -37,6 +37,23 @@ Few, S.
 \newblock
   \url{http://www.perceptualedge.com/articles/visual\_business\_intelligence/the\_chartjunk\_debate.pdf}.
 
+\bibitem{venn2}
+Frederickson, B.
+\newblock {Calculating the intersection area of 3+ circles}.
+\newblock
+  \url{http://www.benfrederickson.com/2013/11/19/calculating-the-intersection-of-3-or-more-circles.html}.
+
+\bibitem{venn1}
+Frederickson, B.
+\newblock {Venn Diagrams with D3.js}.
+\newblock
+  \url{http://www.benfrederickson.com/2013/05/09/venn-diagrams-with-d3.js.html}.
+
+\bibitem{vennlib}
+Frederickson, B.
+\newblock {venn.js}.
+\newblock \url{https://github.com/benfred/venn.js}.
+
 \bibitem{isola2011makes}
 Isola, P., Xiao, J., Torralba, A., and Oliva, A.
 \newblock What makes an image memorable?
@@ -61,6 +78,13 @@ Mackinlay, J.
 Tufte, E.~R.
 \newblock {\em The visual display of quantitative information}, vol.~2.
 \newblock Graphics press Cheshire, CT, 1983.
+
+\bibitem{wilkinson2012exact}
+Wilkinson, L.
+\newblock Exact and approximate area-proportional circular venn and euler
+  diagrams.
+\newblock {\em Visualization and Computer Graphics, IEEE Transactions on 18}, 2
+  (2012), 321--331.
 
 \bibitem{willett2012strategies}
 Willett, W., Heer, J., and Agrawala, M.

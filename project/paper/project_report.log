@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  13 DEC 2013 00:27
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  13 DEC 2013 03:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -450,21 +450,21 @@ LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <8> not available
 Non-PDF special ignored!
 
 ]
-<figures/racialgaps.png, id=103, 602.25pt x 351.3125pt>
+<figures/racialgaps.png, id=115, 602.25pt x 351.3125pt>
 File: figures/racialgaps.png Graphic file (type png)
 
 <use figures/racialgaps.png>
 Package pdftex.def Info: figures/racialgaps.png used on input line 249.
 (pdftex.def)             Requested size: 240.65923pt x 140.38312pt.
 
-<figures/pipeline.png, id=105, 553.06625pt x 529.98pt>
+<figures/pipeline.png, id=117, 553.06625pt x 529.98pt>
 File: figures/pipeline.png Graphic file (type png)
 
 <use figures/pipeline.png>
 Package pdftex.def Info: figures/pipeline.png used on input line 263.
 (pdftex.def)             Requested size: 240.65923pt x 230.61221pt.
 
-<figures/instrument.png, id=107, 633.36626pt x 381.425pt>
+<figures/instrument.png, id=119, 633.36626pt x 381.425pt>
 File: figures/instrument.png Graphic file (type png)
 
 <use figures/instrument.png>
@@ -488,67 +488,40 @@ Overfull \hbox (5.3718pt too wide) detected at line 480
 \OT1/cmr/bx/n/10 w \OT1/cmr/m/n/10 = []
  []
 
-(./project_report.bbl [4])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 516.
- [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 516.
- (./project_report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 516.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 516.
-Package rerunfilecheck Info: File `project_report.out' has not changed.
-(rerunfilecheck)             Checksum: A21B1334C444C132B49C4A2D565F852E;898.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 516.
- ) 
+[4] <figures/dashboard.png, id=188, 1214.5375pt x 958.58125pt>
+File: figures/dashboard.png Graphic file (type png)
+
+<use figures/dashboard.png>
+Package pdftex.def Info: figures/dashboard.png used on input line 516.
+(pdftex.def)             Requested size: 505.89pt x 399.26648pt.
+
+<figures/allvis.pdf, id=193, 505.89pt x 410.86801pt>
+File: figures/allvis.pdf Graphic file (type pdf)
+ <use figures/allvis.pdf>
+Package pdftex.def Info: figures/allvis.pdf used on input line 583.
+(pdftex.def)             Requested size: 505.89pt x 410.87326pt.
+
+(./project_report.bbl [5]
+Overfull \hbox (16.51778pt too wide) in paragraph at lines 41--45
+\OT1/pcr/b/n/8 calculating-[]the-[]intersection-[]of-[]3-[]or-[]more-[]circles 
+. 
+ []
+
+[6
+! pdfTeX error (ext4): \pdfendlink ended up in different nesting level than \pd
+fstartlink.
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.62 
+     
+
+ 
 Here is how much of TeX's memory you used:
- 6953 strings out of 493315
- 101056 string characters out of 6137904
- 200247 words of memory out of 5000000
- 10208 multiletter control sequences out of 15000+600000
- 38474 words of font info for 88 fonts, out of 8000000 for 9000
+ 6978 strings out of 493315
+ 101431 string characters out of 6137904
+ 200800 words of memory out of 5000000
+ 10222 multiletter control sequences out of 15000+600000
+ 39691 words of font info for 89 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 41i,11n,30p,376b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{section*.19} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.18} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.17} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.16} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.11} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.5} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.4} has been referenced but does not exist,
- replaced by a fixed one
-
-{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
-live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texl
-ive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/local/texliv
-e/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive
-/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/
-2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/20
-13/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2013
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2013/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2013/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2013/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2013/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2013/texmf-dist
-/fonts/type1/urw/courier/ucrb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/t
-ype1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/ur
-w/times/utmb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/ut
-mbi8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-</usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on project_report.pdf (5 pages, 339096 bytes).
-PDF statistics:
- 263 PDF objects out of 1000 (max. 8388607)
- 232 compressed objects within 3 object streams
- 68 named destinations out of 1000 (max. 500000)
- 144 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 41i,11n,30p,373b,429s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

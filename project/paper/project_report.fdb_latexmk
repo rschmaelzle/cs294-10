@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex project_report"] 1386921827 "project_report.aux" "project_report.bbl" "project_report" 1386923227
+["bibtex project_report"] 1386934641 "project_report.aux" "project_report.bbl" "project_report" 1386934641
   "./acm-sigchi.bst" 1313101014 20072 e6117c8e1df770982b2669fe3a5732f1 ""
-  "project_report.aux" 1386923226 4802 2f50285b110b66f02e2b1230ae1745c8 ""
+  "project_report.aux" 1386934640 5523 7c419c26aa601c6a0842727ca4484644 ""
   "project_report.bcf" 0 -1 0 ""
-  "project_report.bib" 1386914033 7539 daaa1b370c5359d869ea871cba187e47 ""
+  "project_report.bib" 1386927975 8071 a8578211b8b67b27df743d8b434f0be5 ""
   (generated)
   "project_report.bbl"
   "project_report.blg"
-["pdflatex"] 1386923225 "project_report.tex" "project_report.pdf" "project_report" 1386923227
+["pdflatex"] 1386934639 "project_report.tex" "project_report.pdf" "project_report" 1386934641
   "/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii" 1337017135 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2013/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1284331290 1458 43ab4710dc82f3edeabecd0d099626b2 ""
   "/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty" 1303254447 8237 52810bdb4db2270e717422560a104aea ""
@@ -55,13 +55,15 @@
   "/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/times.sty" 1156702453 857 6c716f26c5eadfb81029fcd6ce2d45e6 ""
   "/usr/local/texlive/2013/texmf-dist/tex/latex/tools/calc.sty" 1254151720 10075 18f0ccff816231e9905cd2b3a482a622 ""
   "/usr/local/texlive/2013/texmf-dist/tex/latex/url/url.sty" 1264379145 21932 e3a9cf32ee9b853b42be14c2f25b873c ""
+  "figures/allvis.pdf" 1386930893 1353872 bb7fdb90517d079bde7d173dba4278f9 ""
+  "figures/dashboard.png" 1386934193 160395 0f0948aeab4e268bc91b2032bc0f50bc ""
   "figures/instrument.png" 1386910770 64920 c1cd9a586c5201b4f1df0fbbdfa35dce ""
   "figures/pipeline.png" 1386909436 27716 eecf9fb72f9681943b8925d4ed7c5049 ""
   "figures/racialgaps.png" 1385320088 95285 3cb01d5973ab89941ae7f28b224a54fe ""
-  "project_report.aux" 1386923226 4802 2f50285b110b66f02e2b1230ae1745c8 ""
-  "project_report.bbl" 1386921827 2675 21809f014c5096285b49ec895284bb6c "bibtex project_report"
-  "project_report.out" 1386923226 898 a21b1334c444c132b49c4a2d565f852e ""
-  "project_report.tex" 1386923224 22705 0e03344be0d9271827d0bed1a0bf10a1 ""
+  "project_report.aux" 1386934638 6284 50d940dcebc55f2cd795fd5d1a1e7f82 ""
+  "project_report.bbl" 1386934641 3388 907898d1dbb39f5660831cbe2ec60d9f "bibtex project_report"
+  "project_report.out" 1386934640 1120 6078259ae830d67507fbde9ae4fb117e ""
+  "project_report.tex" 1386934629 28295 a6ecfc672e6b4ab6ed6cf5a703d50f5f ""
   "sigchi.cls" 1343505820 53623 9ed26cb762d650eb31f75d46b6a699b2 ""
   (generated)
   "project_report.out"
