@@ -2,47 +2,47 @@ This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: project_report.aux
 The style file: acm-sigchi.bst
-I found no \citation commands---while reading file project_report.aux
-Database file #1: sample.bib
-You've used 0 entries,
+Database file #1: project_report.bib
+Warning--to sort, need author or key in junkcharts
+You've used 11 entries,
             2243 wiz_defined-function locations,
-            524 strings with 3897 characters,
-and the built_in function-call counts, 18 in all, are:
-= -- 0
-> -- 0
+            594 strings with 6064 characters,
+and the built_in function-call counts, 3914 in all, are:
+= -- 384
+> -- 161
 < -- 0
-+ -- 0
-- -- 0
-* -- 2
-:= -- 7
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
++ -- 69
+- -- 56
+* -- 261
+:= -- 602
+add.period$ -- 32
+call.type$ -- 11
+change.case$ -- 59
 chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
+cite$ -- 12
+duplicate$ -- 159
+empty$ -- 337
+format.name$ -- 56
+if$ -- 853
 int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 3
-num.names$ -- 0
-pop$ -- 0
+int.to.str$ -- 11
+missing$ -- 11
+newline$ -- 57
+num.names$ -- 20
+pop$ -- 82
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 50
 quote$ -- 0
-skip$ -- 1
+skip$ -- 122
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
+substring$ -- 258
+swap$ -- 45
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
-warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 2
-(There was 1 error message)
+type$ -- 40
+warning$ -- 1
+while$ -- 37
+width$ -- 13
+write$ -- 114
+(There was 1 warning)

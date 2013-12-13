@@ -157,11 +157,7 @@
       });
       svg.append("g").attr("class", "axis").attr("transform", "translate(0," + (h - padding) + ")").call(xAxis);
       svg.append("g").attr("class", "axis").attr("transform", "translate(" + padding + ",0)").call(yAxis);
-      try {
-        this.renderVenn();
-      } catch (_error) {
-        this.$el.find('.venn').remove();
-      }
+      this.renderVenn();
       this.callback();
     }
 
@@ -195,7 +191,7 @@
           nugs.push(nug);
           offsets.push(i);
           sets.push({
-            label: "",
+            label: '',
             size: nug.statements.length
           });
         }
@@ -242,24 +238,29 @@
       olaps = [];
       for (olap in overlaps) {
         v = overlaps[olap];
-        olaps.push({
-          sets: (function() {
-            var _len4, _m, _ref3, _results;
-            _ref3 = olap.split(',');
-            _results = [];
-            for (_m = 0, _len4 = _ref3.length; _m < _len4; _m++) {
-              i = _ref3[_m];
-              _results.push(parseInt(i));
-            }
-            return _results;
-          })(),
-          size: v
-        });
+        if (v !== 0) {
+          olaps.push({
+            sets: (function() {
+              var _len4, _m, _ref3, _results;
+              _ref3 = olap.split(',');
+              _results = [];
+              for (_m = 0, _len4 = _ref3.length; _m < _len4; _m++) {
+                i = _ref3[_m];
+                _results.push(parseInt(i));
+              }
+              return _results;
+            })(),
+            size: v
+          });
+        }
       }
+      console.log("sets", sets);
+      console.log("olaps", olaps);
       try {
         vsets = venn.venn(sets, olaps);
       } catch (_error) {
         e = _error;
+        console.log("hmm", e);
         vsets = venn.venn(sets, olaps, {
           layoutFunction: venn.classicMDSLayout
         });

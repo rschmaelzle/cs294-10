@@ -169,7 +169,7 @@
             overlap.sort(sortOrder);
 
             if (overlap.length === 0) {
-                throw "Need overlap information for set " + set;
+                throw "Need overlap information for set (label " + set.label + ', size ' + set.size + ')';
             }
 
             var points = [];

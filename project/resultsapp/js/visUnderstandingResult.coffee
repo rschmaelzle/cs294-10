@@ -188,10 +188,9 @@ class SpreadVis
             .attr("transform", "translate(" + padding + ",0)")
             .call(yAxis)
 
-        try
-            @renderVenn()
-        catch
-            @$el.find('.venn').remove()
+        @renderVenn()
+        # catch
+            # @$el.find('.venn').remove()
 
         @callback()
 
@@ -218,7 +217,7 @@ class SpreadVis
                 nugs.push nug
                 offsets.push i
                 sets.push
-                    label: ""
+                    label: ''
                     size: nug.statements.length
 
         overlaps = {}
@@ -239,13 +238,18 @@ class SpreadVis
 
         olaps = []
         for olap, v of overlaps
-            olaps.push
-                sets: (parseInt(i) for i in olap.split ',')
-                size: v
+            if v isnt 0
+                olaps.push
+                    sets: (parseInt(i) for i in olap.split ',')
+                    size: v
+
+        console.log "sets", sets
+        console.log "olaps", olaps
 
         try
             vsets = venn.venn sets, olaps
         catch e
+            console.log "hmm", e
             vsets = venn.venn sets, olaps, layoutFunction: venn.classicMDSLayout
 
         venn.drawD3Diagram d3.select(@$vennEl[0]), vsets, 300, 300

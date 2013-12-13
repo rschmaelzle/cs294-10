@@ -1,3 +1,71 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{10}
+
+\bibitem{junkcharts}
+{8 Red Flags about the "Useful chartjunk" paper}.
+\newblock
+  \url{http://junkcharts.typepad.com/junk\_charts/2010/05/8-red-flags-about-the-useful-chartjunk-paper.html}.
+
+\bibitem{bateman2010useful}
+Bateman, S., Mandryk, R.~L., Gutwin, C., Genest, A., McDine, D., and Brooks, C.
+\newblock Useful junk?: the effects of visual embellishment on comprehension
+  and memorability of charts.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, ACM (2010), 2573--2582.
+
+\bibitem{borkin2013makes}
+Borkin, M.~A., Vo, A.~A., Bylinskii, Z., Isola, P., Sunkavalli, S., Oliva, A.,
+  and Pfister, H.
+\newblock What makes a visualization memorable?
+\newblock {\em Visualization and Computer Graphics, IEEE Transactions on 19},
+  12 (2013), 2306--2315.
+
+\bibitem{Cleveland1985}
+Cleveland, W.~S.
+\newblock {\em The elements of graphing data}.
+\newblock Wadsworth Publ. Co., Belmont, CA, USA, 1985.
+
+\bibitem{Cleveland1984}
+Cleveland, W.~S., and McGill, R.
+\newblock {Graphical Perception: Theory, Experimentation, and Application to
+  the Development of Graphical Methods}.
+\newblock {\em Journal of the American Statistical Association 79}, 387 (Sept.
+  1984), 531.
+
+\bibitem{Few}
+Few, S.
+\newblock {The Chartjunk Debate: A Close Examination of Recent Findings}.
+\newblock
+  \url{http://www.perceptualedge.com/articles/visual\_business\_intelligence/the\_chartjunk\_debate.pdf}.
+
+\bibitem{isola2011makes}
+Isola, P., Xiao, J., Torralba, A., and Oliva, A.
+\newblock What makes an image memorable?
+\newblock In {\em Computer Vision and Pattern Recognition (CVPR), 2011 IEEE
+  Conference on}, IEEE (2011), 145--152.
+
+\bibitem{lin2006will}
+Lin, J., and Demner-Fushman, D.
+\newblock Will pyramids built of nuggets topple over?
+\newblock In {\em Proceedings of the main conference on Human Language
+  Technology Conference of the North American Chapter of the Association of
+  Computational Linguistics}, Association for Computational Linguistics (2006),
+  383--390.
+
+\bibitem{Mackinlay1987}
+Mackinlay, J.
+\newblock {Automating the design of graphical presentations of relational
+  information}.
+\newblock {\em ACM Transactions on Graphics (TOG) 5}, 2 (1986), 110--141.
+
+\bibitem{tufte1983visual}
+Tufte, E.~R.
+\newblock {\em The visual display of quantitative information}, vol.~2.
+\newblock Graphics press Cheshire, CT, 1983.
+
+\bibitem{willett2012strategies}
+Willett, W., Heer, J., and Agrawala, M.
+\newblock Strategies for crowdsourcing social data analysis.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, ACM (2012), 227--236.
 
 \end{thebibliography}
